@@ -1,4 +1,4 @@
-# Systems with Zero Computers
+# Zero Computers
 
 ## Overview
 
@@ -67,44 +67,44 @@ This electromagnetic foundation enables all the computational power we take for 
 
 ### Encoding Information in Binary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7rd77bWIgRs?si=kMd0zQXktxguUYcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=7rd77bWIgRs}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YuUep2Lb6sU?si=9LhyX8AL51fXMEZu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=YuUep2Lb6sU}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dFr-dCSFbJU?si=DVpOb6dS1oQ86h_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=dFr-dCSFbJU}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1GSjbWt0c9M?si=FpmXw89NPZBsG3ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=1GSjbWt0c9M}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBKBKfikLbo?si=NDO-FgHHLLdt5_Si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=gBKBKfikLbo}}
 
 ### Binary (and Booleans)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LpuPe81bc2w?si=Gh_ZS5prOIFD5qIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=LpuPe81bc2w}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VLflTjd3lWA?si=zvW3X5IyAy6xCjTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=VLflTjd3lWA}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FFDMzbrEXaE?si=K2tjDvdTnIP7jj1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=FFDMzbrEXaE}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gFXW92O5vFg?si=oWuU6xMeu4VWiEWd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=gFXW92O5vFg}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E5V9zBBAfWM?si=sR81mqsyN8G3mh7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=E5V9zBBAfWM}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/INEtYZqtjTo?si=_W5dKhdMu0T_FH-K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=INEtYZqtjTo}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UvI-AMAtrvE?si=sSVcDewFbkid8EG6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=UvI-AMAtrvE}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gI-qXk7XojA?si=KS-YWuJ0zVHJVuA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=gI-qXk7XojA}}
 
 ### Electricity
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xpk67YzOn5w?si=xe3SfsDUNxsz_ACn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=Xpk67YzOn5w}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FU_YFpfDqqA?si=6ha9ALIIWIghenJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=FU_YFpfDqqA}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I0-izyq6q5s?si=FE7D4Dru0BJ0rRvL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=I0-izyq6q5s}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bHIhgxav9LY?si=g9BGO46f-wGtT5Lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=bHIhgxav9LY}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iph500cPK28?si=6ThaCAWBsR3zlDTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=iph500cPK28}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oI_X2cMHNe0?si=BXNyQeTtEQAz9vOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{YouTube:https://www.youtube.com/watch?v=oI_X2cMHNe0}}

@@ -6,6 +6,8 @@ concept_map:
           - "questions/connected_society/list-copyright-holder-rights.yml"
           - "questions/connected_society/list-fair-use-factors.yml"
           - "questions/connected_society/list-cyberbully-techniques.yml"
+          - "questions/connected_society/discuss-ai-generated-content-impact.yml"
+          - "questions/connected_society/discuss-ai-algorithm-information-shaping.yml"
       - name: "Collaboration"
         exam_questions:
           - "questions/connected_society/explain-six-degrees-separation.yml"

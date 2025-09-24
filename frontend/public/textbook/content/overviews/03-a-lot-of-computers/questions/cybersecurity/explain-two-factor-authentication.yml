@@ -1,6 +1,17 @@
 id: 7
 question: "Explain what two-factor authentication is"
 answer: "Two-factor authentication (2FA) is a security method that requires two different forms of verification to access an account, rather than just a password. The two factors typically include something you know (like a password) and something you have (like your phone or a security token). For example, after entering your password, you might receive a text message with a code to enter, or use an authenticator app to generate a temporary code. This makes accounts much more secure because even if someone steals your password, they would still need access to your second factor (like your phone) to log in."
+
+answer_kindergarten: "🔐 Two-factor authentication is like having two locks on your treasure chest instead of just one! First, you need to know the secret password (that's lock #1). But that's not enough - you also need something special, like a magic key that only you have (that's lock #2). Even if a bad guy finds out your password, they can't get your treasure because they don't have your special magic key!"
+
+answer_3rd_grade: "📱 Imagine your online account is like your house, and you want to make sure only you can get in. Two-factor authentication is like having both a regular key AND a special doorbell code. First, you use your regular key (your password). Then, your phone buzzes with a special number that you have to type in too. This way, even if someone steals your key, they can't get in because they don't have your phone to get the special number!"
+
+answer_7th_grade: "🛡️ Two-factor authentication (2FA) adds an extra security layer beyond just passwords. It uses two categories: something you know (password) and something you have (phone, security key). After entering your password, you get a temporary code via text, email, or an authenticator app like Google Authenticator. Some systems also use something you are (fingerprint, face recognition). This prevents account theft even if your password is compromised, since hackers would need physical access to your second factor."
+
+answer_high_school: "🔒 Two-factor authentication implements multi-factor authentication (MFA) using multiple authentication factors: knowledge factors (passwords, PINs), possession factors (smartphones, hardware tokens), and inherence factors (biometrics). Common implementations include SMS codes, TOTP (Time-based One-Time Passwords) via apps like Authy, hardware tokens like YubiKey, and push notifications. 2FA significantly reduces account compromise risk, with SMS being convenient but vulnerable to SIM swapping, while hardware tokens provide the highest security."
+
+answer_undergraduate: "🔐 Two-factor authentication leverages the principle of defense in depth by requiring evidence from multiple authentication factor categories. TOTP algorithms (RFC 6238) generate time-synchronized codes using HMAC-SHA1, while FIDO2/WebAuthn standards enable phishing-resistant authentication via public-key cryptography. SMS-based 2FA suffers from SS7 vulnerabilities and SIM swapping attacks. Modern implementations include adaptive authentication, risk-based challenges, and backup codes for account recovery, balancing security with usability across diverse user populations and threat models."
+
 vocab_answer: 
   - word: "two-factor authentication"
     definition: "Security method requiring two different types of verification to access an account"
@@ -10,6 +21,13 @@ vocab_answer:
     definition: "Physical or digital device that generates codes for authentication"
   - word: "authenticator app"
     definition: "Mobile application that generates temporary codes for two-factor authentication"
+  - word: "TOTP"
+    definition: "Time-based One-Time Password algorithm that generates temporary codes"
+  - word: "SIM swapping"
+    definition: "Attack where criminals transfer your phone number to their device"
+  - word: "biometrics"
+    definition: "Authentication using physical characteristics like fingerprints or face recognition"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"

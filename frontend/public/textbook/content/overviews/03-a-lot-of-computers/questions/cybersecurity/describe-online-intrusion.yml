@@ -1,6 +1,17 @@
 id: 12
 question: "Describe how an online intrusion takes place"
 answer: "An online intrusion typically follows these steps: 1) Reconnaissance - attackers gather information about the target (through social media, company websites, or network scanning), 2) Initial access - using exploits like phishing emails, malware, or exploiting software vulnerabilities to gain entry, 3) Privilege escalation - expanding access from limited user accounts to administrative control, 4) Persistence - installing backdoors or rootkits to maintain access even after discovery, 5) Data collection - searching for valuable information like passwords, financial data, or trade secrets, and 6) Exfiltration - secretly copying and removing stolen data from the system. Throughout this process, attackers try to avoid detection by security systems and administrators."
+
+answer_kindergarten: "🕵️ Bad computer people break into computers like burglars break into houses! First, they **look around** to learn about the computer (like a burglar watching a house). Then they **find a way in** by tricking people or finding an unlocked door. Once inside, they **try to get into more rooms** by finding keys or passwords. They **hide** so no one knows they're there, like hiding under the bed. Then they **look for valuable things** like money information or secrets. Finally, they **steal the valuable things** and sneak them out. Just like house burglars, computer burglars try not to get caught!"
+
+answer_3rd_grade: "🏠 Online intrusions work like digital break-ins with 6 main steps: 1) **Scouting** - Hackers research their target by looking at websites and social media, like a thief checking if anyone's home, 2) **Breaking In** - They use tricks like fake emails or find weaknesses in software to get inside, 3) **Getting More Access** - Once in with a basic account, they try to get administrator powers (like finding the master key), 4) **Staying Hidden** - They install secret programs so they can come back later even if discovered, 5) **Searching for Treasure** - They hunt for valuable data like credit cards or personal information, 6) **Stealing the Goods** - They copy and secretly remove the valuable information. Security software tries to catch them, but skilled hackers are good at hiding!"
+
+answer_7th_grade: "🎯 Cyber intrusions follow a systematic attack methodology called the \"cyber kill chain\": 1) **Reconnaissance** - Attackers use OSINT (open source intelligence) to gather target information from social media, company websites, and public databases, 2) **Weaponization & Delivery** - They create and deliver attack vectors like malicious email attachments, infected USB drives, or exploit kits targeting software vulnerabilities, 3) **Exploitation** - Initial compromise occurs through successful phishing, drive-by downloads, or zero-day exploits, 4) **Installation & Persistence** - Malware, backdoors, or rootkits are installed to maintain access and survive system reboots, 5) **Command & Control** - Attackers establish communication channels with compromised systems for remote control, 6) **Actions on Objectives** - Data theft, system destruction, or other malicious goals are executed while evading detection through encryption and anti-forensics techniques."
+
+answer_high_school: "⚔️ Advanced Persistent Threats (APTs) employ sophisticated multi-stage intrusion methodologies: 1) **Intelligence Gathering** - Comprehensive reconnaissance using social engineering, network scanning, vulnerability assessments, and supply chain analysis to identify attack vectors, 2) **Initial Compromise** - Multi-vector attacks combining spear phishing, watering hole attacks, or supply chain compromises to establish initial footholds, 3) **Lateral Movement** - Privilege escalation using credential dumping, pass-the-hash attacks, or exploiting internal vulnerabilities to expand network access, 4) **Persistence Mechanisms** - Installing advanced malware, modifying system configurations, or compromising legitimate administrative tools to maintain long-term access, 5) **Data Discovery & Collection** - Systematic enumeration of network resources, sensitive data identification, and staging for exfiltration, 6) **Exfiltration & Impact** - Covert data extraction using encrypted channels, DNS tunneling, or compromised legitimate services while potentially deploying destructive payloads or maintaining access for future operations."
+
+answer_undergraduate: "🔬 Modern cyber intrusion campaigns leverage advanced adversarial techniques following frameworks like MITRE ATT&CK: 1) **Reconnaissance & Initial Access** - Multisource intelligence gathering combining HUMINT, SIGINT, and OSINT with sophisticated delivery mechanisms including supply chain compromises, zero-day exploits, and social engineering campaigns targeting specific organizational vulnerabilities, 2) **Execution & Persistence** - Fileless malware, living-off-the-land techniques, and legitimate administrative tool abuse to establish persistent access while evading endpoint detection and response (EDR) systems, 3) **Privilege Escalation & Defense Evasion** - Kernel exploits, token manipulation, and process injection techniques combined with anti-forensics capabilities including timestomping, log deletion, and rootkit deployment, 4) **Discovery & Lateral Movement** - Network enumeration using legitimate protocols, credential harvesting through memory dumps and LSASS manipulation, and east-west movement using administrative shares and remote service exploitation, 5) **Collection & Command/Control** - Automated data discovery and classification, encrypted C2 communications using domain generation algorithms or legitimate cloud services, and covert channel establishment, 6) **Exfiltration & Impact** - Multi-stage data exfiltration using steganography, DNS tunneling, or legitimate file-sharing services, potentially followed by destructive attacks or ransomware deployment designed to obscure primary intelligence objectives."
+
 vocab_answer: 
   - word: "reconnaissance"
     definition: "Information gathering phase where attackers research their target before attacking"
@@ -12,6 +23,17 @@ vocab_answer:
     definition: "Unauthorized copying and removal of data from a computer system"
   - word: "phishing"
     definition: "Fraudulent attempts to obtain sensitive information by impersonating trustworthy entities"
+  - word: "persistence"
+    definition: "Maintaining unauthorized access to a system over time, even after discovery attempts"
+  - word: "lateral movement"
+    definition: "Moving through a network after initial compromise to access additional systems"
+  - word: "zero-day exploit"
+    definition: "Attack using previously unknown software vulnerabilities"
+  - word: "Advanced Persistent Threat (APT)"
+    definition: "Sophisticated, long-term cyber attack campaign typically by nation-states or organized groups"
+  - word: "MITRE ATT&CK"
+    definition: "Framework for understanding and categorizing cyber adversary tactics, techniques, and procedures"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"

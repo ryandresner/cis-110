@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import { getAssetUrl } from '../utils/paths';
 import './WikiPage.css';
 
 // Custom link component for internal wiki links
@@ -42,7 +43,7 @@ function WikiPage() {
 
   // Default to index if no path provided
   const wikiPath = path || 'index';
-  const markdownUrl = `/wiki/${wikiPath}.md`;
+  const markdownUrl = getAssetUrl(`wiki/${wikiPath}.md`);
 
   useEffect(() => {
     const fetchMarkdown = async () => {
@@ -55,15 +56,15 @@ function WikiPage() {
         
         // For 'index' path, try /wiki/index.md directly
         if (wikiPath === 'index') {
-          const url = `/wiki/index.md`;
+          const url = getAssetUrl(`wiki/index.md`);
           attemptedUrls.push(url);
           response = await fetch(url);
         } else {
           // Strategy: Try multiple URL patterns to handle both folder and direct file links
           // Try direct file first (more common), then folder with index.md
           const urlsToTry = [
-            `/wiki/${wikiPath}.md`,         // For direct file links like /wiki/content/overviews/01-hardware-how-we-got-physics-to-do-math-r
-            `/wiki/${wikiPath}/index.md`   // For folder-style links like /wiki/hardware
+            getAssetUrl(`wiki/${wikiPath}.md`),         // For direct file links like /wiki/content/overviews/01-hardware-how-we-got-physics-to-do-math-r
+            getAssetUrl(`wiki/${wikiPath}/index.md`)   // For folder-style links like /wiki/hardware
           ];
           
           // Try each URL until we find one that works

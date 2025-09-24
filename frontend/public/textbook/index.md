@@ -35,7 +35,7 @@ Meta:
 - [**Zero Computers**](/textbook/content/overviews/00-zero-computers)
 - [**One Computer**](/textbook/content/overviews/01-one-computer)
 - [**A Few Computers**](/textbook/content/overviews/02-a-few-computers)
-- [**Lot of Computers**](/textbook/content/overviews/03-a-lot-of-computers)
+- [**Lots of Computers**](/textbook/content/overviews/03-a-lot-of-computers)
 
 ## Other Helpful Links
 

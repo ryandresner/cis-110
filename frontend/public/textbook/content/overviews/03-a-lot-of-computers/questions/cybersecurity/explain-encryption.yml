@@ -1,6 +1,17 @@
 id: 6
 question: "Explain what encryption is"
 answer: "Encryption is the process of converting readable information (plaintext) into an unreadable format (ciphertext) using mathematical algorithms and secret keys. Only people with the correct decryption key can convert the encrypted data back to its original, readable form. Encryption protects sensitive information like passwords, credit card numbers, and personal messages when they are stored on devices or transmitted over networks. Common examples include HTTPS websites (which encrypt data between your browser and the website) and encrypted messaging apps that protect your conversations from being read by others."
+
+answer_kindergarten: "🔒 Encryption is like putting your secrets in a magic box with a special lock! When you write a secret message and put it in the magic box, it gets all jumbled up so no one else can read it. Only someone with the special key can unlock the box and read your message the right way. It's like having a secret code that only you and your best friend know!"
+
+answer_3rd_grade: "📝 Encryption is like writing in a secret code! Imagine you want to send a note that says 'Meet me at the playground' but you don't want anyone else to understand it. Encryption changes it into something like 'Nffu nf bu uif qmbzhspvoe' - it looks like nonsense! Only someone with the decoder ring (the key) can change it back to the real message. This keeps your secrets safe when sending messages on the internet."
+
+answer_7th_grade: "🔐 Encryption is a cybersecurity method that scrambles data using mathematical formulas called algorithms. When you type your password or send a message, encryption software converts it into a jumbled code that looks random. For example, 'Hello World' might become 'Uryyb Jbeyq' (using a simple Caesar cipher). Only computers with the correct decryption key can unscramble the code back to the original message. This protects your private information from hackers who might intercept it."
+
+answer_high_school: "🛡️ Encryption uses cryptographic algorithms to transform plaintext into ciphertext, making data unreadable without the proper decryption key. Modern encryption employs complex mathematical operations like AES (Advanced Encryption Standard) with 128, 192, or 256-bit keys. There are two main types: symmetric encryption (same key for encryption/decryption) and asymmetric encryption (public/private key pairs). HTTPS websites use TLS encryption to create secure channels, while end-to-end encryption in messaging apps ensures only sender and recipient can read messages."
+
+answer_undergraduate: "🧮 Encryption leverages computational complexity theory and number theory to create cryptographically secure transformations. Symmetric algorithms like AES use substitution-permutation networks, while asymmetric systems like RSA rely on mathematical problems like integer factorization. Modern implementations include perfect forward secrecy, authenticated encryption (GCM mode), and post-quantum cryptography research. The security depends on key length, algorithm strength, implementation quality, and protection against side-channel attacks. Applications range from disk encryption (BitLocker, FileVault) to secure communications (Signal Protocol, TLS 1.3)."
+
 vocab_answer: 
   - word: "encryption"
     definition: "Process of converting readable data into an unreadable format to protect it"
@@ -12,6 +23,13 @@ vocab_answer:
     definition: "Secret code needed to convert encrypted data back to readable form"
   - word: "HTTPS"
     definition: "Secure version of HTTP that encrypts data between browsers and websites"
+  - word: "algorithm"
+    definition: "Mathematical formula or set of rules used to encrypt and decrypt data"
+  - word: "AES"
+    definition: "Advanced Encryption Standard, a widely-used symmetric encryption algorithm"
+  - word: "end-to-end encryption"
+    definition: "Encryption where only the sender and intended recipient can read messages"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"

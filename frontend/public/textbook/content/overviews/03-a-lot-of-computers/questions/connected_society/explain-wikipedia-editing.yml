@@ -1,6 +1,17 @@
 id: 4
 question: "Explain how Wikipedia articles are written and edited"
 answer: "Wikipedia articles are created and maintained through collaborative editing by volunteers worldwide. Anyone can create an account and edit most articles directly through their web browser. Editors add content, fix errors, update information, and cite reliable sources. All changes are tracked in a revision history, and controversial edits can be discussed on article talk pages. Wikipedia has policies requiring neutral point of view, verifiable information from reliable sources, and no original research. More experienced editors and administrators help maintain quality by reviewing changes, protecting important articles from vandalism, and resolving disputes through community discussion and consensus."
+
+answer_kindergarten: "📚 Wikipedia is like a giant book that everyone in the world can help write! When you want to add something or fix a mistake, you can just click a button and start typing. It's like having a class where everyone helps write the best story together. If someone writes something wrong, other people can fix it. Everyone works together to make sure the information is correct and helpful!"
+
+answer_3rd_grade: "✏️ Wikipedia works like a big group project where millions of people help write articles about everything! Anyone can edit an article by clicking the 'edit' button and making changes. But there are rules: you have to tell the truth, use good sources (like books and newspapers), and be fair to all sides. If people disagree about something, they talk about it on a special discussion page until they agree. Smart editors check the changes to make sure everything is accurate."
+
+answer_7th_grade: "🌐 Wikipedia operates on a wiki model where registered users can edit articles collaboratively. Editors must follow core policies: neutral point of view (NPOV), verifiability through reliable sources, and no original research. Every edit is recorded in a revision history, allowing changes to be tracked and reverted if necessary. Talk pages facilitate discussion about controversial topics. Experienced editors and administrators monitor changes, fight vandalism, and enforce policies through community consensus rather than top-down authority."
+
+answer_high_school: "📖 Wikipedia exemplifies crowdsourced knowledge creation through its open editing model. The platform uses MediaWiki software enabling real-time collaborative editing with version control. Content policies ensure encyclopedic quality: verifiability requires citations to reliable secondary sources, NPOV mandates balanced coverage, and original research is prohibited. The community self-regulates through watchlists, recent changes patrol, anti-vandalism tools, and dispute resolution processes. Administrative actions require community consensus, demonstrated through discussion and !voting processes that evaluate arguments rather than simple vote counting."
+
+answer_undergraduate: "🔬 Wikipedia represents a paradigmatic example of commons-based peer production, leveraging network effects and distributed cognition for knowledge creation. The editing ecosystem includes automated bots for maintenance tasks, semi-protection mechanisms for controversial articles, and sophisticated conflict resolution hierarchies from talk pages to arbitration committees. Quality assessment involves Featured Article criteria, Good Article reviews, and systematic bias identification. The platform demonstrates how large-scale coordination can emerge from individual contributions without centralized control, though concerns persist regarding systemic bias, expert participation rates, and the digital divide's impact on content representation."
+
 vocab_answer: 
   - word: "collaborative editing"
     definition: "Process where multiple people work together to create and improve written content"
@@ -12,6 +23,13 @@ vocab_answer:
     definition: "Published materials with a reputation for accuracy and fact-checking"
   - word: "consensus"
     definition: "General agreement reached through discussion among community members"
+  - word: "wiki"
+    definition: "Website that allows collaborative editing of content by multiple users"
+  - word: "vandalism"
+    definition: "Malicious or unhelpful editing intended to damage or disrupt content"
+  - word: "crowdsourcing"
+    definition: "Obtaining input or content by enlisting services of many people"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"

@@ -1,6 +1,17 @@
 id: 5
 question: "List four techniques for dealing with cyberbullies"
 answer: "Four effective techniques for dealing with cyberbullies are: 1) Document and save evidence (screenshots, messages) before blocking or reporting, 2) Block the bully on all platforms and report them to the website/app administrators, 3) Don't engage or respond to the bullying behavior, as this often escalates the situation, and 4) Seek support from trusted adults, friends, or counselors who can provide guidance and emotional help. Additional strategies include adjusting privacy settings to limit who can contact you and taking breaks from social media when needed to protect your mental health."
+
+answer_kindergarten: "🛡️ If someone is being mean to you online, here are 4 things you can do to stay safe: 1) **Tell a grown-up** - Always tell your parents, teacher, or another adult you trust when someone is being mean online, 2) **Take pictures** - Ask an adult to help you take screenshots (pictures of the mean messages) so you have proof, 3) **Block the mean person** - Don't let them send you messages anymore by blocking them (ask an adult to help), 4) **Don't be mean back** - Even though it's hard, don't send mean messages back because it makes things worse. Remember: It's never your fault when someone is mean to you online!"
+
+answer_3rd_grade: "🔒 When dealing with cyberbullies, follow these 4 important steps: 1) **Save Evidence** - Take screenshots of mean messages or posts before doing anything else - this helps adults understand what happened, 2) **Block and Report** - Block the bully so they can't contact you, then report them to the website (like telling the teacher when someone's being mean at school), 3) **Don't Respond** - Never reply to mean messages, even to defend yourself, because bullies want attention and responding gives them what they want, 4) **Get Help** - Talk to parents, teachers, or school counselors who can give you advice and emotional support. Also change your privacy settings so strangers can't easily find or message you."
+
+answer_7th_grade: "🛠️ Effective cyberbullying response strategies include: 1) **Evidence Documentation** - Immediately screenshot messages, posts, or comments with timestamps before the bully deletes them - this creates a record for authorities and platforms, 2) **Platform-Specific Reporting** - Use built-in reporting tools on each social media platform and block the aggressor across all accounts and platforms, 3) **Non-Engagement Policy** - Resist the urge to respond, defend yourself, or retaliate, as engagement often escalates cyberbullying and provides the reaction bullies seek, 4) **Support Network Activation** - Inform trusted adults (parents, teachers, counselors) and maintain connections with positive friends who can provide emotional support and perspective. Additionally, review and strengthen privacy settings, consider temporary social media breaks, and document any offline impacts for potential legal action."
+
+answer_high_school: "⚖️ Comprehensive cyberbullying intervention requires multi-layered approaches: 1) **Digital Forensics** - Systematically document evidence including metadata, URLs, timestamps, and user profiles using screenshot tools and browser history - preserving chain of custody for potential legal proceedings, 2) **Institutional Reporting** - Report incidents through formal channels including platform abuse reporting systems, school administration (if involving classmates), and law enforcement if threats involve violence or harassment laws, 3) **Strategic Disengagement** - Avoid public responses that can be screenshot and weaponized; instead privately seek mediation through mutual connections or institutional authorities when appropriate, 4) **Mental Health Support** - Engage professional counseling resources, peer support groups, and develop coping strategies for digital stress and reputation damage. Implement proactive measures including privacy audits, selective sharing policies, and digital detox periods."
+
+answer_undergraduate: "🎓 Evidence-based cyberbullying mitigation strategies integrate technological, legal, and psychological interventions: 1) **Comprehensive Documentation** - Employ systematic evidence collection including digital forensics tools, blockchain timestamping for integrity, cross-platform activity correlation, and documentation of psychological impact through standardized assessment instruments, 2) **Multi-Jurisdictional Reporting** - Navigate complex reporting hierarchies including platform terms of service enforcement, educational institution policies, law enforcement cyber crime units, and civil litigation options under state anti-cyberbullying statutes, 3) **Behavioral Psychology Application** - Implement extinction protocols by eliminating reinforcement mechanisms (attention, emotional responses) that maintain bullying behavior while utilizing social cognitive theory to understand bystander intervention opportunities, 4) **Integrated Support Systems** - Coordinate mental health interventions including trauma-informed therapy, peer support networks, family systems therapy, and community-based restorative justice programs where applicable. Research indicates multi-modal approaches show higher efficacy than single-intervention strategies."
+
 vocab_answer: 
   - word: "cyberbullying"
     definition: "Use of digital technology to repeatedly harass, threaten, or harm others"
@@ -10,6 +21,15 @@ vocab_answer:
     definition: "Controls that limit who can see your profile, contact you, or interact with your content"
   - word: "platform administrators"
     definition: "People responsible for managing and enforcing rules on websites and social media"
+  - word: "documentation"
+    definition: "Process of recording and preserving evidence of cyberbullying incidents"
+  - word: "non-engagement"
+    definition: "Strategy of not responding to or interacting with cyberbullies"
+  - word: "support network"
+    definition: "Group of trusted people who can provide help and emotional support"
+  - word: "digital forensics"
+    definition: "Scientific collection and analysis of digital evidence for investigations"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"

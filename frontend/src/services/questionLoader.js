@@ -1,4 +1,5 @@
 import * as yaml from 'js-yaml';
+import { getAssetUrl } from '../utils/paths';
 
 // Define all concept map paths
 const CONCEPT_MAP_PATHS = [
@@ -32,7 +33,7 @@ export const loadAllQuestions = async () => {
       console.log('Loading concept map:', conceptMapPath);
       
       // Fetch the concept map file
-      const conceptMapUrl = `/textbook/${conceptMapPath}`;
+      const conceptMapUrl = getAssetUrl(`textbook/${conceptMapPath}`);
       const response = await fetch(conceptMapUrl);
       
       if (!response.ok) {
@@ -69,7 +70,7 @@ export const loadAllQuestions = async () => {
       
       for (const questionFile of questionFiles) {
         try {
-          const questionPath = `/textbook/${conceptMapDir}/${questionFile}`;
+          const questionPath = getAssetUrl(`textbook/${conceptMapDir}/${questionFile}`);
           const questionResponse = await fetch(questionPath);
           
           if (!questionResponse.ok) {

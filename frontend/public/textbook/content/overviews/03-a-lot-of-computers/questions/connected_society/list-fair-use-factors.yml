@@ -1,6 +1,17 @@
 id: 3
 question: "List the four factors that characterize fair use"
 answer: "The four factors that determine fair use are: 1) The purpose and character of the use (commercial vs. educational, transformative nature), 2) The nature of the copyrighted work (factual vs. creative, published vs. unpublished), 3) The amount and substantiality of the portion used (how much of the original work was used), and 4) The effect of the use on the market or value of the original work (does it harm the creator's ability to profit). Courts consider all four factors together when determining if a use qualifies as fair use, which allows limited use of copyrighted material without permission for purposes like criticism, comment, teaching, or research."
+
+answer_kindergarten: "📚 Sometimes you can use a tiny bit of someone else's work without asking, and there are 4 questions to help decide if it's okay: 1) **Why are you using it?** - Are you using it to learn or teach something, or are you trying to make money from it? 2) **What kind of work is it?** - Is it a story someone made up, or is it facts like from a textbook? 3) **How much are you using?** - Are you using just a tiny piece or the whole thing? 4) **Will this hurt the creator?** - Will fewer people buy the original because of what you did? If you can say you're using just a little bit for learning and it won't hurt the creator, it might be okay!"
+
+answer_3rd_grade: "⚖️ Fair use lets people use small parts of copyrighted work for good reasons, and judges look at 4 things to decide if it's allowed: 1) **Purpose** - Using it for school projects, news reports, or criticism is more likely to be okay than using it to make money, 2) **Type of Work** - It's easier to use factual information (like from encyclopedias) than creative works (like songs or stories), 3) **Amount Used** - Using a sentence or two is more likely to be fair than copying whole chapters, 4) **Market Harm** - If your use means people won't buy the original, that's usually not fair use. For example, using a short movie clip in a school presentation about the environment is more likely to be fair use than copying a whole song for your YouTube video."
+
+answer_7th_grade: "🎯 The four-factor fair use test under U.S. copyright law evaluates: 1) **Purpose and Character** - Non-commercial, educational, or transformative uses (like parody or criticism) are favored over commercial copying; transformative uses that add new meaning are stronger, 2) **Nature of Work** - Factual works have less protection than creative expression; published works are more available for fair use than unpublished materials, 3) **Amount and Substantiality** - Both quantitative (how much) and qualitative (importance) matter - using the 'heart' of a work weighs against fair use even if the amount is small, 4) **Market Effect** - Courts consider both actual economic harm and potential market impact, including harm to derivative work markets. These factors are weighed together, not as a checklist."
+
+answer_high_school: "📖 The four-factor analysis established in Section 107 of the Copyright Act provides courts with criteria for determining fair use: 1) **Purpose and Character (§107(1))** - Favors non-profit educational use, criticism, comment, news reporting, and especially transformative uses that repurpose content with new expression or meaning, creating different aesthetic or functional purposes, 2) **Nature of Copyrighted Work (§107(2))** - Factual works receive less protection than creative expression; published works are more subject to fair use than unpublished materials which receive stronger protection, 3) **Amount and Substantiality (§107(3))** - Considers both quantitative proportion and qualitative significance of portions used relative to the work as a whole; copying minimal amounts generally favors fair use unless it constitutes the 'heart' of the work, 4) **Effect on Market Value (§107(4))** - Analyzes actual or potential economic impact on the copyright holder's market, including effects on licensing opportunities and derivative work markets."
+
+answer_undergraduate: "🏛️ The four-factor test codified in 17 U.S.C. §107 represents a flexible, case-by-case balancing approach rather than mechanical application: 1) **Purpose and Character Analysis** - Emphasizes transformative use doctrine established in Campbell v. Acuff-Rose (1994), examining whether new work adds something new with further purpose or different character, altering the original with new expression, meaning, or message; commercial use doesn't automatically preclude fair use but weighs against it, 2) **Nature of Work Analysis** - Considers creativity spectrum from factual compilations to highly creative expression; unpublished works receive stronger protection under Harper & Row v. Nation Enterprises (1985), reflecting author's right to control first publication, 3) **Amount and Substantiality** - Quantitative and qualitative analysis considering both percentage taken and importance of excerpt to original work's value; even small takings can exceed fair use if they appropriate the work's most distinctive elements, 4) **Market Harm Analysis** - Considers four types of harm: usurpation of demand for original, criticism reducing market appeal, satire affecting market, and impact on potential licensing markets including transformative uses. The analysis requires weighing all factors together, with no single factor being determinative."
+
 vocab_answer: 
   - word: "fair use"
     definition: "Legal doctrine allowing limited use of copyrighted material without permission for specific purposes"
@@ -10,6 +21,15 @@ vocab_answer:
     definition: "Effect that unauthorized use has on the commercial value of the original work"
   - word: "substantiality"
     definition: "Importance or significance of the portion used relative to the whole work"
+  - word: "four-factor test"
+    definition: "Legal framework for analyzing whether use of copyrighted material qualifies as fair use"
+  - word: "commercial use"
+    definition: "Use of copyrighted material for profit or commercial advantage"
+  - word: "derivative work market"
+    definition: "Market for works based on or adapted from the original copyrighted work"
+  - word: "qualitative analysis"
+    definition: "Assessment of the importance or significance of the copied portion"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"

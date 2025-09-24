@@ -1,6 +1,17 @@
 id: 2
 question: "List the six rights that are exclusively exercised by copyright holders"
 answer: "The six exclusive rights of copyright holders are: 1) The right to reproduce the work (make copies), 2) The right to create derivative works (adaptations, translations, modifications), 3) The right to distribute copies to the public (sell, lease, or transfer), 4) The right to perform the work publicly (for literary, musical, dramatic works), 5) The right to display the work publicly (for artistic, literary works), and 6) The right to perform sound recordings publicly by digital audio transmission. These rights give creators control over how their original works are used, copied, and distributed."
+
+answer_kindergarten: "📚 When someone creates something special like a story, song, or picture, they get 6 special permissions that only they can decide about! 1) They decide who can make copies of their work, 2) They decide if someone can change their work to make something new, 3) They decide who can sell or give away their work, 4) They decide who can perform their story or song in front of people, 5) They decide who can show their pictures or art to groups of people, and 6) They decide who can play their music on the internet or radio. It's like having special rules for your favorite toy - only you get to decide who can play with it!"
+
+answer_3rd_grade: "🎨 Copyright gives creators 6 important powers over their work: 1) **Copy Control** - Only they can decide who makes copies (like photocopying a book), 2) **Change Control** - Only they can let people make new versions (like turning a book into a movie), 3) **Sharing Control** - Only they can decide who sells or gives away their work, 4) **Performance Control** - Only they can let people act out their plays or sing their songs in public, 5) **Display Control** - Only they can let people show their art or writing to audiences, 6) **Digital Music Control** - Only they can decide who plays their recorded music online or on streaming services. These rules protect creators so they can earn money from their hard work!"
+
+answer_7th_grade: "⚖️ U.S. copyright law grants six exclusive rights to creators: 1) **Reproduction Rights** - Control over copying in any format (physical or digital), 2) **Derivative Works Rights** - Control over adaptations, translations, and modifications, 3) **Distribution Rights** - Control over selling, renting, or transferring copies to the public, 4) **Public Performance Rights** - Control over live or recorded performances in public spaces, 5) **Public Display Rights** - Control over showing works in galleries, websites, or public venues, 6) **Digital Transmission Rights** - Control over streaming or broadcasting sound recordings digitally. These rights can be licensed to others while the creator retains ownership, enabling business models in entertainment, publishing, and digital media industries."
+
+answer_high_school: "📖 The Copyright Act of 1976 establishes six exclusive rights that form the foundation of intellectual property protection: 1) **Reproduction Rights (§106(1))** - Exclusive control over creating copies in any tangible medium, including digital reproduction, 2) **Derivative Works Rights (§106(2))** - Exclusive control over creating adaptations, arrangements, or transformations based on the original work, 3) **Distribution Rights (§106(3))** - Exclusive control over first sale and subsequent distribution to the public, 4) **Public Performance Rights (§106(4))** - Exclusive control over live, recorded, or transmitted performances in public settings, 5) **Public Display Rights (§106(5))** - Exclusive control over visual presentation of works to audiences, 6) **Digital Audio Transmission Rights (§106(6))** - Exclusive control over streaming and digital broadcasting of sound recordings. These rights are subject to limitations including fair use, first sale doctrine, and specific exemptions for education and commentary."
+
+answer_undergraduate: "🏛️ The six exclusive rights under 17 U.S.C. §106 constitute the bundle of rights that define copyright ownership and enable economic exploitation of creative works: 1) **Reproduction Rights** - Control over mechanical reproduction, digital copying, and format conversion, creating the foundation for licensing revenue, 2) **Derivative Works Rights** - Control over transformative uses, enabling expansion into different media markets and licensing for adaptations, 3) **Distribution Rights** - Control over public distribution channels, subject to first sale doctrine limitations but enabling control over unauthorized distribution networks, 4) **Public Performance Rights** - Control over performance in public spaces, fundamental to performance royalties through organizations like ASCAP and BMI, 5) **Public Display Rights** - Control over visual presentation, crucial for visual arts markets and digital display licensing, 6) **Digital Audio Transmission Rights** - Control over non-interactive digital transmissions, specifically addressing streaming and satellite radio revenue streams. These rights interact with fair use doctrine (§107), creating complex analytical frameworks for determining infringement versus permissible use in digital environments."
+
 vocab_answer: 
   - word: "copyright"
     definition: "Legal protection giving creators exclusive rights to control use of their original works"
@@ -10,6 +21,15 @@ vocab_answer:
     definition: "Performing a work in a place open to the public or where people gather"
   - word: "public distribution"
     definition: "Making copies of a work available to the general public through sale or transfer"
+  - word: "reproduction rights"
+    definition: "Exclusive right to make copies of a copyrighted work"
+  - word: "digital audio transmission"
+    definition: "Broadcasting or streaming sound recordings through digital means"
+  - word: "fair use"
+    definition: "Legal doctrine allowing limited use of copyrighted material without permission"
+  - word: "first sale doctrine"
+    definition: "Legal principle that limits copyright holder's control after the first authorized sale"
+
 type: "short_answer"
 points: 5
 difficulty: "beginner"
