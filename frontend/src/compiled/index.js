@@ -41,7 +41,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/concept-map.yml",
-  compiledAt: "2025-10-23T22:23:09.068Z",
+  compiledAt: "2025-11-07T21:05:57.131Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -209,7 +209,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/binary/convert-binary-to-decimal.yml",
-  compiledAt: "2025-10-23T22:23:09.072Z",
+  compiledAt: "2025-11-07T21:05:57.133Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -389,7 +389,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/binary/convert-decimal-to-binary.yml",
-  compiledAt: "2025-10-23T22:23:09.075Z",
+  compiledAt: "2025-11-07T21:05:57.133Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -577,7 +577,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/binary/explain-what-is-binary.yml",
-  compiledAt: "2025-10-23T22:23:09.078Z",
+  compiledAt: "2025-11-07T21:05:57.134Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -781,7 +781,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/data_information/explain-audio-encoding.yml",
-  compiledAt: "2025-10-23T22:23:09.080Z",
+  compiledAt: "2025-11-07T21:05:57.135Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -989,7 +989,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/data_information/explain-color-encoding.yml",
-  compiledAt: "2025-10-23T22:23:09.083Z",
+  compiledAt: "2025-11-07T21:05:57.136Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -1138,7 +1138,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/data_information/explain-coordinate-encoding.yml",
-  compiledAt: "2025-10-23T22:23:09.085Z",
+  compiledAt: "2025-11-07T21:05:57.136Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -1350,7 +1350,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/data_information/explain-image-encoding.yml",
-  compiledAt: "2025-10-23T22:23:09.088Z",
+  compiledAt: "2025-11-07T21:05:57.137Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -1554,7 +1554,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/data_information/explain-text-encoding-binary.yml",
-  compiledAt: "2025-10-23T22:23:09.091Z",
+  compiledAt: "2025-11-07T21:05:57.138Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -1758,7 +1758,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/data_information/explain-video-encoding.yml",
-  compiledAt: "2025-10-23T22:23:09.102Z",
+  compiledAt: "2025-11-07T21:05:57.138Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -1950,7 +1950,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/electricity/explain-electricity-binary-relationship.yml",
-  compiledAt: "2025-10-23T22:23:09.105Z",
+  compiledAt: "2025-11-07T21:05:57.139Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -2146,7 +2146,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/electricity/explain-magnetic-storage.yml",
-  compiledAt: "2025-10-23T22:23:09.107Z",
+  compiledAt: "2025-11-07T21:05:57.139Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -2338,7 +2338,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/questions/electricity/explain-transistors.yml",
-  compiledAt: "2025-10-23T22:23:09.110Z",
+  compiledAt: "2025-11-07T21:05:57.140Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -2398,7 +2398,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/concept-map.yml",
-  compiledAt: "2025-10-23T22:23:09.114Z",
+  compiledAt: "2025-11-07T21:05:57.140Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -2700,7 +2700,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/files/design-efficient-file-organization.yml",
-  compiledAt: "2025-10-23T22:23:09.118Z",
+  compiledAt: "2025-11-07T21:05:57.141Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -2958,7 +2958,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/files/discuss-file-naming-conventions.yml",
-  compiledAt: "2025-10-23T22:23:09.158Z",
+  compiledAt: "2025-11-07T21:05:57.141Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -3220,7 +3220,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/files/explain-absolute-vs-relative-paths.yml",
-  compiledAt: "2025-10-23T22:23:09.166Z",
+  compiledAt: "2025-11-07T21:05:57.142Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -3510,7 +3510,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/files/explain-logical-vs-physical-storage.yml",
-  compiledAt: "2025-10-23T22:23:09.174Z",
+  compiledAt: "2025-11-07T21:05:57.142Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -3796,7 +3796,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/discuss-storage-technology-strengths.yml",
-  compiledAt: "2025-10-23T22:23:09.176Z",
+  compiledAt: "2025-11-07T21:05:57.143Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -3845,7 +3845,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/explain-cpu-vs-gpu.yml",
-  compiledAt: "2025-10-23T22:23:09.181Z",
+  compiledAt: "2025-11-07T21:05:57.144Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -4377,7 +4377,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/explain-how-processor-works.yml",
-  compiledAt: "2025-10-23T22:23:09.192Z",
+  compiledAt: "2025-11-07T21:05:57.144Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -5158,7 +5158,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/explain-io-devices.yml",
-  compiledAt: "2025-10-23T22:23:09.213Z",
+  compiledAt: "2025-11-07T21:05:57.145Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -5502,7 +5502,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/explain-ipo-model.yml",
-  compiledAt: "2025-10-23T22:23:09.217Z",
+  compiledAt: "2025-11-07T21:05:57.146Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -6127,7 +6127,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/explain-ram-vs-rom.yml",
-  compiledAt: "2025-10-23T22:23:09.223Z",
+  compiledAt: "2025-11-07T21:05:57.146Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -6956,7 +6956,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/hardware/trace-data-flow-through-system.yml",
-  compiledAt: "2025-10-23T22:23:09.241Z",
+  compiledAt: "2025-11-07T21:05:57.147Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -7333,7 +7333,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/os/explain-device-drivers.yml",
-  compiledAt: "2025-10-23T22:23:09.248Z",
+  compiledAt: "2025-11-07T21:05:57.148Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -7651,7 +7651,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/os/explain-multitasking-vs-multiprocessing.yml",
-  compiledAt: "2025-10-23T22:23:09.259Z",
+  compiledAt: "2025-11-07T21:05:57.149Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -8061,7 +8061,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/os/explain-os-hardware-software-integration.yml",
-  compiledAt: "2025-10-23T22:23:09.264Z",
+  compiledAt: "2025-11-07T21:05:57.150Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -8415,7 +8415,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/os/explain-role-of-operating-system.yml",
-  compiledAt: "2025-10-23T22:23:09.271Z",
+  compiledAt: "2025-11-07T21:05:57.150Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -8976,7 +8976,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/analyze-computer-system-execution.yml",
-  compiledAt: "2025-10-23T22:23:09.277Z",
+  compiledAt: "2025-11-07T21:05:57.151Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9025,7 +9025,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/compare-compiler-interpreter.yml",
-  compiledAt: "2025-10-23T22:23:09.280Z",
+  compiledAt: "2025-11-07T21:05:57.152Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9421,7 +9421,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/describe-stored-program-concept.yml",
-  compiledAt: "2025-10-23T22:23:09.284Z",
+  compiledAt: "2025-11-07T21:05:57.153Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9474,7 +9474,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/explain-assembly-language.yml",
-  compiledAt: "2025-10-23T22:23:09.286Z",
+  compiledAt: "2025-11-07T21:05:57.153Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9515,7 +9515,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/explain-programming-process.yml",
-  compiledAt: "2025-10-23T22:23:09.294Z",
+  compiledAt: "2025-11-07T21:05:57.154Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9568,7 +9568,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/explain-what-is-compiler.yml",
-  compiledAt: "2025-10-23T22:23:09.297Z",
+  compiledAt: "2025-11-07T21:05:57.154Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9629,7 +9629,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/01-one-computer/questions/programs/trace-machine-code-execution.yml",
-  compiledAt: "2025-10-23T22:23:09.299Z",
+  compiledAt: "2025-11-07T21:05:57.154Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9685,7 +9685,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/concept-map.yml",
-  compiledAt: "2025-10-23T22:23:09.301Z",
+  compiledAt: "2025-11-07T21:05:57.155Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9734,7 +9734,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-browser-caching-history-privacy.yml",
-  compiledAt: "2025-10-23T22:23:09.303Z",
+  compiledAt: "2025-11-07T21:05:57.155Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9787,7 +9787,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-css.yml",
-  compiledAt: "2025-10-23T22:23:09.304Z",
+  compiledAt: "2025-11-07T21:05:57.155Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9836,7 +9836,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-html.yml",
-  compiledAt: "2025-10-23T22:23:09.306Z",
+  compiledAt: "2025-11-07T21:05:57.156Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9889,7 +9889,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-http-https.yml",
-  compiledAt: "2025-10-23T22:23:09.320Z",
+  compiledAt: "2025-11-07T21:05:57.156Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9942,7 +9942,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-javascript-role.yml",
-  compiledAt: "2025-10-23T22:23:09.322Z",
+  compiledAt: "2025-11-07T21:05:57.157Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -9986,7 +9986,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-web-browser-purpose.yml",
-  compiledAt: "2025-10-23T22:23:09.324Z",
+  compiledAt: "2025-11-07T21:05:57.157Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10035,7 +10035,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/explain-web-cookies.yml",
-  compiledAt: "2025-10-23T22:23:09.330Z",
+  compiledAt: "2025-11-07T21:05:57.157Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10088,7 +10088,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/browsers/list-common-html-tags.yml",
-  compiledAt: "2025-10-23T22:23:09.332Z",
+  compiledAt: "2025-11-07T21:05:57.158Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10132,7 +10132,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/networks/explain-internet-vs-web.yml",
-  compiledAt: "2025-10-23T22:23:09.356Z",
+  compiledAt: "2025-11-07T21:05:57.158Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10176,7 +10176,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/networks/explain-ip-address-importance.yml",
-  compiledAt: "2025-10-23T22:23:09.357Z",
+  compiledAt: "2025-11-07T21:05:57.159Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10229,7 +10229,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/networks/explain-url-behind-scenes.yml",
-  compiledAt: "2025-10-23T22:23:09.363Z",
+  compiledAt: "2025-11-07T21:05:57.159Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10273,7 +10273,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/the_cloud/explain-cloud-computing-benefits.yml",
-  compiledAt: "2025-10-23T22:23:09.369Z",
+  compiledAt: "2025-11-07T21:05:57.159Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10317,7 +10317,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/the_cloud/identify-cloud-service-examples.yml",
-  compiledAt: "2025-10-23T22:23:09.372Z",
+  compiledAt: "2025-11-07T21:05:57.159Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10366,7 +10366,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/web_apps/define-database-terminology.yml",
-  compiledAt: "2025-10-23T22:23:09.374Z",
+  compiledAt: "2025-11-07T21:05:57.160Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10415,7 +10415,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/web_apps/explain-browser-webserver-database-interaction.yml",
-  compiledAt: "2025-10-23T22:23:09.380Z",
+  compiledAt: "2025-11-07T21:05:57.160Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10459,7 +10459,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/web_apps/explain-web-vs-desktop-apps.yml",
-  compiledAt: "2025-10-23T22:23:09.383Z",
+  compiledAt: "2025-11-07T21:05:57.160Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10508,7 +10508,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/web_apps/explain-what-is-database.yml",
-  compiledAt: "2025-10-23T22:23:09.386Z",
+  compiledAt: "2025-11-07T21:05:57.161Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10552,7 +10552,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/questions/web_apps/identify-useful-web-applications.yml",
-  compiledAt: "2025-10-23T22:23:09.388Z",
+  compiledAt: "2025-11-07T21:05:57.161Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10614,7 +10614,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/concept-map.yml",
-  compiledAt: "2025-10-23T22:23:09.390Z",
+  compiledAt: "2025-11-07T21:05:57.162Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10680,7 +10680,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/discuss-ai-algorithm-information-shaping.yml",
-  compiledAt: "2025-10-23T22:23:09.395Z",
+  compiledAt: "2025-11-07T21:05:57.162Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10742,7 +10742,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/discuss-ai-generated-content-impact.yml",
-  compiledAt: "2025-10-23T22:23:09.403Z",
+  compiledAt: "2025-11-07T21:05:57.162Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10930,7 +10930,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/explain-pull-request.yml",
-  compiledAt: "2025-10-23T22:23:09.405Z",
+  compiledAt: "2025-11-07T21:05:57.163Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -10974,7 +10974,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/explain-six-degrees-separation.yml",
-  compiledAt: "2025-10-23T22:23:09.418Z",
+  compiledAt: "2025-11-07T21:05:57.163Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11034,7 +11034,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/explain-wikipedia-editing.yml",
-  compiledAt: "2025-10-23T22:23:09.420Z",
+  compiledAt: "2025-11-07T21:05:57.163Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11094,7 +11094,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/list-copyright-holder-rights.yml",
-  compiledAt: "2025-10-23T22:23:09.422Z",
+  compiledAt: "2025-11-07T21:05:57.164Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11154,7 +11154,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/list-cyberbully-techniques.yml",
-  compiledAt: "2025-10-23T22:23:09.424Z",
+  compiledAt: "2025-11-07T21:05:57.164Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11214,7 +11214,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/connected_society/list-fair-use-factors.yml",
-  compiledAt: "2025-10-23T22:23:09.427Z",
+  compiledAt: "2025-11-07T21:05:57.164Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11282,7 +11282,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/describe-online-intrusion.yml",
-  compiledAt: "2025-10-23T22:23:09.436Z",
+  compiledAt: "2025-11-07T21:05:57.165Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11342,7 +11342,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/discuss-strong-password-issues.yml",
-  compiledAt: "2025-10-23T22:23:09.455Z",
+  compiledAt: "2025-11-07T21:05:57.165Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11402,7 +11402,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-encryption.yml",
-  compiledAt: "2025-10-23T22:23:09.457Z",
+  compiledAt: "2025-11-07T21:05:57.165Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11466,7 +11466,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-firewall-role.yml",
-  compiledAt: "2025-10-23T22:23:09.475Z",
+  compiledAt: "2025-11-07T21:05:57.166Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11526,7 +11526,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-malware.yml",
-  compiledAt: "2025-10-23T22:23:09.481Z",
+  compiledAt: "2025-11-07T21:05:57.166Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11586,7 +11586,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-rootkit.yml",
-  compiledAt: "2025-10-23T22:23:09.487Z",
+  compiledAt: "2025-11-07T21:05:57.166Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11647,7 +11647,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-social-engineering.yml",
-  compiledAt: "2025-10-23T22:23:09.497Z",
+  compiledAt: "2025-11-07T21:05:57.167Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11711,7 +11711,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-spoofing.yml",
-  compiledAt: "2025-10-23T22:23:09.505Z",
+  compiledAt: "2025-11-07T21:05:57.167Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11767,7 +11767,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-two-factor-authentication.yml",
-  compiledAt: "2025-10-23T22:23:09.508Z",
+  compiledAt: "2025-11-07T21:05:57.167Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11827,7 +11827,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/explain-zero-day-exploit.yml",
-  compiledAt: "2025-10-23T22:23:09.518Z",
+  compiledAt: "2025-11-07T21:05:57.168Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11891,7 +11891,7 @@ export const compiledFiles = {
 },
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/questions/cybersecurity/identify-malware-exploits.yml",
-  compiledAt: "2025-10-23T22:23:09.522Z",
+  compiledAt: "2025-11-07T21:05:57.168Z",
   type: 'yaml'
 },
     type: 'yaml',
@@ -11901,7 +11901,7 @@ export const compiledFiles = {
     module: "\r\n# Big Picture\r\n\r\nThis page lists all questions twice:\r\n\r\n* First, questions are grouped according to chapter and theme.\r\n* Then, each question is listed along with their various answers.\r\n\r\n## Questions by Chapter and Theme\r\n\r\n### Zero Computers\r\n{{ConceptMap:content/overviews/00-zero-computers/concept-map.yml}}\r\n\r\n### One Computer\r\n{{ConceptMap:content/overviews/01-one-computer/concept-map.yml}}\r\n\r\n### A Few Computers\r\n{{ConceptMap:content/overviews/02-a-few-computers/concept-map.yml}}\r\n\r\n### A Lot of Computers\r\n{{ConceptMap:content/overviews/03-a-lot-of-computers/concept-map.yml}}\r\n\r\n\r\n## Questions + Answers\r\n\r\n### Zero Computers\r\n\r\n{{ExamQuestions:content/overviews/00-zero-computers/concept-map.yml}}\r\n\r\n### One Computer\r\n\r\n{{ExamQuestions:content/overviews/01-one-computer/concept-map.yml}}\r\n\r\n### A Few Computers\r\n\r\n{{ExamQuestions:content/overviews/02-a-few-computers/concept-map.yml}}\r\n\r\n### A Lot of Computers\r\n\r\n{{ExamQuestions:content/overviews/03-a-lot-of-computers/concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "big-picture.md",
-  compiledAt: "2025-10-23T22:23:09.603Z",
+  compiledAt: "2025-11-07T21:05:57.179Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11912,7 +11912,7 @@ export const compiledFiles = {
     module: "# Concepts\r\n\r\n{{ConceptMap:concept-map.yml}}",
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/concepts.md",
-  compiledAt: "2025-10-23T22:23:09.604Z",
+  compiledAt: "2025-11-07T21:05:57.179Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11923,7 +11923,7 @@ export const compiledFiles = {
     module: "# Exam Questions\r\n\r\n{{ExamQuestions:concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.604Z",
+  compiledAt: "2025-11-07T21:05:57.179Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11934,7 +11934,7 @@ export const compiledFiles = {
     module: "# Zero Computers\r\n\r\n## Overview\r\n\r\nThere are zero computers in this chapter, but we'll cover the three ideas that make modern computers possible.  In the next three bullets, I'm going to summarize several centuries of fascinating advances in philosophy, mathematics, physics, and engineering:\r\n\r\n* **Information ↔ Numbers.** Much of what humans see, hear, say, and think about can be converted to and from numbers, including things that don't really seem to be numeric -- like images, text, and music.\r\n* **Numbers ↔ Binary.** All numbers can be converted to and from special numbers called binary numbers, which can be written using only the digits 0 and 1.\r\n* **Binary ↔ Electromagnetism.** Due to their simplicity, binary numbers can be converted to and from electromagnetic states, allowing for extremely fast manipulation of binary numbers.\r\n\r\nEverything cool about computers -- from 3D games, to the internet, to ChatGPT -- has been built on top of these fundamental truths.  So let's dive in.\r\n\r\n## Pre-Test\r\n\r\nPlease click through the following categories and read the exam questions.  I'd recommend making a note of the ones you think will be easy and which ones you think will be hard. \r\n\r\n{{ConceptMap:concept-map.yml}}\r\n\r\n## Video Content\r\n\r\nHere are my videos discussing the exam questions in light of the big picture.  I think you'll get the most out of them if you've reviewed the questions above.\r\n\r\n### Big picture\r\n\r\nThis chapter sketches out a broad overview of computing, discussing the human/computer interface as one mediated by electromagnetic laws, mathematics, and information theory.    \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=n2NxrRyCCj0}}\r\n\r\n### Binary ↔ Electromagnetism\r\n\r\nIn this video, we discuss the relationship between binary, voltage, magnetism, and transistors.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=F9BsGpE7aA8}}\r\n\r\n### Numbers ↔ Binary\r\n\r\nIn this one, we discuss the algorithms for converting between decimal and binary number systems, and also how you can generate random binary and decimal numbers during the exam. \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=l6U2goRvJC4}}\r\n\r\n### Information ↔ Numbers\r\n\r\nHere, we discuss how seemingly non-numeric information like videos, audio, words, text, and lists of numbers can be encoded into single numbers and decoded again.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=FI19xfulZ50}}\r\n\r\n## Final Exam Questions\r\n\r\nThe following three sections cover each of the three topics and provide multiple acceptable ways to answer each final exam question.  At the end of this page, you'll also find the Bonus Videos section with links to various resources that cover these same topics (often in much greater depth than is required for this course).  I encourage you to craft your own answers to the questions by using the many resources available to you.\r\n\r\n### Information ↔ Numbers\r\n\r\nAlmost anything humans can see, hear, think about, or interact with can be represented numerically. This might seem surprising at first—how can something like a photograph, a song, or even the position of an object be turned into numbers? The key insight is that we can break down complex information into measurable components.\r\n\r\nFor example, a color can be described by how much red, green, and blue light it contains. A sound can be captured by measuring air pressure thousands of times per second. Text can be encoded by assigning each letter a unique number. \r\n\r\nThis numerical representation is crucial because once we have numbers, we can store them, transmit them, and manipulate them using mathematical operations.  Learning to answer following questions will help deepen your understanding of this essential idea.  \r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Information ↔ Numbers\"}}\r\n\r\n### Numbers ↔ Binary\r\n\r\nEvery number can be represented using only two digits: 0 and 1. This might seem limiting, but binary (base-2) numbers are just as powerful as our familiar decimal (base-10) numbers—they can represent any quantity, no matter how large or small.  \r\n\r\nWhy is this important? Because having only two symbols makes binary numbers incredibly reliable to store and transmit. In the physical world, it's much easier to distinguish between two states (like on/off, high voltage/low voltage, or magnetized/not magnetized) than to distinguish between ten different states. This simplicity makes binary the perfect foundation for hardware that crunches numbers.\r\n\r\nThe conversion between regular numbers and binary is straightforward once you understand the pattern. Just as decimal numbers use powers of 10 (ones, tens, hundreds), binary numbers use powers of 2 (ones, twos, fours, eights, and so on). Learning to convert between these number systems helps you understand how computers store and process all that numerical information from the previous section.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Numbers ↔ Binary\"}}\r\n\r\n### Binary ↔ Electromagnetism\r\n\r\nBinary numbers can be physically represented and manipulated using electromagnetic phenomena. This is where the magic happens—where abstract mathematical concepts become tangible, manipulable reality that can process information at incredible speeds.\r\n\r\nThink about it: once we have information encoded as binary numbers, we need a way to store those 0s and 1s and perform operations on them. Electricity and magnetism provide the perfect tools. A 0 might be represented by low voltage and a 1 by high voltage. Magnetic materials can be oriented in two directions to store binary data. Transistors can switch between conducting and non-conducting states billions of times per second.\r\n\r\nThis electromagnetic foundation enables all the computational power we take for granted. Every calculation, every image displayed on your screen, every video streamed over the internet—it all happens because we can reliably represent and manipulate binary numbers using electromagnetic principles. The questions below explore how this physical layer makes digital computation possible.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Binary ↔ Electromagnetism\"}}\r\n\r\n## Bonus Videos\r\n\r\n### Encoding Information in Binary\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=7rd77bWIgRs}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=YuUep2Lb6sU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=dFr-dCSFbJU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=1GSjbWt0c9M}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=gBKBKfikLbo}}\r\n\r\n### Binary (and Booleans)\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=LpuPe81bc2w}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=VLflTjd3lWA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=FFDMzbrEXaE}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=gFXW92O5vFg}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=E5V9zBBAfWM}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=INEtYZqtjTo}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=UvI-AMAtrvE}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=gI-qXk7XojA}}\r\n\r\n### Electricity (and Transistors)\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=LN0ucKNX0hc}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=gI-qXk7XojA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=OWlD7gL9gS0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=rM9BjciBLmg}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=WhNyURBiJcU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=J4oO7PT_nzQ}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=IcrBqCFLHIY}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Xpk67YzOn5w}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=FU_YFpfDqqA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=I0-izyq6q5s}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=bHIhgxav9LY}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=iph500cPK28}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=oI_X2cMHNe0}}\r\n",
     metadata: {
   sourceFile: "content/overviews/00-zero-computers/index.md",
-  compiledAt: "2025-10-23T22:23:09.606Z",
+  compiledAt: "2025-11-07T21:05:57.180Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11945,7 +11945,7 @@ export const compiledFiles = {
     module: "# Concepts\r\n\r\n{{ConceptMap:concept-map.yml}}",
     metadata: {
   sourceFile: "content/overviews/01-one-computer/concepts.md",
-  compiledAt: "2025-10-23T22:23:09.607Z",
+  compiledAt: "2025-11-07T21:05:57.180Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11956,7 +11956,7 @@ export const compiledFiles = {
     module: "# Exam Questions\r\n\r\n{{ExamQuestions:concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/01-one-computer/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.609Z",
+  compiledAt: "2025-11-07T21:05:57.180Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11967,7 +11967,7 @@ export const compiledFiles = {
     module: "# One Computer\r\n\r\n## Overview\r\n\r\n* **Files** - Exploring how data is organized, stored, and accessed within computer systems\r\n* **Programs** - Examining how software instructions are created, compiled, and executed by the computer\r\n* **Hardware** - Understanding the physical components that make up a computer and how they work together to process information\r\n* **Operating System** - Learning how software manages hardware resources and provides a platform for applications\r\n\r\n## Pre-Test\r\n\r\nPlease click through the following categories and read the exam questions.  I'd recommend making a note of the ones you think will be easy and which ones you think will be hard. \r\n\r\n{{ConceptMap:concept-map.yml}}\r\n\r\n## Video Content\r\n\r\nWe'll begin with an overview of the four topics in this chapter: hardware, programs, operating systems, and files. \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=4xlfqyBNQxE}}\r\n\r\n### Hardware and Programs\r\n\r\nThe relationship between hardware and software is one of the most subtle and interesting things in computing.  Understanding the anatomy of a simple CPU and how it interacts with a program stored in main memory (RAM) is the subject of the next two videos and numerous questions on the final exam. \r\n\r\n#### Part 1 (Hardware)\r\n\r\nHere we'll discuss several pieces of hardware, setting the stage for the two components that enable the computer to run programs: the CPU and RAM.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=a8jlUVv4o4g}}\r\n\r\n#### Part 2 (Programs)\r\n\r\nHere we zoom in on the interactions between the CPU and RAM by illustrating how a simple assembly language program might execute on a hypothetical CPU.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=294U8gdMJfk}}\r\n\r\n### Operating System\r\n\r\nNow that we've seen how programs are executed, we can begin to understand the program that manages all the other programs: the operating system.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Z38xp5Eb3S0}}\r\n\r\n### Files\r\n\r\nWe finish up this chapter by discussing one of the main abstractions that the operating system provides: files.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=UQliHa58SB4}}\r\n\r\n## Main Content\r\n\r\nThe following three sections cover each of the three topics and provide multiple acceptable ways to answer each final exam question.  At the end of this page, you'll find the Bonus Videos section with links to various videos that cover these same topics (often in much greater depth than is required for this course).\r\n\r\n### Hardware\r\n\r\nComputer hardware forms the physical foundation that transforms electricity into computation. Understanding these components helps us appreciate how abstract concepts like programs and data become tangible operations.\r\n\r\n**The IPO Model (Input-Process-Output):**\r\n- **Input**: Devices that bring data into the system (keyboard, mouse, sensors, network interfaces)\r\n- **Process**: The CPU and memory that manipulate and transform data according to program instructions\r\n- **Output**: Devices that present results to users or other systems (display, speakers, printers, network)\r\n\r\n**Core Hardware Components:**\r\n- **Processor (CPU)**: The \"brain\" that executes instructions and performs calculations\r\n- **Memory (RAM vs ROM)**: Temporary workspace (RAM) for active programs vs permanent storage (ROM) for essential startup instructions\r\n- **Storage**: Long-term data retention using various technologies (hard drives, SSDs, optical media)\r\n- **Graphics Processing Unit (GPU)**: Specialized processor optimized for parallel operations and visual rendering\r\n\r\n**Data Flow Through the System:**\r\nData moves through a computer in a carefully orchestrated dance: input devices capture information, the CPU processes it according to program instructions stored in memory, and output devices present the results. This cycle happens billions of times per second, creating the illusion of instantaneous computation.\r\n\r\n**Storage Technology Trade-offs:**\r\nDifferent storage technologies offer different balances of speed, capacity, cost, and durability. Understanding these trade-offs helps explain why computers use multiple storage types - from ultra-fast CPU cache to massive but slower hard drives.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Hardware\"}}\r\n\r\n### Operating System\r\n\r\nThe operating system serves as the crucial bridge between hardware and software, managing resources and providing a consistent interface for programs to interact with the computer's capabilities.\r\n\r\n**Core Operating System Functions:**\r\n- **Resource Management**: Allocating CPU time, memory, and storage among competing programs\r\n- **Device Drivers**: Software that translates between the OS and specific hardware components\r\n- **Process Management**: Starting, stopping, and scheduling programs for execution\r\n- **Security**: Controlling access to files, network resources, and system functions\r\n\r\n**Multitasking vs Multiprocessing:**\r\n- **Multitasking**: One CPU rapidly switches between multiple programs, creating the illusion of simultaneous execution\r\n- **Multiprocessing**: Multiple CPUs or CPU cores actually execute different programs simultaneously\r\n- **Modern systems** typically combine both approaches for maximum efficiency\r\n\r\n**Hardware-Software Integration:**\r\nThe operating system abstracts hardware complexity, allowing programs to request services (like \"save this file\" or \"display this image\") without needing to know the specific details of hard drives or graphics cards. This abstraction enables software portability and simplifies programming.\r\n\r\n**Examples of Operating Systems:**\r\n- **Desktop**: Windows, macOS, Linux distributions\r\n- **Mobile**: iOS, Android\r\n- **Embedded**: Real-time operating systems in cars, appliances, industrial equipment\r\n- **Server**: Specialized versions optimized for network services and high availability\r\n\r\nThe operating system is often invisible to users, but it's constantly working behind the scenes to coordinate all the complex interactions that make modern computing possible.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Operating System\"}}\r\n\r\n### Files \r\n\r\nFiles represent the fundamental way computers organize and store information. Understanding file systems helps us navigate, organize, and manage the vast amounts of data that modern computers handle.\r\n\r\n**File Naming Conventions:**\r\n- **Extensions**: .txt, .jpg, .exe indicate file type and help the OS choose appropriate programs\r\n- **Restrictions**: Different systems have rules about allowed characters, length limits, and case sensitivity\r\n- **Best Practices**: Descriptive names, consistent patterns, avoiding special characters for compatibility\r\n\r\n**Absolute vs Relative Paths:**\r\n- **Absolute Paths**: Complete addresses from the root directory (e.g., /Users/john/Documents/report.pdf)\r\n- **Relative Paths**: Addresses relative to current location (e.g., ../images/photo.jpg)\r\n- **Importance**: Understanding paths is crucial for programming, command line usage, and troubleshooting\r\n\r\n**Logical vs Physical Storage:**\r\n- **Logical View**: Files and folders organized in a hierarchical tree structure that users see\r\n- **Physical Reality**: Data scattered across disk sectors, managed by the file system\r\n- **File System Tasks**: Tracking which sectors belong to which files, managing free space, ensuring data integrity\r\n\r\n**Efficient File Organization:**\r\n- **Hierarchical Structure**: Folders within folders to categorize related files\r\n- **Naming Schemes**: Consistent patterns that make files easy to find and sort\r\n- **Backup Strategies**: Protecting important data through redundancy and version control\r\n- **Cleanup Practices**: Regular maintenance to remove unnecessary files and organize growing collections\r\n\r\nThe file system creates the illusion of neatly organized folders and documents, while actually managing the complex task of storing and retrieving data on physical storage devices.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Files\"}}\r\n\r\n### Programs\r\n\r\nPrograms represent the instructions that transform computers from expensive calculators into versatile problem-solving machines. Understanding how programs work reveals the magic behind all software applications.\r\n\r\n**The Stored Program Concept:**\r\nModern computers store both data and program instructions in the same memory system. This revolutionary idea, introduced by John von Neumann, allows computers to modify their own behavior by loading different programs - the foundation of software versatility.\r\n\r\n**Programming Process Overview:**\r\n1. **Problem Definition**: Identifying what needs to be solved and designing an algorithm\r\n2. **Code Writing**: Expressing the algorithm in a programming language humans can read\r\n3. **Compilation/Interpretation**: Translating human-readable code into machine instructions\r\n4. **Execution**: The CPU following the machine instructions to solve the problem\r\n5. **Testing and Debugging**: Verifying the program works correctly and fixing errors\r\n\r\n**Compilation vs Interpretation:**\r\n- **Compilers**: Translate entire programs into machine code before execution (faster runtime, platform-specific)\r\n- **Interpreters**: Translate and execute code line-by-line (slower runtime, more portable and flexible)\r\n- **Modern Hybrid Approaches**: Just-in-time compilation, bytecode interpretation\r\n\r\n**Levels of Programming Languages:**\r\n- **Machine Code**: Binary instructions the CPU executes directly (1s and 0s)\r\n- **Assembly Language**: Human-readable mnemonics for machine instructions (ADD, MOVE, JUMP)\r\n- **High-Level Languages**: Abstract programming languages that hide hardware details (Python, Java, C++)\r\n\r\n**Program Execution Analysis:**\r\nWhen you run a program, the operating system loads it into memory, the CPU fetches instructions one by one, executes them (possibly involving calculations, memory access, or input/output), and continues until the program completes or encounters an error.\r\n\r\nUnderstanding programming helps us appreciate the incredible complexity hidden behind simple actions like clicking a button or opening a file.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Programs\"}}\r\n\r\n## Bonus Videos\r\n\r\nThese videos provide deeper insights into the fundamental components and concepts of individual computer systems.\r\n\r\n### Files\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=KN8YgJnShPM}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=mzUyMy7Ihk0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=V2Gxqv3bJCk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=DYGIPiez5GY}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=qJeZJL-ypyI}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Uro0GDMR2A8}}\r\n\r\n### Programs\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Z5JC9Ve1sfI}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=jFDMZpkUWCw}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=ByllwN8q2ss}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=04UGopESS6A}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=v97HAhwQMj8}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=8Qx6Dr_aKXs}}\r\n\r\n### Operating Systems\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=fkGCLIQx1MI}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=26QPDBe-NB8}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=pVzRTmdd9j0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=vLwMl9qK4T8}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=9GDX-IyZ_C8}}\r\n\r\n### Hardware \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=GYlNoAMBY6o}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Ui6QyzcD3_E}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=H4SDPLiUnv4}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=DBRNE3A5Wvw}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=sp3mMwo3PO0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=bY6NQb10AaI}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=SbqXqQ-2ixs}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=1dZ55MjjZY0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=TQCr9RV7twk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=p3q5zWCw8J4}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=AkFi90lZmXA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=CBf-jIn44X0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=HjneAhCy2N4}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=fpnE6UAfbtU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=_0KIfGxp37E}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=E7Up7VuFd8A}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=h9Z4oGN89MU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Axd50ew4pco}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=_Pqfjer8-O4}}",
     metadata: {
   sourceFile: "content/overviews/01-one-computer/index.md",
-  compiledAt: "2025-10-23T22:23:09.613Z",
+  compiledAt: "2025-11-07T21:05:57.180Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11978,7 +11978,7 @@ export const compiledFiles = {
     module: "# Vocab\r\n\r\n{{VocabList:exam-questions.yml}}",
     metadata: {
   sourceFile: "content/overviews/01-one-computer/vocabulary.md",
-  compiledAt: "2025-10-23T22:23:09.615Z",
+  compiledAt: "2025-11-07T21:05:57.181Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -11989,7 +11989,7 @@ export const compiledFiles = {
     module: "# Storage Concepts\r\n\r\n{{ConceptMap:concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/concepts.md",
-  compiledAt: "2025-10-23T22:23:09.633Z",
+  compiledAt: "2025-11-07T21:05:57.181Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12000,7 +12000,7 @@ export const compiledFiles = {
     module: "# Exam Questions\r\n\r\n{{ExamQuestions:concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.637Z",
+  compiledAt: "2025-11-07T21:05:57.181Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12011,7 +12011,7 @@ export const compiledFiles = {
     module: "# A Few Computers\r\n\r\n## Overview\r\n\r\n* **Browsers** - Understanding how web browsers work as the primary interface between users and the internet\r\n* **Networks** - Learning about the infrastructure that connects computers and enables global communication\r\n* **Cloud Computing** - Exploring how distributed computing resources are accessed and managed over the internet\r\n* **Web Apps** - Examining the architecture and functionality of modern web-based applications\r\n\r\n## Pre-Test\r\n\r\nPlease click through the following categories and read the exam questions.  I'd recommend making a note of the ones you think will be easy and which ones you think will be hard. \r\n\r\n{{ConceptMap:concept-map.yml}}\r\n\r\n## Video Content\r\n\r\n### Overview\r\n\r\nAn overview of this chapter on how our computer (more specifically the browser) interacts with other computers.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=5sBjb5WAqag}}\r\n\r\n### Browsers\r\n\r\nWe begin with the browser, a program for running programs that are not installed on your computer.\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=CPO1r9YtbkQ}}\r\n\r\n### Cloud Computing and Databases\r\n\r\nIn this video, we briefly scratch the surface of how your browser gives you access to resources in the cloud, like webservers and databases. \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=PASnGB15IdI}}\r\n\r\n## Main Content\r\n\r\nThe following sections cover each of the topics and provide multiple acceptable ways to answer each final exam question.  At the end of this page, you'll find the Bonus Videos section with links to various videos that cover these same topics (often in much greater depth than is required for this course).\r\n\r\n### Browsers\r\n\r\nWeb browsers are sophisticated applications that serve as our window to the internet. They interpret and display web content, making the vast resources of the World Wide Web accessible to everyday users.\r\n\r\n**Core Browser Functions:**\r\n- **Rendering Engine**: Processes HTML, CSS, and JavaScript to display web pages\r\n- **Networking**: Handles HTTP/HTTPS requests to fetch content from web servers\r\n- **Security**: Manages cookies, certificates, and privacy settings to protect users\r\n- **Caching**: Stores frequently accessed content locally to improve performance\r\n\r\n**Web Technologies Stack:**\r\n- **HTML (HyperText Markup Language)**: Provides the structure and content of web pages\r\n- **CSS (Cascading Style Sheets)**: Controls the visual presentation and layout\r\n- **JavaScript**: Enables interactive functionality and dynamic content updates\r\n\r\nModern browsers are essentially operating systems for web applications, providing APIs for everything from graphics rendering to hardware access. Understanding how browsers work helps us appreciate both the possibilities and limitations of web-based computing.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Browsers\"}}\r\n\r\n### Networks\r\n\r\nComputer networks form the backbone of modern digital communication, enabling everything from simple email exchanges to complex cloud computing services. Understanding networks helps us appreciate how information travels across the globe in milliseconds.\r\n\r\n**Key Network Concepts:**\r\n- **Internet vs. World Wide Web**: The internet is the physical infrastructure (cables, routers, protocols), while the web is a service that runs on top of it\r\n- **IP Addresses**: Unique numerical identifiers that allow computers to find and communicate with each other\r\n- **URLs and Domain Names**: Human-readable addresses that map to IP addresses, making the web navigable\r\n- **Protocols**: Standardized rules (like HTTP/HTTPS) that govern how data is transmitted and received\r\n\r\n**Network Infrastructure:**\r\n- **Physical Layer**: Cables, fiber optics, wireless signals that carry data\r\n- **Routing**: How data packets find their way from source to destination\r\n- **Addressing**: Systems that ensure messages reach the correct recipient\r\n- **Security**: Encryption and authentication mechanisms that protect data in transit\r\n\r\nNetworks operate on multiple scales, from local area networks (LANs) in your home or office to wide area networks (WANs) that span continents. The internet represents the ultimate network - a \"network of networks\" that connects billions of devices worldwide.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Networks\"}}\r\n\r\n### Cloud Computing\r\n\r\nCloud computing represents a fundamental shift in how we think about computing resources. Instead of owning and maintaining physical hardware, users can access computing power, storage, and applications over the internet as needed.\r\n\r\n**Core Cloud Benefits:**\r\n- **Scalability**: Resources can be increased or decreased based on demand\r\n- **Cost Efficiency**: Pay only for what you use, avoiding large upfront hardware investments\r\n- **Accessibility**: Access your data and applications from anywhere with an internet connection\r\n- **Reliability**: Professional data centers offer better uptime and disaster recovery than most personal setups\r\n- **Maintenance**: No need to manage hardware updates, security patches, or physical infrastructure\r\n\r\n**Common Cloud Services:**\r\n- **Storage**: Google Drive, Dropbox, iCloud for file storage and synchronization\r\n- **Productivity**: Office 365, Google Workspace for document creation and collaboration\r\n- **Entertainment**: Netflix, Spotify, YouTube for media streaming\r\n- **Communication**: Gmail, Slack, Zoom for messaging and video conferencing\r\n- **Development**: AWS, Azure, Google Cloud Platform for building and hosting applications\r\n\r\n**Service Models:**\r\n- **Software as a Service (SaaS)**: Complete applications delivered over the internet\r\n- **Platform as a Service (PaaS)**: Development platforms and tools in the cloud\r\n- **Infrastructure as a Service (IaaS)**: Virtual hardware resources (servers, storage, networking)\r\n\r\nCloud computing has democratized access to powerful computing resources, enabling small startups to compete with large corporations by leveraging the same infrastructure.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Cloud Computing\"}}\r\n\r\n### Web Apps\r\n\r\nWeb applications represent the evolution of software from desktop-installed programs to browser-based solutions. They combine the accessibility of websites with the functionality of traditional desktop applications.\r\n\r\n**Web Apps vs. Desktop Apps:**\r\n- **Installation**: Web apps run in browsers with no installation required; desktop apps must be downloaded and installed\r\n- **Updates**: Web apps update automatically on the server; desktop apps require manual updates\r\n- **Platform Independence**: Web apps work on any device with a browser; desktop apps are often platform-specific\r\n- **Access**: Web apps can be accessed from anywhere with internet; desktop apps are tied to specific devices\r\n- **Performance**: Desktop apps often have better performance; web apps may have latency due to network communication\r\n\r\n**Web App Architecture:**\r\n- **Frontend**: The user interface running in the browser (HTML, CSS, JavaScript)\r\n- **Backend**: Server-side logic that processes requests and manages data\r\n- **Database**: Storage system for persistent data (user accounts, content, settings)\r\n- **APIs**: Interfaces that allow different parts of the system to communicate\r\n\r\n**Modern Web App Features:**\r\n- **Responsive Design**: Adapts to different screen sizes and devices\r\n- **Real-time Updates**: Push notifications and live data synchronization\r\n- **Offline Functionality**: Progressive Web Apps (PWAs) can work without internet\r\n- **Integration**: Can access device features like camera, location, and storage\r\n\r\n**Examples of Web Apps:**\r\n- **Productivity**: Google Docs, Notion, Trello for work and organization\r\n- **Social**: Facebook, Twitter, Instagram for communication and sharing\r\n- **Entertainment**: YouTube, Netflix (web version), Spotify for media consumption\r\n- **Commerce**: Amazon, eBay, online banking for transactions and services\r\n\r\nWeb applications have transformed how we interact with software, making powerful tools accessible to anyone with a web browser.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Web Apps\"}}\r\n\r\n## Bonus Videos\r\n\r\nThese videos provide additional depth and perspective on the web technologies that connect our digital world.\r\n\r\n### Web Browsers\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=AlkDbnbv7dk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=gT0Lh1eYk78}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=E_wX40fQwEA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=U8542COlBiU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=salY_Sm6mv4}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=xwKbtUP87Dk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=FxqlmI0Oqis}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=QzohDuGk4mM}}\r\n\r\n### Networking and the Internet\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=hJHvdBlSxug}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=x3c1ih2NJEg}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=9hIQjrMHTv4}}\r\n\r\n### Cloud Computing\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=M988_fsOSWo}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=mxT233EdY5c}}\r\n\r\n### Web Applications and Databases\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=lyoT1xuZmx4}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=xv0Be4QfkH0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=_higfXfhjdo}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=RsQ1tFLwldY}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=lYbATjjjDxM}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=sDlCSIDwpDs}}",
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/index.md",
-  compiledAt: "2025-10-23T22:23:09.638Z",
+  compiledAt: "2025-11-07T21:05:57.181Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12022,7 +12022,7 @@ export const compiledFiles = {
     module: "# Storage Vocabulary\r\n\r\n{{VocabList:exam-questions.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/02-a-few-computers/vocabulary.md",
-  compiledAt: "2025-10-23T22:23:09.650Z",
+  compiledAt: "2025-11-07T21:05:57.182Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12033,7 +12033,7 @@ export const compiledFiles = {
     module: "# Operating Systems - Big Picture Concepts\r\n\r\nThis section presents key concepts in operating systems through an interactive concept map.\r\n\r\n{{ConceptMap:concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/concepts.md",
-  compiledAt: "2025-10-23T22:23:09.669Z",
+  compiledAt: "2025-11-07T21:05:57.182Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12044,7 +12044,7 @@ export const compiledFiles = {
     module: "# Exam Questions\r\n\r\n{{ExamQuestions:concept-map.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.672Z",
+  compiledAt: "2025-11-07T21:05:57.182Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12055,7 +12055,7 @@ export const compiledFiles = {
     module: "# Lots of Computers\r\n\r\n## Overview\r\n\r\n* **Conflict** - Understanding the challenges and disputes that arise when many computers and people interact in digital spaces\r\n* **Collaboration** - Exploring how massive networks enable unprecedented cooperation and knowledge sharing across the globe\r\n* **Defense** - Learning about cybersecurity measures and strategies to protect systems when they're interconnected\r\n* **Attack** - Examining the various threats and vulnerabilities that emerge in highly connected computer systems\r\n\r\n## Pre-Test\r\n\r\nPlease click through the following categories and read the exam questions.  I'd recommend making a note of the ones you think will be easy and which ones you think will be hard. \r\n\r\n{{ConceptMap:concept-map.yml}}\r\n\r\n## Video Content\r\n\r\nThis chapter's video content will be slightly different because the material is considerably less technical.  Although this video gives a brief overview of the topics (collaboration, hackers, networks, and AI), it doesn't **directly** answer any of the questions on the final.  \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=ZUesXNpTlzg}}\r\n\r\nNevertheless, you can find textual answers below, and there are many bonus video resources at the bottom of the page.  I think most students should, after some light research, be able to answer the questions in this chapter with diagrams of their own.  \r\n\r\n> Note: If any such videos/diagrams turn out to be exemplary, I'll embed them here (with the creator's permission).\r\n\r\n## Main Content\r\n\r\nThe following sections cover each of the topics and provide multiple acceptable ways to answer each final exam question.  At the end of this page, you'll find the Bonus Videos section with links to various videos that cover these same topics (often in much greater depth than is required for this course).\r\n\r\n### Conflict\r\n\r\nWhen millions of computers connect billions of people, new forms of conflict emerge that humanity has never faced before. These digital conflicts range from legal disputes over intellectual property to harmful social behaviors that can affect real lives.\r\n\r\n**Digital Copyright Challenges:**\r\n- **Content Creation vs. Sharing**: The ease of copying digital content creates tension between creators' rights and users' sharing habits\r\n- **Fair Use in Digital Age**: Traditional fair use doctrine struggles to keep pace with remix culture, memes, and educational sharing\r\n- **Global vs. Local Laws**: Different countries have different copyright laws, creating conflicts in the borderless internet\r\n- **Platform Responsibility**: Who is liable when copyrighted content is shared on social media or cloud platforms?\r\n\r\n**Cyberbullying and Online Harassment:**\r\n- **Anonymity and Disinhibition**: People behave differently online, sometimes more aggressively than they would face-to-face\r\n- **Scale and Persistence**: Digital harassment can follow victims everywhere and persist indefinitely\r\n- **Amplification Effects**: Social media can turn individual conflicts into massive public spectacles\r\n- **Cross-Platform Issues**: Harassment often spans multiple platforms, making it difficult to address comprehensively\r\n\r\n**Information Conflicts:**\r\n- **Misinformation Spread**: False information can travel faster than corrections in networked systems\r\n- **Echo Chambers**: Algorithms can trap people in bubbles of similar viewpoints, increasing polarization\r\n- **Deep Fakes and Manipulation**: Technology makes it increasingly difficult to distinguish real from fake content\r\n\r\nThe interconnected nature of modern computing means that conflicts in one part of the network can rapidly escalate and affect millions of people worldwide.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Conflict\"}}\r\n\r\n### Collaboration\r\n\r\nThe same networks that enable conflict also create unprecedented opportunities for human collaboration. When many computers connect many people, the collective intelligence and capability far exceeds what any individual or small group could achieve.\r\n\r\n**Six Degrees of Separation:**\r\n- **Network Theory**: The idea that everyone is connected to everyone else by at most six intermediary relationships\r\n- **Digital Amplification**: Social networks make these connections visible and actionable\r\n- **Small World Phenomenon**: Despite billions of users, social networks often feel surprisingly intimate\r\n- **Weak Ties Strength**: Casual connections often provide more diverse information and opportunities than close friends\r\n\r\n**Crowdsourcing and Collective Intelligence:**\r\n- **Wikipedia Model**: Demonstrating how millions of contributors can create and maintain vast knowledge repositories\r\n- **Peer Review at Scale**: Distributed editing and fact-checking by volunteer communities\r\n- **Version Control**: Systems that track changes and allow collaborative editing without conflicts\r\n- **Consensus Building**: Mechanisms for resolving disputes and reaching agreements in large groups\r\n\r\n**Open Source Collaboration:**\r\n- **Distributed Development**: Programmers worldwide contribute to shared software projects\r\n- **Transparency and Trust**: Open code allows anyone to verify, improve, or adapt existing work\r\n- **Commons-Based Peer Production**: New economic models based on sharing rather than exclusive ownership\r\n- **Network Effects**: Projects become more valuable as more people use and contribute to them\r\n\r\n**Global Coordination:**\r\n- **Real-Time Collaboration**: People across time zones can work together seamlessly\r\n- **Crisis Response**: Networks enable rapid coordination during emergencies and disasters\r\n- **Knowledge Sharing**: Expertise can be instantly accessible to anyone with an internet connection\r\n- **Cultural Exchange**: Different perspectives and approaches can be easily shared and combined\r\n\r\nThe power of collaboration through connected computers has created new forms of human organization that blur traditional boundaries between individuals, communities, and institutions.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Collaboration\"}}\r\n\r\n### Defense\r\n\r\nAs computer systems become more interconnected, defending them becomes both more critical and more challenging. Cybersecurity in a networked world requires understanding how to protect not just individual computers, but entire ecosystems of connected devices and services.\r\n\r\n**Encryption and Data Protection:**\r\n- **Data in Transit**: Protecting information as it travels across networks using protocols like HTTPS\r\n- **Data at Rest**: Securing stored information even if physical devices are compromised\r\n- **End-to-End Encryption**: Ensuring only intended recipients can read messages, even if intermediary systems are compromised\r\n- **Key Management**: Safely distributing and managing the cryptographic keys that make encryption work\r\n\r\n**Authentication and Access Control:**\r\n- **Two-Factor Authentication (2FA)**: Using multiple forms of verification to confirm identity\r\n- **Multi-Factor Authentication (MFA)**: Extending beyond two factors to include biometrics, location, and behavior\r\n- **Single Sign-On (SSO)**: Balancing convenience with security across multiple connected services\r\n- **Zero Trust Architecture**: Assuming no system is inherently trustworthy and verifying everything\r\n\r\n**Password Security:**\r\n- **Strong Password Requirements**: Understanding why length and complexity matter\r\n- **Password Managers**: Tools that generate and store unique passwords for every service\r\n- **Password Reuse Risks**: How one compromised password can lead to multiple account breaches\r\n- **Biometric Alternatives**: Using fingerprints, facial recognition, and other biological markers\r\n\r\n**Network Defense:**\r\n- **Firewalls**: Controlling which network traffic is allowed in and out of systems\r\n- **Intrusion Detection**: Monitoring systems for signs of unauthorized access or malicious activity\r\n- **Network Segmentation**: Isolating different parts of networks to limit damage from breaches\r\n- **Updates and Patches**: Keeping software current to fix newly discovered vulnerabilities\r\n\r\n**Layered Security:**\r\nThe principle that no single defense is perfect, so multiple overlapping protections are essential. Like physical security that combines locks, alarms, guards, and cameras, cybersecurity requires multiple defensive measures working together.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Defense\"}}\r\n\r\n### Attack\r\n\r\nUnderstanding cybersecurity attacks is crucial for defense. Attackers exploit the same interconnected nature that makes modern computing powerful, using network connections to spread malware, steal data, and disrupt services across vast numbers of systems.\r\n\r\n**Malware and Malicious Software:**\r\n- **Viruses**: Programs that replicate by inserting copies into other programs or files\r\n- **Worms**: Self-replicating programs that spread across networks without user intervention\r\n- **Trojans**: Malicious programs disguised as legitimate software\r\n- **Ransomware**: Malware that encrypts victim's files and demands payment for decryption\r\n- **Rootkits**: Stealthy malware that hides deep in operating systems to avoid detection\r\n\r\n**Advanced Persistent Threats:**\r\n- **Zero-Day Exploits**: Attacks using previously unknown vulnerabilities before patches are available\r\n- **Supply Chain Attacks**: Compromising software or hardware during the development or distribution process\r\n- **Living Off the Land**: Using legitimate system tools for malicious purposes to avoid detection\r\n- **Persistence Mechanisms**: Methods attackers use to maintain access even after systems are rebooted or updated\r\n\r\n**Social Engineering:**\r\n- **Phishing**: Deceiving users into revealing credentials or installing malware through fake emails or websites\r\n- **Spear Phishing**: Targeted phishing attacks customized for specific individuals or organizations\r\n- **Pretexting**: Creating false scenarios to manipulate people into divulging information\r\n- **Baiting**: Offering something enticing to trick users into compromising security\r\n\r\n**Network-Based Attacks:**\r\n- **Spoofing**: Falsifying network identities to appear as trusted sources\r\n- **Man-in-the-Middle**: Intercepting communications between two parties\r\n- **Distributed Denial of Service (DDoS)**: Overwhelming servers with traffic from many compromised computers\r\n- **Packet Sniffing**: Capturing and analyzing network traffic to steal sensitive information\r\n\r\n**Online Intrusion Techniques:**\r\n- **Brute Force Attacks**: Systematically trying many passwords until finding the correct one\r\n- **Credential Stuffing**: Using stolen username/password combinations from one breach to access other services\r\n- **Privilege Escalation**: Gaining higher levels of access than initially obtained\r\n- **Lateral Movement**: Spreading through a network after gaining initial access\r\n\r\n**Economic and Motivational Factors:**\r\n- **Cybercrime as a Service**: Criminal organizations offering attack tools and services to other criminals\r\n- **Nation-State Actors**: Government-sponsored attacks for espionage or disruption\r\n- **Hacktivism**: Attacks motivated by political or social causes\r\n- **Financial Crime**: Direct theft of money or valuable data for profit\r\n\r\nThe scale and automation possible with networked computers means that a single attacker can potentially affect millions of victims simultaneously, making cybersecurity a critical concern for individuals, organizations, and society as a whole.\r\n\r\n{{ExamQuestions:concept-map.yml concept_filter:\"Attack\"}}\r\n\r\n## Bonus Videos\r\n\r\nThese videos provide additional depth on the complex issues that arise when vast networks of computers connect people around the world.\r\n\r\n### Connected Society\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=CYlon2tvywA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=TcxZSmzPw8k}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=X0mHf3oSUdU}}\r\n\r\n#### Collaboration\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=zbKdDsNNOhg}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=e9lnsKot_SQ}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Yc8sCSeMhi4}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=7EZ-dCSrlaM}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=For9VtrQx58}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=F4bYIGnoS1k}}\r\n\r\n#### Conflict\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Im80FZKTKIk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=XzzkSZ0Jrko}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=xvZHNwBHirQ}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=Tamoj84j64I}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=0Xo8N9qlJtk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=vtfMzmkYp9E}}\r\n\r\n### Cybersecurity \r\n\r\n{{YouTube:https://www.youtube.com/watch?v=inWWhr5tnEA}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=bPVaOlJ6ln0}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=jhXCTbFnK8o}}\r\n\r\n#### Defense\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=6-JjHa-qLPk}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=2llWuivdS7w}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=kDEX1HXybrU}}\r\n\r\n\r\n#### Attack\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=h85G7dBqBKU}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=mqzP7gJDM2s}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=rxN4zWTNSds}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=NNdCaNiqqTo}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=lEK84lV6dxs}}\r\n\r\n{{YouTube:https://www.youtube.com/watch?v=uMkOphesrqI}}\r\n",
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/index.md",
-  compiledAt: "2025-10-23T22:23:09.678Z",
+  compiledAt: "2025-11-07T21:05:57.182Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12066,7 +12066,7 @@ export const compiledFiles = {
     module: "# Operating Systems - Vocabulary\r\n\r\nThis section contains vocabulary terms from all operating systems topics.\r\n\r\n{{VocabList:exam-questions.yml}}\r\n",
     metadata: {
   sourceFile: "content/overviews/03-a-lot-of-computers/vocabulary.md",
-  compiledAt: "2025-10-23T22:23:09.688Z",
+  compiledAt: "2025-11-07T21:05:57.182Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12077,7 +12077,7 @@ export const compiledFiles = {
     module: "# 5G - Categories 1\r\n\r\nGenerated on 2025-09-03 13:17:11\r\n\r\nShort answer on categorization: 5G is both a member and a category.\r\n\r\n- As a member: It is a member of the broader category “cellular network generations.”\r\n- As a category: It denotes a family of standards, technologies, bands, features, and deployment types grouped under “5G.”\r\n\r\nDSRP analysis focused on categorization\r\n\r\nDistinctions (what 5G is and is not)\r\n- Is: The fifth generation of cellular/mobile networking standardized by 3GPP; includes specific radio (5G NR) and core (5GC) technologies and features (eMBB, URLLC, mMTC).\r\n- Is not: Wi‑Fi (unlicensed WLAN), merely higher speed 4G, or a single frequency/band. Not just marketing; tied to specific 3GPP releases and performance targets.\r\n- Boundary distinctions: 5G SA vs NSA; sub-6 GHz vs mmWave; public vs private 5G.\r\n\r\nSystems (parts/subcategories within 5G as a category)\r\n- Standards stack:\r\n  - Radio: 5G NR (FR1 sub-6 GHz; FR2 mmWave 24–52 GHz)\r\n  - Core: 5G Core (5GC), service-based architecture, network slicing\r\n  - 3GPP Releases: Rel-15/16 (initial 5G), Rel-17/18 (5G-Advanced)\r\n- Deployment modes: Standalone (SA) vs Non-Standalone (NSA)\r\n- Spectrum/bands: Low-band (<1 GHz), mid-band (1–6 GHz), high-band/mmWave (24–52 GHz)\r\n- RAN tech: Massive MIMO, beamforming, small cells, dual connectivity\r\n- Use-case categories: eMBB, URLLC, mMTC\r\n- Operational contexts: Public macro networks, dense urban small cells, private/enterprise 5G, MEC/edge sites\r\n\r\nRelationships (how 5G relates to other categories/concepts)\r\n- Successor relationship: Follows 4G/LTE; precursor to 6G\r\n- Tradeoff relationship: Higher frequency ↔ shorter range/weaker penetration\r\n- Enabler relationship: Enables IoT scale, edge computing, AR/VR, V2X, cloud gaming, smart factories/cities\r\n- Compliance/coordination: Spectrum regulation, device ecosystem, interoperability with 4G (NSA)\r\n\r\nPerspectives (how different stakeholders categorize 5G)\r\n- User perspective: Faster, lower-latency mobile broadband (eMBB)\r\n- Operator perspective: A platform category with slices, spectrum layers, and deployment options\r\n- Enterprise perspective: A category of private wireless solutions (often mid-band with SA + MEC)\r\n- Regulator perspective: A spectrum usage category with licensing and coexistence constraints\r\n- Device/vendor perspective: A standard generation with chipset/band/feature variants\r\n\r\nExplicit category placement\r\n\r\nParent categories (what 5G is a member of)\r\n- Telecommunications\r\n- Wireless communications\r\n- Mobile/cellular networks\r\n- Mobile broadband\r\n- Radio access technologies (RATs)\r\n- 3GPP-standardized generations\r\n\r\nSibling members (other members of the same parent category “cellular generations”)\r\n- 1G (analog), 2G (GSM/cdmaOne), 3G (UMTS/CDMA2000), 4G (LTE), 5G-Advanced (within 5G), emerging 6G\r\n\r\nSubcategories under 5G (what sits inside 5G as a category)\r\n- Standards/releases: 3GPP Rel-15, 16, 17, 18 (5G-Advanced)\r\n- Radio variants: 5G NR FR1 (low/mid-band), FR2 (mmWave)\r\n- Architecture/deployment: SA, NSA; macro vs small cell; public vs private networks\r\n- Core features: 5G Core (SBA), network slicing, MEC/edge integration\r\n- Capabilities/use cases: eMBB, URLLC, mMTC; V2X (C-V2X), RedCap (reduced-capability IoT)\r\n- RAN technologies: Massive MIMO, beamforming, carrier aggregation, DSS\r\n- Market segments: Consumer mobile broadband, fixed wireless access (FWA), industrial/enterprise 5G\r\n\r\nConclusion\r\n- 5G is both a member (of cellular generations) and a category (a family of technologies and deployments). It has clear parents and siblings at the “generation” level and rich subcategories within its own technology stack and use cases.\r\n\r\n\r\n---\r\n\r\n## 2025-09-03 13:19:38\r\n\r\nGenus–differentia definition\r\n- Genus: Cellular/mobile communication standard (wireless broadband telecommunications technology).\r\n- Differentia: The fifth generation, defined by IMT‑2020/3GPP, that combines higher‑frequency spectrum use (incl. mmWave), denser small‑cell deployments, a service‑based core with network slicing, and edge integration to deliver much higher throughput, much lower latency, and massive device density versus 4G, enabling real‑time/cloud applications (e.g., 4K/8K streaming, cloud gaming, AR/VR, telemedicine, smart factories/cities, V2X).\r\n\r\nCategory or member?\r\n- Both.\r\n  - Member of the category “cellular network generations / mobile communication standards.”\r\n  - Category for its own family of technologies, deployments, and service types (e.g., 5G NR, FR1/FR2, SA/NSA, eMBB/URLLC/mMTC).\r\n\r\nParent categories (hypernyms)\r\n- Cellular/mobile network generation (IMT family of standards).\r\n- Wireless broadband access technology.\r\n- Telecommunications network standard (3GPP/ITU).\r\n\r\nSibling categories (co-hyponyms under “cellular network generation”)\r\n- 1G (analog cellular).\r\n- 2G (e.g., GSM, IS‑95/cdmaOne).\r\n- 3G (e.g., UMTS/HSPA, CDMA2000/EV‑DO).\r\n- 4G (LTE/LTE‑Advanced).\r\n- 6G (emerging/pre‑standard).\r\n\r\nSubcategories within 5G (hyponyms/constituents)\r\n- Radio interface:\r\n  - 5G NR (New Radio).\r\n  - 5G‑Advanced (3GPP Release 18+).\r\n- Spectrum ranges/bands:\r\n  - Low‑band (sub‑1 GHz, FR1 subset).\r\n  - Mid‑band (e.g., 1–7 GHz/C‑band, FR1).\r\n  - High‑band/mmWave (≈24–100 GHz, FR2).\r\n- Deployment architecture:\r\n  - Non‑Standalone (NSA; 5G NR + 4G core).\r\n  - Standalone (SA; 5G NR + 5G Core).\r\n- Core/network functions:\r\n  - 5G Core (service‑based architecture, slicing, SBA functions).\r\n  - MEC/edge integration.\r\n- Service classes (ITU/3GPP use‑case categories):\r\n  - eMBB (enhanced Mobile Broadband).\r\n  - URLLC (Ultra‑Reliable Low‑Latency Communications).\r\n  - mMTC (massive Machine‑Type Communications).\r\n- Network types/ownership:\r\n  - Public 5G networks (MNOs).\r\n  - Private/Non‑Public Networks (NPN), including industrial/private 5G.\r\n- Access/use modes:\r\n  - Mobile broadband.\r\n  - Fixed Wireless Access (FWA).\r\n  - V2X (cellular vehicle‑to‑everything).\r\n- RAN architecture options:\r\n  - Traditional integrated RAN.\r\n  - Open RAN/virtualized RAN (vRAN).\r\n",
     metadata: {
   sourceFile: "definitions/5g/categories-1.md",
-  compiledAt: "2025-10-23T22:23:09.691Z",
+  compiledAt: "2025-11-07T21:05:57.183Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12088,7 +12088,7 @@ export const compiledFiles = {
     module: "# 5G - Cabrera Dialectic 2\r\n\r\nGenerated on 2025-09-03 12:53:44\r\n\r\nDistinctions (what it is and isn’t)\r\n- 5G vs 4G: Orders-of-magnitude lower latency, higher peak and average throughput, and higher connection density; adds network slicing and native edge integration.\r\n- 5G vs Wi‑Fi: Licensed spectrum with carrier-grade mobility and QoS vs unlicensed, local-area access; complementary, not replacements.\r\n- 5G vs “millimeter wave”: mmWave is one option within 5G; sub‑6 GHz bands (low/mid-band) are also 5G and drive broad coverage.\r\n- Public 5G vs private 5G: Operator-run wide-area networks vs enterprise-owned/managed on-premise networks for factories, campuses.\r\n- 5G vs edge computing: 5G transports; edge provides compute/storage closer to users and devices. Often co-deployed, but distinct layers.\r\n- 5G performance claims vs real-world: Peak lab speeds differ from typical user experience; coverage, backhaul, device capability, and spectrum holdings constrain outcomes.\r\n\r\nParts and wholes (how it’s composed)\r\n- Spectrum tiers:\r\n  - Low-band (e.g., 600–900 MHz): broad coverage, slower speeds, strong penetration.\r\n  - Mid-band (e.g., 2.5–4 GHz, C‑band): balance of speed and coverage; 5G “workhorse.”\r\n  - High-band/mmWave (e.g., 24–40+ GHz): very high throughput, very short range, weak indoor penetration.\r\n- Radio access network (RAN):\r\n  - gNodeB radios (macro + small cells), beamforming/ massive MIMO, carrier aggregation.\r\n- Core network:\r\n  - 5G NSA (piggybacks on 4G core) vs SA (standalone 5G core enabling full features: slicing, ultra-reliable low latency).\r\n- Software features:\r\n  - Network slicing, QoS classes, MEC (multi-access edge computing), virtualization (NFV), automation/Orchestration.\r\n- Ecosystem:\r\n  - Devices (handsets, IoT modules, industrial sensors, vehicles), apps (AR/VR, telemedicine), cloud/edge platforms, security and policy.\r\n\r\nRelationships (cause–effect, trade-offs, dependencies)\r\n- Frequency vs performance: Higher frequency ⇒ more bandwidth ⇒ higher top speeds and capacity, but shorter range and poorer building penetration ⇒ requires denser small-cell deployment.\r\n- Cell density vs experience: More sites and fiber backhaul ⇒ higher consistent throughput, lower latency, better reliability; capex/opex rise with density.\r\n- Latency chain: Radio interface + scheduling + transport + core processing + application server distance. Edge computing reduces the last two.\r\n- Slicing vs QoS: Slicing isolates resources and policies per service/tenant; QoS prioritizes flows within or across slices. Both shape reliability and performance guarantees.\r\n- Battery life vs radio features: Higher-order MIMO, frequent beam management, and high throughput raise power draw; modem and network optimizations mitigate.\r\n- Security vs openness: Private 5G and slicing can improve isolation and policy control; larger attack surface with virtualized, software-defined components demands strong zero-trust, observability, and patch velocity.\r\n- Application fit:\r\n  - eMBB (enhanced Mobile Broadband): streaming, cloud gaming, 4K/8K video.\r\n  - URLLC (ultra-reliable low-latency comms): industrial control, telesurgery (stringent SLAs, often private/on-prem with edge).\r\n  - mMTC (massive machine-type comms): dense IoT sensors (power-efficient, scalable signaling).\r\n\r\nPerspectives (stakeholders and frames)\r\n- User: Wants consistent speed, low latency for apps, coverage indoors/outdoors, reasonable battery life.\r\n- Enterprise/OT: Deterministic latency/jitter, security domains, local breakout to edge, integration with MES/SCADA/PLC, lifecycle control.\r\n- Operator: Spectrum strategy, site acquisition, backhaul, RAN/core modernization, automation, monetization via slices and enterprise services.\r\n- Regulator: Spectrum allocation/auctions, interference management, safety standards, rural coverage obligations.\r\n- App developer/cloud: Place workloads across device/edge/region, handle variable latency, network APIs (exposure of QoS/slice info), observability.\r\n- City/transport: Smart infrastructure, V2X safety, permitting for small cells, curb management, equity of access.\r\n\r\nBoundaries and scope (what’s inside the analysis)\r\n- Inside: Radio layers, core, spectrum, deployment density, edge placement, application requirements, policy/security.\r\n- Outside (but adjacent): Handset SoC roadmaps, data caps/business models, geopolitics of vendors, 6G research trajectories—relevant but not required for baseline understanding.\r\n\r\nPatterns and variations (contexts)\r\n- Urban dense: Mid-band + mmWave hot spots, abundant small cells; strong eMBB and enterprise private networks.\r\n- Suburban: Mid-band macro with selective small cells; good general performance, variable indoor coverage.\r\n- Rural: Low-band macro; wide coverage, lower throughput; fixed wireless access becomes attractive.\r\n- Indoor enterprise: Private 5G or neutral host with dedicated mid-band, tight integration with LAN/edge; deterministic QoS.\r\n- Mobility corridors: Handover performance, beam tracking, and edge placement critical for V2X/connected vehicles.\r\n\r\nCommon misconceptions to challenge\r\n- “5G always means gigabit speeds.” Not without mid/high-band spectrum, sufficient signal quality, and uncongested cells.\r\n- “mmWave is the entirety of 5G.” It’s one option; most real-world coverage relies on mid/low bands.\r\n- “Latency is just a radio feature.” End-to-end latency depends on entire path and where compute runs.\r\n- “5G replaces Wi‑Fi.” They address different needs; converged designs are common.\r\n- “Public 5G can meet any industrial SLA.” Some SLAs require private spectrum, on-prem edge, and tailored policies.\r\n\r\nGuiding questions to refine decisions\r\n- Which bands are available, and what propagation constraints define site planning?\r\n- Where should compute live (device, on-prem edge, metro edge, regional cloud) to meet latency/jitter needs?\r\n- Do we need hard isolation (slicing/private) or is QoS prioritization sufficient?\r\n- What’s the minimum viable density and backhaul for target throughput and reliability?\r\n- How will security domains, identity, and observability span RAN, core, edge, and app layers?\r\n- What is the lifecycle plan for devices/modems and network features (NSA→SA, Rel‑15→Rel‑17/18 capabilities)?\r\n\r\nSimple stepwise application for a use case (example: cloud robotics in a factory)\r\n- Define requirements: 10–20 ms round-trip, 99.99% reliability, deterministic jitter, local data sovereignty.\r\n- Choose architecture: Private 5G SA mid-band with on-prem edge; dedicated slice for control traffic; redundant backhaul to metro core.\r\n- Engineer coverage: Indoor small cells with overlap; RF planning for metal-rich environments; device certification.\r\n- Assure performance: Policy control for QoS, time-sensitive networking gateways if needed, closed-loop RAN optimization.\r\n- Validate and iterate: Measure E2E latency, jitter, packet loss; adjust power, scheduling, and edge placement; security testing and monitoring.\r\n\r\nNear-term evolution to watch\r\n- Wider mid-band deployments and carrier aggregation improving consistency.\r\n- Standalone cores enabling broader slicing and lower-latency features.\r\n- RedCap/NR-Light for simpler, lower-power IoT.\r\n- Network APIs for developers (QoS on demand, slice selection, location, exposure).\r\n- AI-driven RAN optimization and energy savings.\r\n\r\nQuick takeaway\r\n- Think in layers (spectrum, RAN, core, edge), map trade-offs (frequency vs coverage, edge vs cloud), align with use-case SLAs (eMBB/URLLC/mMTC), and choose deployment and policy patterns (public, private, slicing) that fit the performance, security, and cost envelope.\r\n",
     metadata: {
   sourceFile: "definitions/5g/dsrp-1.md",
-  compiledAt: "2025-10-23T22:23:09.699Z",
+  compiledAt: "2025-11-07T21:05:57.183Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12099,7 +12099,7 @@ export const compiledFiles = {
     module: "# 5G - Exam Questions\r\n\r\nGenerated on 2025-09-03 11:06:08\r\n\r\n1) Which statement best describes a primary advantage of 5G over 4G?\r\nA. Higher latency but greater coverage\r\nB. Much higher data speeds, much lower latency, and ability to connect more devices\r\nC. Lower data speeds but better indoor penetration\r\nD. Fewer connected devices to reduce interference\r\n\r\n2) Which set of technologies/principles enables 5G’s performance improvements?\r\nA. Lower-frequency spectrum, macro-only cell sites, best-effort routing\r\nB. Higher-frequency spectrum, denser networks of small antennas, and network slicing\r\nC. Satellite backhaul only, beamforming removal, centralized cores\r\nD. Analog modulation, wide guard bands, single shared network for all traffic\r\n\r\n3) Which application most directly benefits from 5G’s low latency and edge computing capabilities?\r\nA. Batch email downloads\r\nB. 4K video streaming buffered minutes ahead\r\nC. Real-time cloud gaming and AR/VR\r\nD. Static website browsing\r\n\r\nAnswer key: 1-B, 2-B, 3-C\r\n",
     metadata: {
   sourceFile: "definitions/5g/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.701Z",
+  compiledAt: "2025-11-07T21:05:57.183Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12110,7 +12110,7 @@ export const compiledFiles = {
     module: "# 5G - Expanded Definition\r\n\r\n5G / ˈfaɪv dʒiː /, also five‑G. Part of speech: noun (mass and count), also attributive (before a noun).\r\n\r\nForms and variants:\r\n- 5G (standard); also 5‑G (rare), 5G NR in technical contexts (‘New Radio’).\r\n- Attributive uses include 5G network, 5G phone, 5G coverage, 5G-enabled device.\r\n\r\nEtymology:\r\nFormed from 5 ‘fifth’ + G ‘generation’, following established telecommunication naming (1G, 2G, 3G, 4G). Codified within the 3GPP standards family as “5G NR”.\r\n\r\nCore senses:\r\n1) Mass noun. The fifth generation of cellular mobile communications technology, offering much higher peak and median data rates, much lower latency, and far greater device capacity than 4G, enabled by use of new spectrum (including high-frequency bands), denser small‑cell deployments, advanced antenna techniques (massive MIMO, beamforming), and features such as network slicing and edge computing.\r\nExample: In dense urban cores, 5G can deliver multi‑gigabit speeds with sub‑tens‑of‑milliseconds latency.\r\n\r\n2) Count noun. A 5G network, service, or connection; any instance or implementation of the technology.\r\nExample: The carrier’s 5G now covers most commuter corridors but still falls back to 4G indoors.\r\n\r\n3) Attributive. Designating devices, services, applications, or infrastructure that use, support, or are optimized for 5G.\r\nExample: The factory deployed 5G sensors and a private 5G core to coordinate its robots in real time.\r\n\r\n4) Figurative or metonymic. The sector, policy arena, or strategic competition surrounding 5G technology.\r\nExample: Spectrum auctions show how 5G has become a focal point of industrial policy.\r\n\r\nSalient technical characteristics (for sense 1):\r\n- Spectrum: low band (sub‑1 GHz; wide coverage, modest speeds), mid band (≈1–6 GHz; balanced coverage/capacity, incl. C‑band ≈3.3–4.2 GHz), high band/mmWave (≈24–40+ GHz; very high throughput, short range, limited indoor penetration).\r\n- Architecture: non‑standalone (NSA, anchored to 4G core) and standalone (SA, 5G core enabling slicing, ultra‑reliable low‑latency features).\r\n- Capabilities: massive device density for IoT; potential low‑latency links for AR/VR, cloud gaming, telemedicine; support for private/enterprise networks and mobile edge computing.\r\n- Performance is location‑ and frequency‑dependent: higher bands are faster but more fragile over distance and through walls.\r\n\r\nHistorical development:\r\n- 2012–2015: “5G” enters research and marketing discourse; early trials.\r\n- 2018: 3GPP Release 15 finalizes first 5G NR specifications.\r\n- 2019: First commercial launches (e.g., South Korea, U.S., parts of Europe, China).\r\n- 2020–2023: Broad mid‑band rollouts; expansion of standalone 5G cores; maturation of device ecosystem.\r\n- Ongoing: Releases 16–18 extend features (industrial IoT, positioning, reduced capability devices, slicing).\r\n\r\nStakeholder and contextual uses:\r\n- Network engineering: focuses on spectrum strategy, radio planning, massive MIMO, carrier aggregation, SA vs NSA, backhaul/fronthaul design, QoS, slicing, and edge placement.\r\n- Regulators/policy: spectrum auctions and refarming, interference management, coverage obligations, security standards, critical infrastructure concerns.\r\n- Enterprise/industry (manufacturing, logistics, energy): private 5G, deterministic latency, indoor small cells, time‑sensitive networking, asset tracking, machine vision.\r\n- Computing/cloud: offloading to edge/cloud, cloud gaming, AR/VR, data pipe for telemedicine, distributed AI/analytics at the edge.\r\n- Automotive/transport: vehicle‑to‑everything (V2X), traffic systems, remote updates; note that specialized sidelink standards evolve alongside.\r\n- Consumer: faster mobile broadband, 4K/8K streaming, hotspot tethering, variable real‑world gains depending on band and deployment.\r\n\r\nUsage notes:\r\n- Coverage labels (e.g., “5G”, “5G UW/UC/Plus”) often mark different frequency tiers; user experience varies accordingly.\r\n- Devices must support local bands and carrier features to realize benefits.\r\n- 5G complements rather than replaces Wi‑Fi; each serves different ownership and traffic models.\r\n- Health/safety: 5G uses non‑ionizing RF energy; major public‑health bodies consider exposures within guidelines as safe. Public discourse has included misinformation.\r\n\r\nExample sentences (by sense):\r\n1) Mass noun\r\n- 5G enables near‑real‑time control loops by pushing compute to the network edge.\r\n- Rural 5G relies primarily on low‑band spectrum to extend coverage.\r\n\r\n2) Count noun\r\n- Their 5G is fast outdoors but drops to 4G inside older office buildings.\r\n- The city’s new 5G will prioritize transit corridors before residential streets.\r\n\r\n3) Attributive\r\n- The hospital piloted a 5G tele-ultrasound service between clinics.\r\n- A 5G modem can aggregate multiple carriers across mid‑band channels.\r\n\r\n4) Figurative/metonymic\r\n- 5G has become a proxy for competitiveness in advanced manufacturing.\r\n- Election platforms differed on how to fund rural 5G without delaying urban upgrades.\r\n\r\nCross‑references:\r\n- Compare 4G (LTE), Wi‑Fi 6/7, edge computing, network slicing, massive MIMO, mmWave, C‑band.\r\n",
     metadata: {
   sourceFile: "definitions/5g/expanded-definition.md",
-  compiledAt: "2025-10-23T22:23:09.704Z",
+  compiledAt: "2025-11-07T21:05:57.184Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12121,7 +12121,7 @@ export const compiledFiles = {
     module: "# 5G - Related Concept Sentences\r\n\r\n- Internet of Things (IoT): 5G’s low latency and massive device capacity let far more sensors and machines connect simultaneously, enabling real-time IoT use cases from smart cities to industrial monitoring.\r\n- Cloud Computing: 5G’s high speeds and low latency make it practical to offload processing to the cloud and edge, powering cloud gaming, AI inference, and thin-client devices.\r\n- Streaming: 5G supports smoother, higher-resolution streaming (e.g., 4K/8K, HDR) on mobile devices and in congested areas by providing higher throughput and better quality of service.\r\n- Video Conferencing: With reduced latency and improved uplink capacity, 5G enhances real-time video calls, enabling higher-quality, more reliable mobile conferencing and telepresence.\r\n- Augmented Reality (AR): 5G enables responsive AR by delivering fast data and edge compute resources, reducing motion-to-cloud-to-render delays for overlays in navigation, retail, and maintenance.\r\n- Virtual Reality (VR): 5G’s low latency and high bandwidth support wireless, cloud-rendered VR experiences, lowering headset weight and enabling multi-user, real-time environments.\r\n- Bandwidth: 5G increases available bandwidth through wider channels and higher-frequency spectrum, allowing faster data rates and more simultaneous users than 4G.\r\n- Internet: 5G is an access technology that connects mobile devices to the broader Internet, improving last-mile wireless performance while relying on core Internet infrastructure.\r\n- Smart Device: 5G equips smart devices (phones, wearables, vehicles, appliances) with faster, more reliable connectivity, enabling richer features and always-on services.\r\n- Automation: 5G’s reliability, ultra-low latency, and network slicing enable time-critical automation in factories, logistics, and utilities, supporting coordinated robots and autonomous systems.\r\n",
     metadata: {
   sourceFile: "definitions/5g/related-concept-sentences.md",
-  compiledAt: "2025-10-23T22:23:09.708Z",
+  compiledAt: "2025-11-07T21:05:57.184Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12132,7 +12132,7 @@ export const compiledFiles = {
     module: "# 5G - Related Concepts\r\n\r\n- Internet of Things (IoT) [Emerging Technologies]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Streaming [Digital Communication and Platforms]\r\n- Video Conferencing [Online Communication]\r\n- Augmented Reality (AR) [Emerging Technologies]\r\n- Virtual Reality (VR) [Emerging Technologies]\r\n- Bandwidth [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Smart Device [Emerging Technologies]\r\n- Automation [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/5g/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.720Z",
+  compiledAt: "2025-11-07T21:05:57.184Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12143,7 +12143,7 @@ export const compiledFiles = {
     module: "# 5G\r\n\r\nFifth generation of wireless mobile technology\r\n\r\n## Definition\r\n5G is the fifth generation of cellular networking that delivers much higher data speeds, much lower delay (latency), and the capacity to connect many more devices than 4G. It achieves this by using new, higher-frequency parts of the radio spectrum and denser networks of small antennas, and can reserve resources for specific uses (network slicing). For computing, 5G enables real-time and cloud-based applications—such as smooth 4K streaming, cloud gaming, AR/VR, telemedicine, smart factories and cities, and vehicle-to-vehicle communication—while boosting the Internet of Things and edge computing. Coverage and performance vary by location and frequency: higher bands are fastest but have shorter range and weaker indoor penetration.\r\n",
     metadata: {
   sourceFile: "definitions/5g.md",
-  compiledAt: "2025-10-23T22:23:09.722Z",
+  compiledAt: "2025-11-07T21:05:57.184Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12154,7 +12154,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Categories 1\r\n\r\nGenerated on 2025-09-03 13:17:34\r\n\r\nHere’s a concise DSRP analysis of “Absolute Path,” with emphasis on categorization.\r\n\r\nDistinctions (what it is vs. is not)\r\n- Is: a type of file system path that begins at the root and uniquely locates a resource regardless of the current working directory.\r\n- Is not: a relative path (depends on working directory), a URL/URI (web addressing), or merely a “canonical” path (resolution/normalization property).\r\n- Synonyms: full path, fully qualified path (FQP/FQPN).\r\n\r\nSystems (parts/structure of the concept)\r\n- Components: root indicator (e.g., / or C:\\), directory segments, separators, filename, optional extension.\r\n- Windows variants: drive letter + root (C:\\...), UNC authority (\\\\server\\share\\...), NT device prefix (\\\\?\\...).\r\n- POSIX variants: leading slash (e.g., /home/alex/...).\r\n\r\nRelationships (how it connects to other concepts)\r\n- Independent of working directory; anchored to the filesystem root.\r\n- Used in scripts/configs for unambiguous resource location; trade-off vs portability.\r\n- Related to security (path traversal mitigation), portability, and symlink resolution (canonicalization).\r\n\r\nPerspectives (views that shift categorization)\r\n- OS perspective: Windows vs POSIX forms.\r\n- User/developer perspective: “absolute path” as a category (type) vs a specific string as a member (instance).\r\n\r\nCategorization focus\r\n- Is it a category, a member, or both?\r\n  - As a concept/type (“Absolute Path”): it is a category (a class of paths).\r\n  - Any concrete string like C:\\Users\\Alex\\Documents\\report.docx or /home/alex/report.docx is a member (instance) of that category.\r\n  - OS-specific forms (e.g., UNC absolute paths) can be treated as subcategories within the broader category.\r\n\r\nHierarchy and related categories\r\n\r\n- Parent categories (choose level of granularity you need)\r\n  - File system path (pathname)\r\n  - Pathname types\r\n  - File system concepts (within Operating Systems)\r\n\r\n- Sibling categories (other pathname types or closely related path concepts)\r\n  - Relative path\r\n  - Canonical/real path (absolute or relative after resolving symlinks) — often treated as a property/type\r\n  - Normalized path (property/type: redundant segments removed)\r\n  - UNC path (Windows; note: typically a subcategory of absolute path)\r\n  - Device path (Windows \\\\?\\ or \\\\.\\ prefixes; typically absolute)\r\n  - Home-relative path (~ on POSIX; expands to an absolute path but itself is not absolute until expanded)\r\n\r\n- Subcategories of Absolute Path\r\n  - By OS:\r\n    - POSIX absolute paths: start with /\r\n    - Windows absolute paths:\r\n      - Drive-letter absolute paths: C:\\...\r\n      - UNC absolute paths: \\\\server\\share\\folder\\file\r\n      - NT device absolute paths: \\\\?\\C:\\..., \\\\.\\PhysicalDrive0\r\n  - By resolution/state:\r\n    - Logical absolute path (may include symlinks)\r\n    - Canonical/real absolute path (symlinks resolved)\r\n  - By target:\r\n    - Absolute directory paths\r\n    - Absolute file paths\r\n\r\nBottom line\r\n- “Absolute Path” is best treated as a category (type of file system path). Specific full path strings are members of that category. OS-specific absolute forms (POSIX, Windows drive-letter, UNC, device paths) are useful subcategories.\r\n\r\n\r\n---\r\n\r\n## 2025-09-03 13:20:05\r\n\r\nGenus–differentia definition\r\n- Genus: pathname (file path) — a string that designates a location within a filesystem namespace.\r\n- Differentia: begins at the root of the filesystem (not the current working directory) and fully specifies a unique location, so resolution is independent of where the reference is made.\r\n\r\nCategory status\r\n- It is a category (a type of pathname). Individual strings like C:\\Users\\Alex\\Documents\\report.docx or /home/alex/Documents/report.docx are members of this category.\r\n\r\nImmediate parent category\r\n- Pathname (a.k.a. file path, filepath, pathname string)\r\n\r\nCore differentiating properties\r\n- Root-anchored: starts at the filesystem root.\r\n- Context-independent: resolves to the same location regardless of the process’s current working directory.\r\n- OS-constrained syntax: \r\n  - POSIX: leading slash (/usr/bin/python)\r\n  - Windows: drive-letter root (C:\\Windows\\System32) or UNC/device roots (\\\\server\\share, \\\\?\\C:\\…)\r\n\r\nSibling categories (other kinds of pathnames)\r\n- Relative path — interpreted with respect to a current working directory (e.g., ../logs/app.log).\r\n- Rooted path (Windows) — begins with a backslash but omits the drive; anchored to the current drive’s root (e.g., \\Windows\\System32); not fully absolute.\r\n- Normalized path — a pathname with redundant components removed (e.g., no . or ..), which can be absolute or relative.\r\n- Canonical path (general notion) — a unique, fully resolved path with symlinks resolved; often absolute but the term itself isn’t limited to absolute paths.\r\n- Environment-expanded path — path after expanding variables like %USERPROFILE% or $HOME; can be absolute or relative.\r\n\r\nSubcategories (not exhaustive)\r\n- POSIX absolute path — leading slash; components separated by / (e.g., /var/log/syslog).\r\n- Windows absolute path (drive-letter) — [A–Z]:\\ root with \\ separators (e.g., D:\\Projects\\app\\README.md).\r\n- Windows UNC absolute path — network root \\\\server\\share\\… (e.g., \\\\fileserver\\dept\\budget.xlsx).\r\n- Windows device-namespace absolute path — NT namespace (e.g., \\\\?\\C:\\very\\long\\path.txt, \\\\.\\COM1).\r\n- Canonical absolute path — absolute path after normalization and symlink/junction resolution.\r\n- Absolute directory path vs absolute file path — absolute references where the last component is a directory (often ends with a separator on some tools) versus a file.\r\n\r\nNotes and edge cases\r\n- On Windows, a path like \\Temp is not fully absolute; it depends on the current drive (rooted path).\r\n- A URL’s “absolute URL” is a different domain and shouldn’t be confused with filesystem absolute paths.\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/categories-1.md",
-  compiledAt: "2025-10-23T22:23:09.723Z",
+  compiledAt: "2025-11-07T21:05:57.185Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12165,7 +12165,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Cabrera Dialectic 2\r\n\r\nGenerated on 2025-09-03 12:54:16\r\n\r\nClarify the idea\r\n- What it is: a full, unambiguous file location that starts at the filesystem’s root (e.g., C:\\Users\\Alex\\... on Windows, /home/alex/... on macOS/Linux).\r\n- What it is not:\r\n  - Relative path (depends on current working directory).\r\n  - URL (e.g., https://example.com/file) though both are “addresses.”\r\n  - Shell shortcuts (e.g., ~ for home, . and .., $HOME) until expanded.\r\n  - Logical/virtual references (e.g., symlinks, aliases) before resolution.\r\n  - UNC nuance: Windows network paths like \\\\server\\share\\folder\\file are also absolute but don’t use drive letters.\r\n- Where it’s used: scripts, configs, services, cron/Task Scheduler, troubleshooting, logging.\r\n- Why it matters: removes ambiguity, yields reproducibility, aids automation.\r\n\r\nBreak it into parts\r\n- Root indicator:\r\n  - Windows: drive letter + colon + backslash (C:\\) or UNC prefix (\\\\server\\share\\).\r\n  - POSIX (Linux/macOS): single leading slash (/).\r\n- Directory separators:\r\n  - Windows: backslash \\ (also accepts / in many APIs, but not all tools).\r\n  - POSIX: forward slash /.\r\n- Path segments: directories (possibly nested), filename, extension.\r\n- Optional prefixes and variants:\r\n  - Windows long-path prefix: \\\\?\\C:\\... (disables normalization, supports >260 chars).\r\n  - Environment variables that expand to absolute paths (e.g., %ProgramFiles%, $HOME).\r\n- Normalization/canonicalization components:\r\n  - Resolving . and ..\r\n  - Collapsing duplicate separators\r\n  - Following symlinks/junctions to their targets (canonical vs nominal path)\r\n  - Case handling: Windows typically case-insensitive; Linux typically case-sensitive; macOS depends on volume format.\r\n\r\nTrace key connections\r\n- Resolution logic:\r\n  - If path begins at root, no dependency on current directory; otherwise, relative paths are resolved by prepending the current working directory.\r\n  - Shell expands ~, variables, and globs before the program sees a final path.\r\n  - Symlink/junction resolution may change the ultimate target location.\r\n- Reliability vs portability:\r\n  - Absolute paths increase reliability within a single system but can reduce portability across machines (different usernames, drive letters, mount points).\r\n  - Mitigation: derive absolute paths at runtime from stable anchors (installation directories, environment variables, config parameters).\r\n- Security implications:\r\n  - Absolute paths help avoid path traversal when combined with strict validation and canonicalization.\r\n  - Hardcoded paths can leak information in logs or error messages.\r\n  - Use least-privilege directories and verify that resolved canonical path stays within allowed roots (e.g., after following symlinks).\r\n- Operations and deployment:\r\n  - Services and schedulers may run with different working directories; absolute paths prevent failures.\r\n  - Containerization: the container’s root (/) is not the host’s root; absolute paths refer to the container’s filesystem. Bind mounts map host paths into container paths.\r\n  - VMs/WSL: translation layers (e.g., /mnt/c on WSL) adjust expectations.\r\n- Cross-environment quirks:\r\n  - Windows vs POSIX separators and escaping.\r\n  - Case sensitivity differences can break code when moving from macOS (case-insensitive by default) to Linux.\r\n  - macOS aliases vs POSIX symlinks; Finder may display paths differently than the shell.\r\n\r\nShift viewpoints to refine understanding and choices\r\n- Developer:\r\n  - Use absolute paths for executables, resources, and logs in services/daemons.\r\n  - Compute absolute paths relative to a known base at startup (e.g., app root), not hardcode user-specific paths.\r\n  - Provide configuration to override paths per environment.\r\n- Sysadmin/DevOps:\r\n  - Prefer absolute paths in cron, systemd unit files (WorkingDirectory can be set, but explicit paths are safer).\r\n  - In Windows Task Scheduler, use absolute paths to executables and working directories.\r\n  - Document mount points and ensure they exist before services start.\r\n- Security reviewer:\r\n  - Canonicalize and validate paths against an allowlisted root.\r\n  - Beware of TOCTOU issues after validation; open files using APIs that accept directory file descriptors and flags to avoid races where available.\r\n- End user/troubleshooter:\r\n  - Convert relative to absolute when reporting issues to avoid ambiguity.\r\n  - Verify the path actually exists and check permissions; use tools like realpath/readlink -f (Linux), cygpath (Cygwin), wslpath (WSL), fsutil/path utilities on Windows.\r\n\r\nPractical patterns\r\n- Prefer constructing absolute paths from stable anchors:\r\n  - POSIX: base = getenv(\"HOME\") or readlink(\"/proc/self/exe\") to get executable dir, then join.\r\n  - Windows: SHGetKnownFolderPath or GetModuleFileName for executable dir.\r\n- Normalize and validate:\r\n  - Strip .. and . segments; resolve symlinks where needed; compare canonical paths to allowed roots.\r\n- Be explicit about separators:\r\n  - Use platform-specific path joiners in your language’s standard library to avoid mixing \\ and /.\r\n- Avoid hardcoding:\r\n  - Don’t bake user names, drive letters, or volume names into code; make them configurable or discoverable.\r\n\r\nQuick checks to apply\r\n- Does it start at the root (or with a drive letter/UNC)? If not, it isn’t absolute.\r\n- Will it resolve identically regardless of current working directory? If not, it isn’t absolute.\r\n- Is it portable across machines? If not, can you compute it from a stable base at runtime?\r\n- After canonicalization, does it remain inside the intended directory tree?\r\n- Are case and separator conventions correct for the target OS?\r\n\r\nIllustrative examples\r\n- Windows:\r\n  - Absolute: C:\\Program Files\\App\\app.exe\r\n  - UNC absolute: \\\\fileserver\\dept\\reports\\2025\\q3.xlsx\r\n  - Long path: \\\\?\\C:\\data\\very\\deep\\path\\file.txt\r\n  - Not absolute: ..\\logs\\app.log (depends on current directory)\r\n- POSIX:\r\n  - Absolute: /var/log/app/app.log\r\n  - Not absolute: ../app/config.yml\r\n  - Symlink nuance: /opt/app/current/logs -> /var/log/app (canonical path differs)\r\n\r\nCommon pitfalls\r\n- Assuming macOS is case-sensitive; many volumes are not.\r\n- Copying absolute paths between systems with different usernames or drive letters.\r\n- Forgetting that container paths are not host paths.\r\n- Relying on shell expansions in contexts where they don’t run (e.g., systemd ExecStart without a shell).\r\n- Logging unexpanded variables or tildes and mistaking them for absolute paths.\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/dsrp-1.md",
-  compiledAt: "2025-10-23T22:23:09.730Z",
+  compiledAt: "2025-11-07T21:05:57.185Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12176,7 +12176,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Dsrp Questions\r\n\r\n## Is it a System?\r\n- Can it be thought of as a system? Yes, in a conceptual/representational sense. An “absolute path” is a structured representation that encodes a location in a filesystem namespace using standardized components (root indicator, separators, directory names, filename). It has parts, rules, and behavior within the broader OS/filesystem ecosystem—thus it can be modeled as a system.\r\n- Classification:\r\n  - A part of a system: It is a component of the filesystem addressing system and the OS’s path resolution mechanism.\r\n  - A relationship between systems: It expresses a mapping between a resource (file/folder) and a global namespace anchored at the filesystem root.\r\n  - A cognitive tool for understanding systems: It reduces ambiguity for humans and programs by providing a stable locator independent of working context.\r\n  - Not primarily a boundary, though it references boundaries (e.g., the root, drive letters, mount points).\r\n\r\n## Distinctions\r\n- What Absolute Path is:\r\n  - A fully qualified locator within a filesystem namespace, starting at the root.\r\n  - Platform-specific syntax that uniquely identifies a resource independent of the current working directory.\r\n  - A convention interpreted by the OS kernel and filesystem drivers during path resolution.\r\n\r\n- What is not Absolute Path (outside the system boundary):\r\n  - Relative path: Depends on a working directory; lacks a root anchor.\r\n  - URL/URI: Network/resource identifiers (e.g., https://...), not local filesystem absolute paths (though file:// URLs can reference filesystem paths).\r\n  - Symbolic link target identity: An absolute path may traverse symlinks; the path itself is not the resolved inode/object.\r\n  - Device identifiers and inode numbers: Low-level identifiers distinct from human-readable paths.\r\n  - Environment-variable-based locators (e.g., %USERPROFILE%, $HOME): Indirections, not absolute paths unless fully expanded to root-based paths.\r\n  - Namespace variants that are not root-anchored (e.g., tilde ~ before expansion).\r\n  - Abstract names in virtual namespaces (e.g., registry paths, database keys) unless explicitly mapped to a filesystem path.\r\n\r\n## Systems\r\n- Does Absolute Path have parts? Yes (vary by platform):\r\n  - Root indicator: / on POSIX; drive letter + colon + backslash on Windows (e.g., C:\\).\r\n  - Optional namespace prefixes: Windows UNC (\\\\server\\share\\...), extended-length prefix (\\\\?\\).\r\n  - Directory components: Ordered segments separated by / or \\.\r\n  - Filename (base name) and optional extension.\r\n  - Separators and normalization rules (., .. resolution, redundant separators).\r\n  - Encoding and case rules (UTF-8 vs UTF-16, case-sensitive vs case-insensitive semantics).\r\n  \r\n- Can Absolute Path be thought of as a part?\r\n  - Yes, as a part of:\r\n    - The OS’s path resolution system (syscalls like open, stat).\r\n    - The filesystem’s global namespace (rooted tree with mount points).\r\n    - Scripts, configuration files, and deployment manifests.\r\n    - Security and access-control workflows (AUDIT, allowlists/denylists).\r\n    - Build/CI pipelines and container orchestration where deterministic locations are needed.\r\n\r\n## Relationships\r\n- What other systems is Absolute Path related to?\r\n  - Filesystem namespace and mount table: Absolute paths traverse mount points and reflect the current set of mounted filesystems.\r\n  - Working directory subsystem: Absolute paths bypass dependency on it; relative paths depend on it.\r\n  - Path resolution algorithm: Parsing, normalization, symlink traversal, permission checks.\r\n  - Permissions and security: Access decisions (ACLs, POSIX perms, SELinux labels) are evaluated during resolution.\r\n  - Namespaces/chroot/containers: The meaning of “root” depends on the active namespace; absolute inside a container differs from host.\r\n  - Portability layers and tooling: Cross-platform differences (separators, drive letters) affect portability.\r\n  - Storage dynamics: Moves/renames break paths; bind mounts and junctions can change what an absolute path refers to.\r\n  - Logging, monitoring, and troubleshooting: Unambiguous references aid reproducibility.\r\n\r\n- Can Absolute Path be a relationship between systems?\r\n  - Yes. It is a mapping relation from a resource to a position in a rooted namespace. It also encodes a relation to a specific root boundary (e.g., device/mount/namespace root). In distributed contexts (UNC paths), it relates client systems to server shares.\r\n\r\n## Perspectives\r\n- From the perspective of Absolute Path as a system:\r\n  - What ensures my referential stability if files move or mounts change?\r\n  - How do I normalize across symlinks, ., .., and mixed separators?\r\n  - How do encoding and case rules affect equality and uniqueness?\r\n  - How does my interpretation differ across namespaces (host vs container, chroot, user namespaces)?\r\n  - What are my security implications (path traversal prevention, canonicalization before checks)?\r\n  - How can I remain portable across OSes and filesystems?\r\n\r\n- From other systems’ perspectives:\r\n  - Kernel/filesystem: How to resolve efficiently and securely (caching, path walk, permission checks)?\r\n  - Container runtime: How to remap or project host paths into container roots reliably?\r\n  - CI/build system: How to avoid brittle hard-coded locations while preserving determinism?\r\n  - Security/DevSecOps: How to canonicalize before authorization (TOCTOU issues, symlink races)?\r\n  - Cross-platform application: How to abstract location without embedding OS-specific syntax?\r\n  - User/developer: When should I prefer absolute over relative for reliability, and how to manage maintainability?\r\n  - Backup/restore/migration: How to preserve or remap absolute paths across machines and mount layouts?\r\n  - Distributed filesystems/SMB/NFS: How do server/share semantics (UNC) alter the notion of “root”?\r\n\r\nNot applicable: If modeling absolute path as a physical boundary or a dynamic agent with goals—those interpretations do not fit; it is a representational construct within broader computational systems.\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/dsrp-questions.md",
-  compiledAt: "2025-10-23T22:23:09.732Z",
+  compiledAt: "2025-11-07T21:05:57.185Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12187,7 +12187,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Exam Questions\r\n\r\nGenerated on 2025-09-03 11:06:16\r\n\r\nHere are 3 multiple-choice questions based on the concept of absolute paths:\r\n\r\n1) Which statement best defines an absolute path?\r\n- A) A path that is relative to the current working directory\r\n- B) A path that uses shortcuts and environment variables\r\n- C) The full, exact address of a file or folder starting at the root of the file system\r\n- D) A path that changes depending on where the command is run\r\n\r\nCorrect answer: C\r\n\r\n2) Which of the following is an example of an absolute path on Windows?\r\n- A) Users\\Alex\\Documents\\report.docx\r\n- B) .\\Documents\\report.docx\r\n- C) C:\\Users\\Alex\\Documents\\report.docx\r\n- D) ..\\Alex\\Documents\\report.docx\r\n\r\nCorrect answer: C\r\n\r\n3) In which scenario is using an absolute path most appropriate?\r\n- A) When writing a quick command in a shell where the current directory won’t change\r\n- B) When creating a script that must reliably find files regardless of where it’s run\r\n- C) When you want the path to change relative to the user’s current location\r\n- D) When navigating interactively and prefer shorter, context-dependent paths\r\n\r\nCorrect answer: B\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.736Z",
+  compiledAt: "2025-11-07T21:05:57.186Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12198,7 +12198,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Expanded Definition\r\n\r\nAbsolute path\r\nPart of speech: noun (Computing). Plural: absolute paths. Also: absolute pathname (older/Unix), full path (informal).\r\n\r\nCore definition (sense 1)\r\n- A file-system path that specifies the complete location of a file or directory starting at the root of the file system, independent of the current working directory. On Unix-like systems it begins with a leading slash (e.g., /home/alex/Documents/report.docx); on Windows it typically begins with a drive letter and backslash (e.g., C:\\Users\\Alex\\Documents\\report.docx), or with a UNC prefix for network resources (e.g., \\\\server\\share\\folder\\file.txt).\r\n\r\nExtended/analogical use (sense 2)\r\n- By extension: any fully qualified identifier within a hierarchical namespace that is resolvable without reference to a current context, as in some programming languages or configuration systems that speak of “absolute import paths” or “absolute module paths.” Compare absolute URL in web contexts.\r\n\r\nUsage notes and distinctions\r\n- Contrast relative path: a path whose interpretation depends on the current working directory (e.g., ../Documents/report.docx).\r\n- Typical markers of absoluteness:\r\n  - Unix/macOS/Linux: leading slash (/). A leading tilde (~) expands to a user’s home directory but is not itself an absolute path until expansion.\r\n  - Windows: drive letter with colon and backslash (C:\\…), or UNC prefix (\\\\server\\share\\…). A path like \\Windows\\System32 is rooted at the current drive and is not fully absolute across drives.\r\n- Practical advantages: eliminates ambiguity; dependable in scripts, services, and troubleshooting; stable for logging and auditing.\r\n- Practical drawbacks: can be brittle across machines (different root, drives, user names); may reveal sensitive structure in error messages; often less portable in cross-platform code unless constructed dynamically.\r\n- Related forms/variants: absolute pathname (common in early Unix documentation), fully qualified path, canonical path (not identical; canonical implies a normalized, unique representation, resolving symlinks and dot-segments).\r\n\r\nHistorical development\r\n- Emerged with early hierarchical file systems and Unix documentation of the 1970s, where pathname denoted the sequence of directory names. The contrast of absolute vs. relative pathname became standard in Unix manuals and textbooks. With the rise of MS‑DOS and later Windows, the concept broadened to include drive-letter roots and UNC shares. Over time, developer usage shortened pathname to path, and absolute path became the prevailing term across platforms. Despite differing platform conventions (slash vs. backslash, drive letters, case sensitivity), the underlying concept—a root-anchored, context-independent locator—remains consistent. Contemporary tooling (IDEs, build systems, containers) often constructs absolute paths at runtime to balance reproducibility and portability.\r\n\r\nStakeholder/contextual uses\r\n- System administrators: Favor absolute paths in cron/systemd jobs, service units, backup scripts, and diagnostics to prevent resolution errors.\r\n- Software developers: Use absolute paths when invoking tools, locating resources, or writing logs; often compute them dynamically (e.g., basedir + relative) for portability.\r\n- DevOps/SRE: Rely on absolute paths in deployments and observability to ensure consistent resource references across environments.\r\n- Security professionals: Monitor for hard-coded absolute paths that may leak environment details or create privilege/escalation assumptions; sanitize path handling to prevent injection.\r\n- Data scientists/analysts: Avoid user-specific absolute paths in notebooks; prefer project-root resolution to maintain reproducibility across machines.\r\n- Helpdesk/support: Request absolute paths from users to precisely identify files when troubleshooting.\r\n\r\nExample sentences\r\n- Use an absolute path to the configuration file so the service can find it regardless of its working directory.\r\n- On Linux, /var/log/syslog is an absolute path; syslog alone is not.\r\n- The script failed because it assumed C:\\Users\\Admin\\Desktop, an absolute path that doesn’t exist on this machine.\r\n- For a network share, specify the UNC absolute path: \\\\fileserver\\projects\\Q3\\budget.xlsx.\r\n- The build system resolves relative includes against the project root to produce absolute paths in the compilation database.\r\n- Avoid hard-coding absolute paths in notebooks; derive them from environment variables or the repository root.\r\n\r\nCross-references\r\n- relative path; root directory; working directory; pathname; canonical path; absolute URL.\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/expanded-definition.md",
-  compiledAt: "2025-10-23T22:23:09.737Z",
+  compiledAt: "2025-11-07T21:05:57.186Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12209,7 +12209,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Related Concept Sentences\r\n\r\n- File Path: An absolute path is a specific type of file path that uniquely identifies a file or folder from the root of the file system.\r\n- Relative Path: A relative path locates a resource based on the current working directory, whereas an absolute path starts at the root and points to the same location regardless of context.\r\n- File: An absolute path precisely indicates the location of a file in the file system, ensuring it can be accessed from any context.\r\n- Folder (Directory): An absolute path identifies a folder’s exact position in the directory hierarchy starting from the root.\r\n- Operating System (OS): The OS interprets absolute paths to locate files and folders, with syntax conventions that vary by OS (e.g., Windows vs. macOS/Linux).\r\n- File Management: Using absolute paths in file management tasks ensures consistent, unambiguous access to resources when moving, copying, or organizing items.\r\n- Storage: Absolute paths map to locations on storage devices, specifying the drive or root volume and the full directory chain to the resource.\r\n- System Software: System software (like shells, file managers, and services) relies on absolute paths in scripts and configurations to reliably reference required files.\r\n- Backup: Backup processes often use absolute paths to define exact source and destination locations, preventing errors from changing working directories.\r\n- Troubleshooting: Absolute paths aid troubleshooting by removing ambiguity about where a file or configuration resides, making it easier to verify and correct issues.\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/related-concept-sentences.md",
-  compiledAt: "2025-10-23T22:23:09.741Z",
+  compiledAt: "2025-11-07T21:05:57.186Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12220,7 +12220,7 @@ export const compiledFiles = {
     module: "# Absolute Path - Related Concepts\r\n\r\n- File Path [File Systems]\r\n- Relative Path [File Systems]\r\n- File [File Systems]\r\n- Folder (Directory) [File Systems]\r\n- Operating System (OS) [Operating Systems and Software]\r\n- File Management [File Systems]\r\n- Storage [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Backup [File Systems]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.744Z",
+  compiledAt: "2025-11-07T21:05:57.186Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12231,7 +12231,7 @@ export const compiledFiles = {
     module: "# Absolute Path\r\n\r\nComplete file location from the root directory\r\n\r\n## Definition\r\nAn absolute path is the full, exact address of a file or folder starting at the root of the file system, so it always points to the same place no matter where you are. It typically starts with a drive letter and backslash on Windows (e.g., C:\\Users\\Alex\\Documents\\report.docx) or a leading slash on macOS/Linux (e.g., /home/alex/Documents/report.docx). Because it avoids ambiguity, absolute paths are widely used in scripts, configuration files, and troubleshooting to ensure the system can reliably locate resources.\r\n",
     metadata: {
   sourceFile: "definitions/absolute-path.md",
-  compiledAt: "2025-10-23T22:23:09.745Z",
+  compiledAt: "2025-11-07T21:05:57.187Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12242,7 +12242,7 @@ export const compiledFiles = {
     module: "# Abstraction - Categories 1\r\n\r\nGenerated on 2025-09-03 13:17:57\r\n\r\nShort answer: Abstraction is both a member of several broader categories and a category that contains many subtypes.\r\n\r\nDSRP lens (brief)\r\n- Distinctions: Abstraction is not mere omission; it is purposeful focus on essentials with hidden detail controlled by an interface.\r\n- Systems (part–whole): The “abstraction” idea contains parts such as intent (simplify), mechanism (hide details, expose interface), and level (higher/lower).\r\n- Relationships: Closely related to encapsulation, information hiding, modularity, generalization, modeling, and decomposition.\r\n- Perspectives: Meaning shifts across disciplines (cognition, CS/software, math, systems engineering). Category placement depends on the perspective.\r\n\r\nCategorization\r\n\r\n1) As a member (parents it belongs to)\r\n- Cognitive science/psychology: cognitive process; concept formation; generalization mechanism\r\n- Computer science (theory): foundational CS concept; representation/modeling principle\r\n- Software engineering: design principle; architecture principle; modularity principle\r\n- Systems thinking: complexity-management strategy; black-boxing/level-of-detail strategy\r\n- Mathematics/philosophy of science: idealization/abstraction process; modeling method\r\n\r\n2) As a category (subcategories/kinds of abstraction)\r\n- Data and type abstraction: abstract data types (ADTs), interfaces, modules, algebraic data types, type classes, traits\r\n- Procedural/control abstraction: procedures/functions, higher-order functions, iterators, control structures, coroutines\r\n- Interface/service abstraction: APIs, microservice contracts, RPC/REST/GraphQL interfaces\r\n- Resource abstraction: files vs. disks, virtual memory, processes/threads, VMs/containers, cloud services\r\n- Architectural abstraction: layers (UI/domain/infrastructure), hexagonal/ports-and-adapters, SOA, clean architecture boundaries\r\n- Model/representation abstraction: maps and models, UML/ER diagrams, schemas, logical vs. physical data models, level-of-detail models\r\n- Policy/mechanism abstraction: separating policy (what) from mechanism (how)\r\n- Temporal/behavioral abstraction: state machines, protocols, transactions, idempotency contracts\r\n- Security/privacy abstraction: capability models, access-control interfaces, differential privacy abstractions\r\n\r\n3) Siblings (other members under common parents)\r\n- Under cognitive process: categorization, chunking, attention, idealization, simplification\r\n- Under CS foundational ideas: algorithms, decomposition, representation, automation, modeling\r\n- Under software engineering principles: modularity, encapsulation, information hiding, separation of concerns, cohesion/coupling management, interface segregation, layering\r\n\r\nNotes on closely related distinctions\r\n- Encapsulation vs. abstraction: Encapsulation hides internal state/structure; abstraction hides unnecessary detail by exposing an interface that matches intent. They often co-occur but are distinct.\r\n- Information hiding: A design principle that implements abstraction; sometimes treated as a subcategory or mechanism depending on perspective.\r\n\r\nVerdict\r\n- Abstraction is both:\r\n  - A member of multiple higher-level categories (e.g., cognitive process; software engineering principle).\r\n  - A category that contains many concrete forms (data/type, control/procedural, interface/service, resource, architectural, modeling, etc.).\r\nCategory membership and sibling sets vary by perspective (cognition, CS theory, software engineering, systems).\r\n\r\n\r\n---\r\n\r\n## 2025-09-03 13:20:28\r\n\r\nGenus–differentia (what it is, by kind and distinguishing features)\r\n- As a cognitive/process concept\r\n  - Genus: Mental representational process.\r\n  - Differentia: Selectively retains features invariant or salient for a purpose while omitting particulars, enabling reasoning at an appropriate level of detail.\r\n\r\n- As an engineering/design principle (computing)\r\n  - Genus: Software/system design principle.\r\n  - Differentia: Specifies behavior via a stable interface or contract while hiding implementation details, so components interact through the specification rather than internal steps—controlling complexity, enabling reuse, and easing change.\r\n\r\nIs it a category, a member, or both?\r\n- Both.\r\n  - Category: “Abstraction” as a type of process/principle and family of techniques (e.g., data abstraction, control abstraction).\r\n  - Members: Particular abstractions (e.g., a specific API, a class interface, a virtualization layer, a map of Paris) are instances of that category.\r\n\r\nTaxonomic placement and relations\r\n\r\nParents (supercategories)\r\n- Cognitive/philosophical\r\n  - Mental operation\r\n  - Representational process\r\n  - Concept-formation method\r\n  - Idealization/modeling method\r\n- Computing/engineering\r\n  - Software engineering principle\r\n  - Programming language and type-system concept\r\n  - Systems/architectural design principle\r\n  - Complexity management technique\r\n\r\nSiblings (coordinated categories at the same level)\r\n- Cognitive/philosophical\r\n  - Generalization\r\n  - Categorization\r\n  - Idealization\r\n  - Analogy\r\n  - Modeling/simplification\r\n- Computing/engineering\r\n  - Encapsulation\r\n  - Information hiding\r\n  - Modularity\r\n  - Decomposition/composition\r\n  - Parameterization/generics\r\n  - Polymorphism\r\n  - Layering\r\n  - Virtualization\r\n  - Separation of concerns\r\n  - Contracts/specifications\r\n\r\nSubcategories (not exhaustive; many overlap)\r\n- Cognitive/mathematical\r\n  - Feature abstraction (focusing on salient attributes)\r\n  - Structural abstraction (capturing relational form)\r\n  - Mathematical abstraction (sets, functions, algebraic structures)\r\n  - Levels of abstraction (coarse vs fine-grained modeling)\r\n- Computing/software\r\n  - Data abstraction (abstract data types; representation independence)\r\n  - Type abstraction (interfaces, abstract classes, module signatures)\r\n  - Control abstraction (procedures, higher-order functions, iterators)\r\n  - Interface/API abstraction (service contracts, REST/GRPC interfaces)\r\n  - Module/class abstraction (object/class interfaces, modules/packages)\r\n  - Resource abstraction (files, sockets, threads, transactions)\r\n  - Hardware/OS abstraction (HALs, virtual memory, syscalls)\r\n  - Virtualization/containerization (VMs, containers as resource abstractions)\r\n  - Architectural abstraction (layers, services, microservices boundaries)\r\n  - Declarative abstraction (SQL, regex, query languages hiding execution)\r\n  - Pattern-based abstractions (Facade, Adapter, Strategy)\r\n  - Abstraction barriers (well-defined layers that prevent leaking implementation)\r\n\r\nNotes\r\n- Individual examples like “calling a function without seeing its code,” “using a map,” or “accessing a service through an API” are members (instances) of the Abstraction category.\r\n- Some siblings are closely related: e.g., encapsulation and information hiding often co-occur with abstraction but are distinct emphases (mechanism vs interface focus).\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/categories-1.md",
-  compiledAt: "2025-10-23T22:23:09.746Z",
+  compiledAt: "2025-11-07T21:05:57.187Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12253,7 +12253,7 @@ export const compiledFiles = {
     module: "# Abstraction - Cabrera Dialectic 2\r\n\r\nGenerated on 2025-09-03 12:54:49\r\n\r\nClarify the idea\r\n- What it is vs. what it isn’t:\r\n  - Is: focusing on essentials; hiding incidental detail behind a stable interface.\r\n  - Isn’t: ignoring reality; it’s selective representation with a purpose.\r\n- Boundary decisions:\r\n  - Interface (public contract) vs. implementation (hidden mechanism).\r\n  - Essential features vs. accidental complexity.\r\n  - General concepts (e.g., “List”) vs. concrete instances (e.g., “array of 10 ints”).\r\n- Signals vs. noise:\r\n  - Keep: name, purpose, inputs/outputs, invariants.\r\n  - Hide: data layout, control flow, optimizations.\r\n\r\nOrganize it\r\n- Parts of an abstraction:\r\n  - Interface: names, types, pre/postconditions, error model.\r\n  - Contract: what must hold (invariants), performance envelope, security posture.\r\n  - Semantics: meaning of operations independent of implementation.\r\n  - Evidence: tests/specs/docs/examples.\r\n- Wholes and nesting:\r\n  - Layers: hardware → OS → runtime → libraries → app → UI.\r\n  - Common forms: data type, class, module, service, API, DSL, map/diagram.\r\n  - Levels of granularity: function → module → subsystem → architecture.\r\n- Exemplars:\r\n  - Map vs. city; function call vs. source code; data type/class vs. raw memory; API vs. service internals.\r\n\r\nMap interactions\r\n- Causes and effects:\r\n  - Hiding detail reduces cognitive load → easier to reason/change.\r\n  - Clear interfaces reduce coupling → safer refactors.\r\n  - Stable contracts enable reuse and substitution.\r\n- Constraints and enablers:\r\n  - Types/specs constrain behavior → enable composition.\r\n  - Versioning and compatibility rules stabilize interfaces across change.\r\n- Trade-offs:\r\n  - Too little hiding → tight coupling, fragile code.\r\n  - Too much/poor fit → “leaky” abstractions, extra indirection, performance cost.\r\n  - Wrong level → either oversimplifies (missing needed detail) or overcomplicates (unnecessary knobs).\r\n- Feedback loops:\r\n  - Usage reveals mismatches → refine interface or add affordances.\r\n  - Performance anomalies surface leaks → rework boundary or implementation.\r\n  - Evolving domain → retire or generalize abstractions.\r\n- Dependencies:\r\n  - Clients depend on contract, not internals; tests/types enforce this.\r\n  - Observability (logs/metrics) provides a controlled “window” without breaking hiding.\r\n\r\nShift viewpoints\r\n- By role:\r\n  - User/client: cares about contract, reliability, docs, examples.\r\n  - Implementer: cares about invariants, algorithms, data layout.\r\n  - Maintainer/ops: cares about observability, versioning, rollout safety.\r\n  - Security: cares about least privilege, input contracts, side-channel exposure.\r\n- By time horizon:\r\n  - Short-term: speed of development, ease of use.\r\n  - Long-term: evolvability, API stability, backward compatibility.\r\n- By scale:\r\n  - Micro (function signature) vs. macro (service boundary) changes what’s “essential.”\r\n- By context:\r\n  - Debugging or performance tuning may temporarily pierce the abstraction (with tooling) without rewriting clients.\r\n  - Teaching/learning may choose a simpler abstraction first, then refine.\r\n\r\nPractical moves\r\n- Choose the level: What question must this representation answer? Anything not serving that is hidden.\r\n- State the contract: Names, types, pre/postconditions, error cases, complexity guarantees.\r\n- Prove it: Examples, property tests, types/specs, CI checks.\r\n- Decouple deliberately: Depend on interfaces; invert dependencies where helpful.\r\n- Watch for smells:\r\n  - Repeated cross-layer knowledge, brittle tests tied to internals, frequent “just this one” backdoors, “primitive obsession,” excessive parameter lists.\r\n- Evolve safely:\r\n  - Additive changes preferred; deprecate with shims; semantic versioning; compatibility tests.\r\n- Know when not to abstract:\r\n  - One-off code, volatile domains, critical hot paths where overhead outweighs clarity, situations demanding full-fidelity control.\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/dsrp-1.md",
-  compiledAt: "2025-10-23T22:23:09.750Z",
+  compiledAt: "2025-11-07T21:05:57.187Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12264,7 +12264,7 @@ export const compiledFiles = {
     module: "# Abstraction - Dsrp Questions\r\n\r\n## Is it a System?\r\n- Yes, Abstraction can be thought of as a system. It has interacting parts (e.g., intent, interface, hidden detail, invariants) that together produce a capability: representing and manipulating complexity at an appropriate level.\r\n- Classification:\r\n  - A system: it comprises components and processes that collectively “lift” or “hide” detail.\r\n  - A part of a system: it functions as a component within larger practices (e.g., software architecture, scientific modeling).\r\n  - A relationship between systems: it mediates interactions (e.g., via APIs) and maps between levels (e.g., model ↔ phenomenon).\r\n  - A boundary between systems: it creates interfaces and demarcates implementation from usage.\r\n  - A cognitive tool for understanding systems: it structures thought by foregrounding essentials and backgrounding details.\r\n  - Something else related to systems: a design discipline and a representational mapping (model-to-world, interface-to-implementation).\r\n\r\n## Distinctions\r\n- What Abstraction is (as a system):\r\n  - A disciplined focus on essential features while hiding unnecessary details.\r\n  - A representational mapping that preserves relevant structure for a purpose (task-, role-, or domain-specific).\r\n  - An interface-plus-contract that enables safe composition and reuse.\r\n  - A level-of-description in a hierarchy, supporting “working at the right level.”\r\n  - A complexity-management technique that stabilizes change by decoupling users from internal steps.\r\n  - In computing: functions, data types, classes, modules, services/APIs; in science: models and idealizations; in math: structures defined by axioms; in design: affordances that hide mechanism.\r\n\r\n- What Abstraction is not (outside its boundary):\r\n  - Raw, uninterpreted detail or implementation minutiae irrelevant to the current purpose.\r\n  - Mere omission or vagueness without preserved structure or contract.\r\n  - A guarantee of performance or correctness beyond its stated invariants (abstractions can leak or be misapplied).\r\n  - The concrete phenomenon itself; it’s a model or interface to it.\r\n  - Arbitrary simplification without validation or alignment to use-cases.\r\n\r\n## Systems\r\n- Parts of Abstraction (internal composition):\r\n  - Intent and scope: what is considered essential, for whom, and for what tasks.\r\n  - Interface: the visible surface (operations, types, protocols).\r\n  - Hidden mechanism: implementation details deliberately concealed.\r\n  - Invariants/contract: guarantees and obligations (pre/postconditions, error modes).\r\n  - Level and mapping: the abstraction layer and how it relates to lower/higher layers (refinement/realization).\r\n  - Composition mechanisms: ways abstractions combine (parameterization, genericity, polymorphism).\r\n  - Cost model: performance, space, latency, cognitive load; where leaks may occur.\r\n  - Validation and tests: how the contract is enforced.\r\n\r\n- Abstraction as a part of larger systems:\r\n  - Software systems: architectures, modules, service boundaries, frameworks.\r\n  - Scientific inquiry: modeling, idealization, dimensional reduction.\r\n  - Data and information systems: schemas, views, ETL pipelines.\r\n  - Human–computer interaction: UI affordances masking workflows.\r\n  - Mathematics and logic: axiomatization, type systems.\r\n  - Organizational design: roles and procedures as abstractions over people’s work.\r\n  - Education: curricular scaffolds that stage complexity.\r\n\r\n## Relationships\r\n- Related systems and concepts:\r\n  - Encapsulation and information hiding: mechanisms for implementing abstraction.\r\n  - Modularity and composition: how abstractions assemble into larger wholes.\r\n  - Generalization/specialization: moving up/down abstraction hierarchies.\r\n  - Interfaces/APIs/protocols: primary carriers of abstraction boundaries.\r\n  - Refinement/concretization: implementing or detailing an abstraction.\r\n  - Polymorphism/parametricity: reusability across types or contexts.\r\n  - Idealization/approximation: scientific and engineering counterparts.\r\n  - Verification/testing: ensuring contracts hold despite hidden details.\r\n  - Performance engineering: managing cost and leak risks.\r\n  - Security: least privilege, attack-surface reduction via strict interfaces.\r\n\r\n- Abstraction as a relationship:\r\n  - Mapping relation: A abstracts B if there exists a purpose-preserving map f: B → A that forgets certain details while preserving task-relevant structure.\r\n  - Interface relation: Users interact with implementation through a stable interface; dependencies flow to the interface, not internals.\r\n  - Hierarchical relation: Layer L+1 depends on guarantees of L; L refines L+1’s operations into concrete steps.\r\n\r\n- Tradeoffs (relationship dynamics):\r\n  - Under-abstraction: users confront accidental complexity.\r\n  - Over-abstraction: loss of signal, indirection costs, brittleness.\r\n  - Mismatch: abstraction’s essential set doesn’t fit the task, causing leaks.\r\n  - Temporal drift: stable interfaces vs evolving domains; versioning and compatibility.\r\n\r\n## Perspectives\r\n- From the perspective of Abstraction as a system:\r\n  - What are my invariants and who are my users?\r\n  - Which details are essential vs accidental for current purposes?\r\n  - Where can I leak, and how costly are those leaks?\r\n  - How do I compose with other abstractions safely?\r\n  - What refinement paths implement me, and how do I validate them?\r\n  - What is my cost model and how visible is it to users?\r\n  - How will I evolve without breaking dependents (versioning, deprecation)?\r\n\r\n- Perspectives of other systems on Abstraction:\r\n  - User/developer: Does the interface match mental models and tasks? Is it learnable?\r\n  - Implementer/maintainer: Can internals change safely behind the boundary?\r\n  - Architect: Does it reduce coupling and enable composability at scale?\r\n  - Performance engineer: Does it obscure critical costs or enable optimization hooks?\r\n  - Security analyst: Does it minimize attack surface and enforce least privilege?\r\n  - Scientist/modeler: Does the model preserve phenomena relevant to inquiry?\r\n  - Educator/learner: Does it scaffold complexity appropriately across levels?\r\n  - Product/UX: Does it hide complexity without hiding necessary control?\r\n  - Compliance/audit: Are guarantees explicit and testable?\r\n\r\nNot applicable:\r\n- If treated purely as a relationship (mapping or interface), some “internal parts” questions are not relevant; the focus shifts to properties of the mapping (faithfulness, completeness, composability) rather than to components.\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/dsrp-questions.md",
-  compiledAt: "2025-10-23T22:23:09.752Z",
+  compiledAt: "2025-11-07T21:05:57.188Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12275,7 +12275,7 @@ export const compiledFiles = {
     module: "# Abstraction - Exam Questions\r\n\r\nGenerated on 2025-09-03 11:06:25\r\n\r\nHere are 3 multiple-choice exam questions on abstraction:\r\n\r\n1) Which option best illustrates abstraction in computing?\r\nA. Manually managing memory addresses for every variable\r\nB. Calling a function by its name and parameters without reading its source code\r\nC. Stepping through every line of an algorithm each time you use it\r\nD. Embedding database query strings directly in UI code\r\nCorrect answer: B\r\n\r\n2) Which is NOT a primary benefit of abstraction?\r\nA. Managing complexity by focusing on essentials\r\nB. Enabling reuse through well-defined components\r\nC. Making it safe to change internals behind stable interfaces\r\nD. Eliminating the need for testing\r\nCorrect answer: D\r\n\r\n3) A team replaces the internal implementation of a payment module without changing its public API. Client systems continue to work without modification. What principle does this demonstrate?\r\nA. Tight coupling via shared internal state\r\nB. Optimization through lower-level access\r\nC. Abstraction via clear interfaces hiding internal details\r\nD. Concurrency through parallel execution\r\nCorrect answer: C\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.782Z",
+  compiledAt: "2025-11-07T21:05:57.188Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12286,7 +12286,7 @@ export const compiledFiles = {
     module: "# Abstraction - Expanded Definition\r\n\r\nAbstraction (noun)\r\n\r\nPronunciation: /æbˈstrækʃən/\r\n\r\nInflections: plural abstractions\r\n\r\nCore definition: The action or process of separating, drawing out, or generalizing from particulars; the result of such an act (a concept, quality, or representation removed from concrete specifics).\r\n\r\nSenses\r\n1) The act of abstracting; mental removal or separation.\r\n   - The action of considering something independently of its associations, attributes, or concrete instances; a generalization.\r\n   - Example: By careful abstraction, the researcher identified the principle common to all the cases.\r\n\r\n2) A state or quality of being abstract; abstractedness.\r\n   - Example: The argument’s abstraction made it hard for newcomers to follow.\r\n\r\n3) A general idea or concept formed by mental separation from particulars; an abstract.\r\n   - Example: Justice is an abstraction that guides the court’s deliberations.\r\n\r\n4) The act of taking away; removal, withdrawal, or theft (now chiefly formal).\r\n   - Example: The unauthorized abstraction of funds triggered an audit.\r\n\r\n5) Distraction or absorption of the mind; absent-mindedness (now somewhat archaic).\r\n   - Example: He sat in abstraction, unaware of the bustle around him.\r\n\r\n6) Art. The process or result of reducing representation to essential forms, often dispensing with realistic depiction; abstract art or an abstract work.\r\n   - Example: The exhibition traces the rise of geometric abstraction in the 20th century.\r\n\r\n7) Mathematics and logic. The formation of structures by identifying and retaining only essential properties and relations, disregarding specific instances.\r\n   - Example: Group theory arises from the abstraction of symmetry operations.\r\n\r\n8) Computing and information systems. A design principle: focusing on essential features while concealing unnecessary implementation details, so components can be understood and used via well-defined interfaces.\r\n   - Typical benefits: managing complexity, enabling reuse, and allowing safe change because dependencies run through interfaces rather than internal steps.\r\n   - Example: Developers use an abstraction layer to call a database without knowing its storage engine.\r\n\r\n9) Chemistry and physics. The removal of a component (e.g., proton abstraction); extraction.\r\n   - Example: Base-catalyzed proton abstraction initiates the reaction.\r\n\r\nHistorical development (brief)\r\n- Medieval philosophy: From Latin abstractio, the intellect’s operation of drawing universals from particulars (Aristotelian and Scholastic traditions).\r\n- Early modern usage: Broadened to mental withdrawal and to removal in general (including legal/financial “abstraction” = taking away).\r\n- 19th–20th centuries: Strong emergence in aesthetics (non-figurative art); solidification in mathematics and logic as method and product of generalization.\r\n- Mid–late 20th century to present: Central in computing and systems engineering as a foundational design strategy (data abstraction, procedural abstraction, object abstraction, APIs, virtualization, layers, models).\r\n\r\nStakeholder/contextual uses\r\n- Philosophers: The operation by which universals are formed; debates over realism vs nominalism.\r\n- Logicians/mathematicians: Method for defining structures by axioms; moving from concrete instances to formal systems.\r\n- Artists/critics: Degree of non-representational form; movements such as Abstract Expressionism, geometric abstraction.\r\n- Psychologists/cognitive scientists: Cognitive ability to generalize across instances; levels of representation; abstraction in concept learning.\r\n- Chemists/physicists: Specific removal processes (e.g., hydrogen abstraction).\r\n- Software engineers/architects: Interfaces, layers, modules; encapsulation; API design; modeling; abstraction barriers.\r\n- Product managers/UX designers: Simplifying user interaction by hiding complexity; conceptual models; progressive disclosure.\r\n- Data scientists/ML engineers: Feature abstraction, embeddings, model interfaces, schema design; abstraction for reproducibility.\r\n- Legal/financial professionals: Formal term for unauthorized removal of assets; “abstraction” as misappropriation.\r\n\r\nExtended examples by sense\r\n1) Mental separation: Through abstraction, she set aside the anecdotes and focused on the underlying mechanism.\r\n2) Abstractedness: The report’s level of abstraction makes it portable across teams.\r\n3) Abstract (concept): Freedom is an abstraction that resists precise definition.\r\n4) Removal/theft: The investigation uncovered the systematic abstraction of client funds.\r\n5) Absorption of mind: Lost in abstraction, he missed his stop.\r\n6) Art: Her late work moves toward bold color fields and near-total abstraction.\r\n7) Math/logic: Category theory is a further abstraction of structures and mappings found across mathematics.\r\n8) Computing: - Calling a function is an act of procedural abstraction; the caller need not see the code.\r\n   - A class provides data abstraction by exposing behavior while hiding representation.\r\n   - An API abstracts a service so clients depend on a contract, not internals.\r\n9) Chemistry/physics: Radical abstraction of a hydrogen atom propagates the chain reaction.\r\n\r\nNotes on usage and nuance\r\n- Count vs mass: “an abstraction” (a specific concept or model) vs “abstraction” (the process/degree). \r\n- Level of abstraction: often used comparatively to indicate granularity (higher-level vs lower-level views).\r\n- Collocations: degree/level of abstraction; abstraction layer; data/procedural/object abstraction; pure abstraction; geometric abstraction; abstraction from particulars; abstraction of funds.\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/expanded-definition.md",
-  compiledAt: "2025-10-23T22:23:09.784Z",
+  compiledAt: "2025-11-07T21:05:57.188Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12297,7 +12297,7 @@ export const compiledFiles = {
     module: "# Abstraction - Related Concept Sentences\r\n\r\n- Programming: Abstraction is a core principle in programming that manages complexity by breaking systems into modules with clear interfaces, enabling encapsulation, reuse, and independent evolution of parts.\r\n\r\n- Function: A function is an abstraction of a computation; its signature defines the contract you use, while the implementation details are hidden.\r\n\r\n- Data Type: A data type (and especially an abstract data type) abstracts the representation of values and the operations allowed on them, so code relies on behavior, not on low-level memory layout.\r\n\r\n- API (Application Programming Interface): An API is an abstraction layer over a service or component, exposing a stable contract so clients can use capabilities without knowing internal logic or infrastructure.\r\n\r\n- Operating System (OS): An OS provides powerful abstractions over hardware—such as processes, files, and virtual memory—and exposes them through system-call interfaces.\r\n\r\n- System Software: System software both provides and consumes abstractions, mediating between raw hardware details and higher-level application needs (e.g., loaders, compilers, runtime environments).\r\n\r\n- Device Driver: A device driver abstracts the specifics of a hardware device behind a uniform interface for the OS, so applications can use devices without handling vendor-specific details.\r\n\r\n- Database: A database abstracts data storage, indexing, and concurrency, letting you interact through data models and query languages (e.g., SQL) without managing on-disk structures.\r\n\r\n- Cloud Computing: Cloud computing abstracts underlying infrastructure into service models (IaaS, PaaS, SaaS), letting users provision and scale resources via APIs without managing physical hardware.\r\n\r\n- Computational Thinking: Abstraction is a pillar of computational thinking, enabling problem decomposition, model formation, and reasoning at appropriate levels while suppressing irrelevant detail.\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/related-concept-sentences.md",
-  compiledAt: "2025-10-23T22:23:09.785Z",
+  compiledAt: "2025-11-07T21:05:57.188Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12308,7 +12308,7 @@ export const compiledFiles = {
     module: "# Abstraction - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- API (Application Programming Interface) [Web Development]\r\n- Operating System (OS) [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Database [Web Development]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Computational Thinking [Computational Thinking]\r\n",
     metadata: {
   sourceFile: "definitions/abstraction/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.787Z",
+  compiledAt: "2025-11-07T21:05:57.189Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12319,7 +12319,7 @@ export const compiledFiles = {
     module: "# Abstraction\r\n\r\nFocusing on essential features while ignoring unnecessary details\r\n\r\n## Definition\r\nAbstraction is the idea of focusing on the essential features of something while hiding unnecessary details, so you can think and work at the right level. In computing it helps manage complexity, enable reuse, and make changes safely because parts interact through clear interfaces instead of depending on internal steps. Examples include using a map instead of the whole city, calling a function without seeing its code, working with a data type or class instead of raw memory, or accessing a service through an API.\r\n",
     metadata: {
   sourceFile: "definitions/abstraction.md",
-  compiledAt: "2025-10-23T22:23:09.788Z",
+  compiledAt: "2025-11-07T21:05:57.189Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12330,7 +12330,7 @@ export const compiledFiles = {
     module: "# Algorithm - Categories 1\r\n\r\nGenerated on 2025-09-03 13:18:19\r\n\r\nShort answer: Algorithm is both a category and a member. As a concept, “Algorithm” is a category that contains many specific algorithms; any particular algorithm (e.g., Quicksort) is a member of that category.\r\n\r\nDSRP categorization view\r\n\r\n- Category: “Algorithm” (the general concept: a clear, finite, step-by-step procedure that maps inputs to outputs via unambiguous rules).\r\n- Members (examples): Euclid’s algorithm, Quicksort, Mergesort, Dijkstra’s algorithm, BFS/DFS, A*, PageRank, RSA key generation, Gradient Descent, K-Means, FFT.\r\n\r\nParent categories (context-dependent)\r\n- Procedure/Method/Process (general)\r\n- Computational procedure (computer science)\r\n- Problem-solving method (applied math/CS)\r\n- Formal specification/recipe for computation (theoretical CS)\r\n- Information-processing method (information science)\r\n\r\nSibling categories (under different plausible parents)\r\n- Under “Computational procedure”: heuristic (may sacrifice correctness/guarantees), protocol (interaction procedure among agents), workflow, recipe (everyday analogue).\r\n- Under “Computing constructs”: data structure, program (implementation of an algorithm), specification, model.\r\n- Under “Problem-solving method”: strategy, rule, policy, optimization method.\r\n\r\nSubcategories of Algorithm (non-exhaustive)\r\n- By determinism: deterministic, randomized, nondeterministic (theoretical model).\r\n- By guarantee: exact, approximate.\r\n- By interaction/timing: offline, online, streaming.\r\n- By computational model: sequential, parallel, distributed, concurrent; external-memory/I-O efficient.\r\n- By design technique: divide-and-conquer, dynamic programming, greedy, backtracking, branch-and-bound, local search.\r\n- By domain/task: sorting, searching, selection, graph algorithms, string algorithms, cryptographic algorithms, numerical linear algebra, optimization, machine learning training/inference, compression.\r\n- By complexity/resource profile: sublinear, linear-time, n log n, polynomial-time, exponential-time; space-bounded classes.\r\n- By access/assumption: comparison-based, hashing-based, cache-aware/oblivious.\r\n\r\nPerspective note\r\n- As a type (category): “Algorithm” organizes and defines what counts as an algorithm.\r\n- As a token (member): any named procedure (e.g., Dijkstra’s algorithm) is a member of that category.\r\n\r\n\r\n---\r\n\r\n## 2025-09-03 13:20:50\r\n\r\nGenus–differentia (definition)\r\n- Genus: procedure (a prescribed sequence of actions for transforming inputs into outputs)\r\n- Differentia: finite and effectively computable sequence of unambiguous steps that, for any valid input, specifies how to produce the corresponding output independent of any particular programming language or machine representation; may include controlled randomness but is fully specified.\r\n\r\nTaxonomic status\r\n- Algorithm is both:\r\n  - a member of broader categories (e.g., procedure, computational method)\r\n  - a category containing instances (e.g., Quicksort, Dijkstra’s algorithm, Euclid’s GCD)\r\n\r\nImmediate parent categories (from general to more specific)\r\n- Procedure / method (general problem-solving or operational procedures)\r\n- Formal/effective procedure (precisely specified, executable by a mechanical agent)\r\n- Computational method (procedures intended for computation)\r\n- Mathematical/computational artifact (abstract objects used in computation)\r\n\r\nRepresentative siblings (sharing a parent such as “procedure/method”)\r\n- Heuristic (procedure not guaranteed to be correct/optimal; may trade rigor for speed)\r\n- Protocol (prescribed interaction procedure among agents or systems)\r\n- Recipe/workflow (procedural instructions, often informal or domain-specific)\r\n- Policy/rule set (prescriptive decision procedure, may lack finiteness or completeness)\r\n- Data processing pipeline (procedural composition; often not specified at algorithmic level)\r\n\r\nSubcategories of algorithm (non-exhaustive)\r\n- By determinism/randomness:\r\n  - Deterministic algorithms\r\n  - Randomized algorithms (Las Vegas, Monte Carlo)\r\n- By optimality/guarantees:\r\n  - Exact algorithms\r\n  - Approximation algorithms\r\n  - Heuristics-as-algorithms (well-specified but not guaranteed optimal)\r\n- By control strategy/paradigm:\r\n  - Divide-and-conquer\r\n  - Greedy\r\n  - Dynamic programming\r\n  - Backtracking/branch-and-bound\r\n  - Recursive vs. iterative\r\n  - Parallel and distributed algorithms\r\n  - Online vs. offline algorithms\r\n  - Streaming/sublinear-time algorithms\r\n- By domain/problem class:\r\n  - Sorting and searching algorithms (e.g., Quicksort, binary search)\r\n  - Graph algorithms (e.g., Dijkstra, BFS/DFS, Kruskal)\r\n  - Numerical algorithms (e.g., Newton–Raphson, Gaussian elimination)\r\n  - Cryptographic algorithms (e.g., AES, RSA; also protocols built atop algorithms)\r\n  - String/text algorithms (e.g., KMP, Boyer–Moore)\r\n  - Optimization algorithms (e.g., simplex, gradient descent)\r\n  - Machine learning algorithms (e.g., k-means, decision tree training)\r\n  - Computational geometry, combinatorial, and randomized algorithms\r\n\r\nNotes/contrasts\r\n- Program vs. algorithm: a program is a concrete implementation; an algorithm is the abstract plan the code realizes.\r\n- Not every procedure is an algorithm: informal, ambiguous, or non-terminating procedures fall outside the category.\r\n- Desiderata (not definitional): correctness, termination, and efficiency; practical design balances time, space, and simplicity.\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/categories-1.md",
-  compiledAt: "2025-10-23T22:23:09.789Z",
+  compiledAt: "2025-11-07T21:05:57.189Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12341,7 +12341,7 @@ export const compiledFiles = {
     module: "# Algorithm - Cabrera Dialectic 2\r\n\r\nGenerated on 2025-09-03 12:55:16\r\n\r\nWhat it is vs. what it isn’t\r\n- An algorithm: a finite, unambiguous sequence of steps that transforms inputs into outputs.\r\n- Not the same as code: code is a language-specific implementation of the abstract steps.\r\n- Not a heuristic if steps are vague or may not yield the right answer; heuristics trade certainty for speed or simplicity.\r\n- Not a data structure, though it often uses them; data structures store/organize data, algorithms operate on it.\r\n- Randomized algorithms still qualify: the steps are unambiguous even if they include well-defined randomness.\r\n\r\nBoundary questions to clarify scope\r\n- Where does it start? At receipt/validation of input.\r\n- Where does it end? Upon producing output and halting (termination condition).\r\n- What assumptions must hold? Preconditions on inputs, resources, and environment.\r\n- What guarantees are promised? Postconditions: correctness, performance bounds, resource usage.\r\n\r\nElements and organization (parts within the whole)\r\n- Inputs: type, format, constraints.\r\n- Steps: sequence, branching (if/else), iteration/recursion, data access patterns.\r\n- State: variables, temporary storage, invariants that must remain true.\r\n- Decision logic: comparisons, thresholds, tie-breaking rules.\r\n- Termination condition: ensures finiteness.\r\n- Outputs: type, format, correctness criteria.\r\n- Analysis artifacts: correctness argument, complexity (time/space), edge cases, test suite.\r\n\r\nHow the pieces nest\r\n- A complex algorithm is composed of subroutines (e.g., partition inside quicksort; relax inside Dijkstra).\r\n- The algorithm sits inside a program that handles I/O, errors, and user interaction.\r\n- Data structures enable operations (e.g., heaps for priority queues) that shape performance.\r\n- In products, multiple algorithms chain together (e.g., parsing input → core computation → formatting output).\r\n\r\nCore flows and mappings\r\n- Input → validate → transform/normalize → core procedure → produce output → verify conditions.\r\n- Preconditions → steps preserve invariants → termination → postconditions.\r\n- Data complexity → operation count → runtime → energy/memory usage.\r\n\r\nTrade-offs and tensions to reason about\r\n- Time vs. space: faster often uses more memory (e.g., memoization).\r\n- Worst-case vs. average-case behavior.\r\n- Simplicity/readability vs. raw speed.\r\n- Exactness vs. efficiency (approximation algorithms).\r\n- Generality vs. specialization to specific data distributions.\r\n- Determinism vs. randomized performance guarantees.\r\n\r\nMultiple lenses to interrogate the same algorithm\r\n- User: Does it give the right answer quickly enough on my device?\r\n- Developer: Is it implementable, testable, maintainable? Clear invariants? Good failure modes?\r\n- Mathematician: Can we prove termination and correctness? What are tight bounds?\r\n- Systems engineer: How does it behave under memory/CPU constraints, cache, or parallelism?\r\n- Ethicist/sociotechnical analyst: When the algorithm is part of decision systems (e.g., routing, ranking), what are the implications for fairness, transparency, and accountability?\r\n\r\nQuality checks and probes\r\n- Termination: Identify and justify the decreasing measure (e.g., input size shrinks).\r\n- Correctness: State and prove invariants; use induction for recursive forms; test representative and adversarial cases.\r\n- Complexity: Derive Big-O; profile real data; consider constant factors and cache behavior.\r\n- Robustness: Validate inputs, handle edge conditions, define behavior on invalid inputs.\r\n- Stability and idempotence where relevant (e.g., stable sorting, repeatable results).\r\n\r\nEveryday anchors and their anatomy\r\n- Unlocking a phone: input (passcode) → stepwise digit comparison → accept/reject → lockout after N failures (termination and security policy).\r\n- Sorting contacts: choose a comparison rule → apply sorting procedure → guarantee order and stability (names with same last name).\r\n- Map shortest route: model as a graph → apply path-finding (e.g., Dijkstra/A*) → output route; trade speed vs. optimality depending on heuristics and traffic updates.\r\n\r\nQuestions that sharpen thinking and design\r\n- What exact problem class is this solving? What are valid inputs?\r\n- What invariant, if maintained, forces correctness at the end?\r\n- What’s the clearest termination argument?\r\n- Which data structure choice best matches the operation frequency?\r\n- What’s the acceptable performance envelope (time, space, energy) on target platforms?\r\n- What are the simplest changes that break it? How will it fail safely?\r\n- Can we substitute a simpler algorithm with comparable results for typical cases?\r\n\r\nMental pocket model\r\n- Define the contract (pre/postconditions).\r\n- Choose representations (data structures).\r\n- Specify a finite, unambiguous step sequence that maintains invariants.\r\n- Prove or test for termination and correctness.\r\n- Measure and tune for the real constraints you actually face.\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/dsrp-1.md",
-  compiledAt: "2025-10-23T22:23:09.791Z",
+  compiledAt: "2025-11-07T21:05:57.189Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12352,7 +12352,7 @@ export const compiledFiles = {
     module: "# Algorithm - Dsrp Questions\r\n\r\n## Is it a System?\r\n\r\n- Yes, an Algorithm can be thought of as a system. It has inputs, internal structure (ordered steps, control flow, invariants), and outputs, governed by rules and constraints (termination, correctness, efficiency). It also has an interface (preconditions and postconditions) that defines its boundary with its environment.\r\n- Classification:\r\n  - A system (abstract computational process with internal structure).\r\n  - A part of a system (e.g., a module in software, a step in a workflow, a subroutine in a larger algorithm).\r\n  - A relationship between systems (maps problem instances to solutions; mediates between a specification and an implementation; links data structures to operations).\r\n  - A boundary between systems (its interface and contracts separate caller from callee).\r\n  - A cognitive tool for understanding systems (proceduralizing thought; making problem-solving explicit and analyzable).\r\n\r\n## Distinctions\r\n\r\n- What is Algorithm (as a system):\r\n  - A finite, well-defined procedure mapping inputs to outputs according to explicit rules.\r\n  - Characterized by:\r\n    - Preconditions and input domain.\r\n    - Determinate steps (which may be deterministic or randomized but are specified).\r\n    - Control structures (sequence, selection, iteration/recursion).\r\n    - Correctness criteria (partial/total correctness).\r\n    - Termination guarantees (or specified conditions for non-termination in online/streaming variants).\r\n    - Resource model and complexity (time, space, I/O, energy).\r\n    - Output specification and postconditions.\r\n    - Proof/artifacts: invariants, loop variants, correctness proofs, complexity analyses.\r\n- What is not Algorithm (outside the system boundary):\r\n  - Data and file formats (inputs/outputs, not the procedure).\r\n  - A program’s syntax or a specific language implementation (that’s an encoding of an algorithm, not the abstract procedure itself).\r\n  - Hardware/OS/runtime environment (substrates that execute but are not the algorithm).\r\n  - Vague strategies or heuristics without unambiguous steps (e.g., “try to make it faster”).\r\n  - Policies or goals without procedures (e.g., “minimize waiting time”).\r\n  - A trained machine learning model (a function learned by an algorithm; the training and inference procedures are algorithms, the learned parameters are data).\r\n  - Non-terminating processes without explicit specifications (unless termination criteria or fairness assumptions are part of the definition).\r\n\r\n## Systems\r\n\r\n- Does Algorithm have parts?\r\n  - Conceptual parts:\r\n    - Problem specification (input domain, desired output, constraints).\r\n    - Interface/contract (preconditions, postconditions).\r\n    - Step set and control flow (operations, order, recursion/iteration, base cases).\r\n    - State model (variables, data abstractions, invariants).\r\n    - Subroutines/components (e.g., partition in Quicksort).\r\n    - Correctness artifacts (loop invariants, variants, proofs).\r\n    - Cost model and complexity bounds (worst/average/amortized/probabilistic).\r\n    - Error/approximation model (if randomized/approximate).\r\n  - Practical parts:\r\n    - Data structure assumptions.\r\n    - Randomness source (for randomized algorithms).\r\n    - Resource budgets and timeouts.\r\n    - API surface (parameters, error codes).\r\n- Can Algorithm be a part?\r\n  - Yes:\r\n    - As a module in software systems, ETL pipelines, compilers, cryptographic protocols.\r\n    - As a step within a meta-algorithm (e.g., local search inside simulated annealing).\r\n    - As a method within a larger scientific or decision workflow.\r\n    - As a rule within institutional/socio-technical systems (e.g., scheduling rule in operations).\r\n\r\n## Relationships\r\n\r\n- What other systems is Algorithm related to?\r\n  - Data structures (mutually constraining; “Algorithms + Data Structures = Programs”).\r\n  - Problem classes and complexity theory (reductions, completeness, classes like P, NP, BPP).\r\n  - Formal languages and automata (expressiveness, computability).\r\n  - Software engineering (APIs, testing, verification, performance engineering).\r\n  - Hardware architectures (cache behavior, parallelism, GPU/TPU models).\r\n  - Cryptography (security reductions, hardness assumptions).\r\n  - Optimization and operations research (exact/approximate methods, relaxations).\r\n  - Machine learning (training/inference algorithms; search/optimization).\r\n  - Human-computer interaction (algorithmic latency, fairness, interpretability).\r\n- Can Algorithm be a relationship between systems?\r\n  - Yes:\r\n    - As a mapping from problem instances to solutions (input space → output space).\r\n    - As a mediator between specification and implementation (refinement).\r\n    - As a protocol defining interactions among agents/processes (distributed algorithms).\r\n    - As a trade-off function (accuracy vs. time; memory vs. speed).\r\n    - As a boundary contract (caller/callee; producer/consumer in pipelines).\r\n\r\n## Perspectives\r\n\r\n- From the perspective of Algorithm as a system:\r\n  - Are my preconditions satisfied by incoming inputs?\r\n  - What invariants must hold before/after each step?\r\n  - Do I terminate for all valid inputs; under what conditions might I not?\r\n  - What are my worst-case and expected resource usages in the assumed cost model?\r\n  - How do I degrade under resource pressure; can I adapt (anytime/streaming variants)?\r\n  - What are my failure modes (numerical instability, adversarial inputs, deadlock)?\r\n  - What proofs or tests substantiate my correctness and performance claims?\r\n  - What interfaces do I expose; are they minimal, clear, and robust?\r\n  - What ethical or societal impacts arise from my outputs (bias, fairness, transparency)?\r\n- Perspectives from other systems:\r\n  - Data structure: Which operations will be invoked and with what access patterns?\r\n  - Hardware: How do memory hierarchies, vector units, or parallel cores affect performance?\r\n  - User/product: Does the latency/accuracy meet experience requirements?\r\n  - Security/adversary: Can worst-case inputs or side-channels be exploited?\r\n  - Regulator/auditor: Is the procedure explainable, testable, and compliant?\r\n  - Theorist: What is the asymptotic complexity; can I reduce from known hard problems?\r\n  - Educator: What core ideas does this algorithm illustrate; how to teach proofs/invariants?\r\n  - Maintainer/engineer: How stable is the interface; what are edge cases and logging needs?\r\n  - Environment/energy: What is the energy footprint per operation/output?\r\n  - Domain expert (e.g., map routing): How do constraints (traffic, turn penalties) integrate; what approximation is acceptable?\r\n\r\nIn DSRP terms, an Algorithm is simultaneously:\r\n- A system with parts and boundaries.\r\n- A part within larger computational and socio-technical systems.\r\n- A set of distinctions (procedure vs data, spec vs implementation).\r\n- A nexus of relationships (mapping inputs to outputs; trading resources for quality).\r\n- A cognitive tool that structures reasoning about processes.\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/dsrp-questions.md",
-  compiledAt: "2025-10-23T22:23:09.792Z",
+  compiledAt: "2025-11-07T21:05:57.190Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12363,7 +12363,7 @@ export const compiledFiles = {
     module: "# Algorithm - Exam Questions\r\n\r\nGenerated on 2025-09-03 11:06:35\r\n\r\nHere are 3 multiple-choice exam questions on the topic:\r\n\r\n1) Which statement best defines an algorithm?\r\n- A) Any code written in a specific programming language that compiles successfully\r\n- B) A clear, finite sequence of unambiguous steps that transforms input into output, independent of language\r\n- C) A set of heuristics that may or may not terminate\r\n- D) A data structure used to store information\r\nCorrect answer: B\r\n\r\n2) Which of the following procedures fails to meet a key property of a “good” algorithm?\r\n- A) A contact-sorting method that always finishes and correctly orders names\r\n- B) A map route finder that sometimes loops forever when there is no path\r\n- C) A passcode check that compares the entered code to the stored code\r\n- D) A search that uses extra memory to run faster\r\nCorrect answer: B\r\n\r\n3) A team is choosing between two correct algorithms to process large datasets: Algorithm X runs fast but uses a lot of memory; Algorithm Y runs slower but uses little memory. This choice best illustrates:\r\n- A) Algorithms must be written in the same language as the data\r\n- B) Efficiency only concerns speed, not memory\r\n- C) Trade-offs between time and space efficiency in algorithm design\r\n- D) The need for algorithms to be infinite to handle big data\r\nCorrect answer: C\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.797Z",
+  compiledAt: "2025-11-07T21:05:57.190Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12374,7 +12374,7 @@ export const compiledFiles = {
     module: "# Algorithm - Expanded Definition\r\n\r\nAlgorithm\r\nPronunciation: /ˈal-ɡə-rɪð-əm/\r\nForms: plural algorithms; attributive use common (algorithm design, algorithm bias). Derivatives: algorithmic adj. /ˌal-ɡə-ˈrɪð-ɪk/; algorithmically adv.; algorithmics n. (the study of algorithms); algorithmist n. (rare).\r\n\r\nPart of speech: noun\r\n\r\nEtymology:\r\nFrom medieval Latinized French algorisme/algorithme, originally “the system of arithmetic using Arabic numerals,” from the Latinized name of Muḥammad ibn Mūsā al-Khwārizmī (9th‑cent. mathematician). Later influenced by Greek arithmós ‘number,’ producing the -thm spelling. Sense shifted from ‘rules of computation’ (Middle Ages–early modern) to the general notion of a stepwise procedure (19th c.), and to the modern, formalized concept in mathematics and computing (20th c.).\r\n\r\nSenses:\r\n1. Historical. A set of rules for performing arithmetic with Hindu–Arabic numerals; the art of reckoning. Now chiefly historical or in discussions of the history of mathematics.\r\n   – Example: “Medieval treatises on algorism taught the operations of addition and division with the newly adopted figures.”\r\n\r\n2. Mathematics and computer science. A finite, effective procedure composed of unambiguous steps that, given input, produces output and terminates; independent of implementation language.\r\n   – Example: “Dijkstra’s algorithm finds shortest paths in a weighted graph.”\r\n   – Notes: Emphasizes correctness (right result for all valid inputs), termination (finiteness), and resource use (time and space). May be deterministic or randomized; exact or approximate.\r\n\r\n   2a. By extension (technical). A formally specified method for solving a class of problems, often analyzed for complexity, optimality, and trade-offs (speed, memory, simplicity).\r\n   – Example: “No polynomial-time algorithm is known for the general traveling salesman problem.”\r\n\r\n3. Applied computing and engineering. Any codified procedure embedded in software or hardware to accomplish a task (e.g., sorting, compression, routing, encryption).\r\n   – Example: “The codec’s compression algorithm reduces bandwidth without perceptible loss.”\r\n\r\n4. Data and platforms (popular and professional). The composite procedures, models, and rules governing automated decisions in services and media, especially recommender and ranking systems; sometimes personified as a singular agent “the algorithm.”\r\n   – Example: “Creators keep trying to please the algorithm to boost their visibility.”\r\n   – Usage note: Often conflates distinct components (ranking functions, heuristics, machine‑learned models, business rules, and feedback loops).\r\n\r\n5. General or figurative. Any step-by-step method or recipe for accomplishing a task.\r\n   – Example: “Her morning routine is an algorithm for getting two kids out the door in 20 minutes.”\r\n\r\nHistorical development:\r\n- 12th–15th c.: Through Latin and French, algorism denotes the newly diffused numeral system and the rules of arithmetic.\r\n- 17th–19th c.: Broadening to methodical calculation procedures; early appearances in logic and mechanical computation.\r\n- 20th c.: Formalization via Church, Turing, Post, and others: algorithm as an effectively computable procedure; rise of complexity theory defining efficiency classes (P, NP, etc.).\r\n- Late 20th–21st c.: Ubiquitous in software; term diffuses into public discourse with the growth of search, social media, and AI; semantic broadening to socio-technical systems behind automated decisions.\r\n\r\nStakeholder/contextual uses:\r\n- Theoretical computer scientists: stress formal models (Turing machines, RAM models), correctness proofs, and asymptotic complexity.\r\n- Software engineers: focus on practical performance, memory footprint, maintainability, and real‑world constraints; algorithm vs. data structure trade-offs.\r\n- Data scientists/ML practitioners: sometimes use “algorithm” to mean both learning procedure (e.g., stochastic gradient descent) and the trained model; evaluation via accuracy, bias, robustness.\r\n- Operations researchers: algorithms as optimization procedures (simplex, branch‑and‑bound, heuristics, metaheuristics).\r\n- Cryptographers/security: algorithms as rigorously specified primitives (AES, SHA‑256), with properties like indistinguishability and resistance to attacks.\r\n- Law, policy, and ethics: “algorithmic decision‑making” as a socio-technical system; concerns over transparency, accountability, fairness, explainability.\r\n- Medicine/clinical practice: “clinical algorithms” as standardized decision pathways or care protocols.\r\n- Popular media/creators: “the algorithm” shorthand for platform ranking/recommendation behavior; often anthropomorphized.\r\n\r\nUsage notes:\r\n- An algorithm is distinct from its implementation (code), from a data structure (organization of data), and from a model (a learned parameterization); in practice these blur, especially in ML and platform contexts.\r\n- Good algorithms are finite, correct, and efficient, often balancing speed, memory, and simplicity. Randomized or approximate algorithms may trade exactness for performance or scalability.\r\n\r\nAdditional example sentences:\r\n- “The new routing algorithm cut delivery times by 12% while using less memory.”\r\n- “Merge sort and quicksort are comparison-based sorting algorithms with different trade-offs.”\r\n- “Auditors examined the loan-approval algorithm for disparate impact.”\r\n- “There’s no algorithm that solves this problem faster than O(n log n) in the comparison model.”\r\n- “The app changed its algorithm, and my feed looks completely different.”\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/expanded-definition.md",
-  compiledAt: "2025-10-23T22:23:09.798Z",
+  compiledAt: "2025-11-07T21:05:57.190Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12385,7 +12385,7 @@ export const compiledFiles = {
     module: "# Algorithm - Related Concept Sentences\r\n\r\n- Pseudocode: Pseudocode is a language-neutral way to write down an algorithm’s steps clearly before translating them into actual code.\r\n- Programming: Programming is the act of implementing algorithms on a computer so they can be executed to solve problems.\r\n- Code: Code is the concrete, language-specific expression of an algorithm that a computer can run.\r\n- Computational Thinking: Computational thinking is the problem-solving mindset used to design good algorithms, including how to break problems down and reason about solutions.\r\n- Decomposition: Decomposition breaks a complex problem into smaller parts, making it easier to design the overall algorithm from simpler sub-algorithms.\r\n- Abstraction: Abstraction hides unnecessary details so an algorithm focuses on the essential steps relevant to solving the problem.\r\n- Function: A function packages part of an algorithm into a reusable, named unit, helping organize and modularize the overall procedure.\r\n- Loop: A loop expresses repeated steps within an algorithm, allowing efficient handling of repetitive tasks until a condition is met.\r\n- Conditional: A conditional introduces decision points in an algorithm, choosing different steps based on whether a test is true or false.\r\n- IPOS Model: The IPOS (Input-Process-Output-Storage) model frames how an algorithm takes inputs, processes them through defined steps, may store intermediate results, and produces outputs.\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/related-concept-sentences.md",
-  compiledAt: "2025-10-23T22:23:09.799Z",
+  compiledAt: "2025-11-07T21:05:57.190Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12396,7 +12396,7 @@ export const compiledFiles = {
     module: "# Algorithm - Related Concepts\r\n\r\n- Pseudocode [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Computational Thinking [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Function [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- IPOS Model [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/algorithm/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.800Z",
+  compiledAt: "2025-11-07T21:05:57.191Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12407,7 +12407,7 @@ export const compiledFiles = {
     module: "# Algorithm\r\n\r\nStep-by-step procedure for solving a problem\r\n\r\n## Definition\r\nAn algorithm is a clear, step-by-step procedure for solving a problem or completing a task: it takes input, follows unambiguous rules, and produces output, independent of any specific programming language. Good algorithms are finite (they eventually stop), correct (give the right result for all valid inputs), and efficient (use reasonable time and memory), often balancing trade-offs among speed, memory, and simplicity. Everyday examples include unlocking a phone with a passcode, sorting contacts, or a map app finding the shortest route; in programs, algorithms are the plans that code carries out.\r\n",
     metadata: {
   sourceFile: "definitions/algorithm.md",
-  compiledAt: "2025-10-23T22:23:09.802Z",
+  compiledAt: "2025-11-07T21:05:57.191Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12418,7 +12418,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Categories 1\r\n\r\nGenerated on 2025-09-03 13:18:40\r\n\r\nHere’s a DSRP (Distinctions, Systems, Relationships, Perspectives) categorization of “Algorithmic Bias,” with emphasis on whether it is a category, a member of a category, or both.\r\n\r\nCategorization\r\n- Status: Both\r\n  - As a member: It is a member of broader categories like Bias, AI/ML Risks, and Ethical Issues in AI.\r\n  - As a category: It is a category that contains multiple subtypes/sources (e.g., data bias, evaluation bias) and domain-specific instances (e.g., hiring bias).\r\n\r\nParent categories (what Algorithmic Bias is a member of)\r\n- Bias (general)\r\n- Statistical bias (systematic error)\r\n- Algorithmic/AI risk\r\n- Ethical issues in AI (AI ethics)\r\n- Sociotechnical harms\r\n- Discrimination (legal/policy framing when bias leads to protected-class harms; overlapping parent)\r\n\r\nSibling categories (share the same parent, depending on the parent chosen)\r\n- Under Bias (general):\r\n  - Cognitive bias (e.g., confirmation bias)\r\n  - Measurement bias\r\n  - Sampling/selection bias\r\n  - Observer/experimenter bias\r\n  - Publication bias\r\n- Under AI/ML risk:\r\n  - Privacy risks (e.g., reidentification)\r\n  - Security/robustness risks (e.g., adversarial examples)\r\n  - Safety risks (e.g., catastrophic failures)\r\n  - Explainability/opacity (lack of interpretability)\r\n  - Misinformation/propagation harms\r\n- Under Ethical issues in AI:\r\n  - Surveillance and autonomy harms\r\n  - Manipulation/nudging\r\n  - Accountability gaps\r\n\r\nSubcategories of Algorithmic Bias (what it categorizes)\r\n- By source/stage in the ML pipeline (Suresh & Guttag-style taxonomy plus deployment):\r\n  - Data bias\r\n    - Sampling/coverage bias\r\n    - Historical bias (structural inequities embedded in data)\r\n    - Measurement/labeling bias\r\n    - Class imbalance\r\n  - Model/Objective bias\r\n    - Inductive bias/design choices (architecture, features)\r\n    - Objective/metric choice (loss functions that trade off group outcomes)\r\n    - Regularization/thresholding choices\r\n  - Evaluation bias\r\n    - Metrics that hide subgroup disparities (e.g., overall accuracy masking group error rates)\r\n    - Poor benchmarking datasets lacking subgroup coverage\r\n  - Deployment/Use bias\r\n    - Population shift (train–serve mismatch)\r\n    - Proxy/threshold decisions that disadvantage groups\r\n    - Human-in-the-loop operational practices that amplify bias\r\n  - Interaction/Feedback bias\r\n    - Reinforcement loops from user feedback or recommender exposure\r\n- By harm type\r\n  - Allocative harms (resource access: loans, jobs)\r\n  - Representational harms (stereotyping, misrecognition)\r\n- By domain (instances within the category)\r\n  - Hiring tools, loan approvals, facial recognition, predictive policing, healthcare triage, education/edtech scoring\r\n\r\nDSRP framing\r\n- Distinctions\r\n  - Is: systematic, group-differential unfairness arising in algorithmic systems.\r\n  - Is not: random error/noise; mere model inaccuracy; fairness as a property.\r\n- Systems\r\n  - Whole: a sociotechnical system (data, model, deployment, policy, people).\r\n  - Parts: data generation, labeling, modeling, evaluation, deployment, feedback loops, governance.\r\n- Relationships\r\n  - Causes: biased/incomplete data; design and training choices; evaluation and operational policies.\r\n  - Effects: disparate error rates, unfair allocations, eroded trust; feedback loops reinforcing inequity.\r\n- Perspectives\r\n  - Statistical: systematic error across groups.\r\n  - Ethical: unfair treatment and harm.\r\n  - Legal/policy: discrimination and compliance risk.\r\n  - Stakeholder: developers, users, impacted communities, auditors, regulators see different problem boundaries and remedies.\r\n\r\nBottom line\r\n- Algorithmic Bias is both a member (of Bias, AI Risk, Ethical Issues) and a category (containing multiple subtypes and domain-specific instances). The useful categorization depends on the level of analysis: conceptual (sources/harm types) versus applied (domain instances).\r\n\r\n\r\n---\r\n\r\n## 2025-09-03 13:21:15\r\n\r\nGenus–differentia definition\r\n- Genus: A form of systemic bias in decision-making systems.\r\n- Differentia: Occurs specifically in automated or computational (algorithmic) systems when their outputs produce systematic, unfair advantages or disadvantages across groups (often defined by protected attributes), due to properties of the data, model design/optimization, evaluation, or deployment context; the effect is measurable as consistent performance or outcome disparities rather than random error.\r\n\r\nOntological status\r\n- Both. It is:\r\n  - A member of the broader category “bias,” and\r\n  - A category that contains more specific types of algorithmic bias.\r\n\r\nParent categories (supercategories)\r\n- Bias (general)\r\n- Systemic bias / structural bias\r\n- Statistical and measurement bias (inference/estimation context)\r\n- AI/ML risks and harms\r\n- Discrimination mechanisms (socio-technical)\r\n\r\nSibling categories (under the respective parents)\r\n- Under Bias: human cognitive bias, sampling bias, measurement bias, media bias\r\n- Under Statistical/measurement bias: selection bias, label bias, confounding bias, omitted-variable bias\r\n- Under AI/ML risks: privacy risks, security/robustness failures (adversarial examples), lack of interpretability, model drift\r\n- Under Discrimination mechanisms: institutional discrimination, human decision-maker bias, policy bias\r\n\r\nSubcategories of algorithmic bias\r\n- By pipeline origin:\r\n  - Data bias: sampling bias, historical bias, measurement bias, label bias, survivorship/selective-labels bias\r\n  - Feature/target bias: proxy-variable bias, construct validity/target definition bias\r\n  - Model/optimization bias: objective-function bias (e.g., optimizing overall accuracy at the expense of subgroup errors), regularization/inductive choices that skew group performance\r\n  - Evaluation bias: metric choice bias, benchmark/dataset shift, unrepresentative test sets\r\n  - Deployment/context bias: feedback-loop/performative effects, automation bias in end-users, domain shift, missing or misused uncertainty\r\n- By effect type:\r\n  - Disparate treatment vs disparate impact\r\n  - Allocative harm vs quality-of-service harm vs representational harm\r\n  - Group fairness violations (e.g., error-rate parity, demographic parity, equalized odds) vs individual fairness violations\r\n  - Intersectional bias (compounded disparities across multiple attributes)\r\n  - Calibration disparity, FPR/FNR disparity, ranking/exposure bias\r\n- By domain/application:\r\n  - Hiring and admissions screening bias\r\n  - Credit/loan underwriting bias\r\n  - Facial recognition demographic bias\r\n  - Predictive policing/recidivism risk bias\r\n  - Healthcare triage/risk scoring bias\r\n  - Ad delivery and content moderation bias\r\n- By mechanism:\r\n  - Feedback amplification and retraining bias\r\n  - Confounding/omitted-variable bias\r\n  - Proxy discrimination\r\n  - Label leakage and target shift\r\n\r\nClarifications and near relations\r\n- Related but distinct: inductive bias (a learning-theory concept) is not inherently unfair; algorithmic discrimination is a legal/policy framing of certain effects of algorithmic bias.\r\n- Typical instances/exemplars: disparate error rates in commercial facial recognition by gender/skin tone; COMPAS risk scores with differing FPR/FNR across races; ad delivery skew for employment/credit housing ads.\r\n\r\nPractical criteria/diagnostics (necessary-and-typical features)\r\n- Locus: automated system (model, rules, or pipeline)\r\n- Systematic disparity: consistent performance or outcome differences across groups\r\n- Causal pathways: data, modeling choices, evaluation, or deployment context\r\n- Observability: measurable through subgroup analysis; may persist or amplify over time\r\n- Normative judgment: deemed unfair relative to legal, ethical, or policy standards\r\n\r\nMitigation levers (category-typical remedies)\r\n- Dataset improvement and documentation, subgroup performance auditing, transparent objectives/metrics, fairness-aware learning or post-processing, human oversight and accountability, and monitoring in deployment.\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/categories-1.md",
-  compiledAt: "2025-10-23T22:23:09.808Z",
+  compiledAt: "2025-11-07T21:05:57.191Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12429,7 +12429,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Cabrera Dialectic 2\r\n\r\nGenerated on 2025-09-03 12:55:55\r\n\r\nDistinctions (what it is and isn’t)\r\n- What it is: Consistent, systematic advantages/disadvantages for groups in algorithmic outputs.\r\n- What it isn’t: Random errors, occasional mistakes, or mere differences that do not systematically affect groups.\r\n- Outcomes vs processes: Biased outcomes can arise even if code is “neutral” when data or use context is biased.\r\n- Technical vs societal: Statistical bias (estimation error) differs from social bias (unfair impact). Both can interact.\r\n- Subtypes to watch:\r\n  - Representation bias (who’s in the data, sample imbalance)\r\n  - Measurement/label bias (proxies, flawed labels)\r\n  - Historical/structural bias (data encodes past inequities)\r\n  - Evaluation bias (one-size-fits-all metrics)\r\n  - Deployment/use bias (thresholds, contexts, human-in-the-loop)\r\n  - Feedback bias (system outputs change the world and future data)\r\n- Scope boundaries: Define target task, population, protected attributes, context of use, and harms of interest. Decide what counts as “fair” for this application.\r\n\r\nParts and wholes (how it’s structured)\r\n- Pipeline parts:\r\n  - Problem framing (objective, target, constraints)\r\n  - Data sourcing (coverage, consent, provenance)\r\n  - Labeling (criteria, annotator guidance, inter-rater reliability)\r\n  - Preprocessing/feature engineering (proxy detection, leakage)\r\n  - Modeling (loss functions, regularization, fairness constraints)\r\n  - Evaluation (overall and subgroup metrics; stress tests)\r\n  - Deployment (thresholds, human oversight, UI, explanations)\r\n  - Monitoring (drift, post-deployment audits, incident response)\r\n- Nested systems:\r\n  - Technical system sits inside organizational incentives, legal/compliance requirements, societal norms, and domain-specific processes (e.g., hiring or lending pipelines).\r\n- Control points in each part:\r\n  - Framing: articulate fairness definitions and harms\r\n  - Data: audits, documentation (datasheets, lineage), gap-filling or reweighting\r\n  - Labels: bias reviews, gold standards, blinded annotation\r\n  - Modeling: hyperparameter/fairness sweeps, robust objectives\r\n  - Evaluation: stratified metrics, intersectional analysis, uncertainty\r\n  - Deployment: policy guardrails, appeals, override protocols\r\n  - Monitoring: dashboards per group, alerts, periodic revalidation\r\n\r\nRelationships (causes, effects, feedbacks, trade-offs)\r\n- Causal pathways:\r\n  - Underrepresentation → higher error rates → unfair denial/approval patterns\r\n  - Proxy features (e.g., zipcode) → reconstruct protected status → disparate impact\r\n  - Threshold choices → different FPR/FNR across groups → unequal burdens\r\n- Feedback loops:\r\n  - Predictive policing increases patrols → more recorded incidents → model “learns” higher risk → perpetuation/escalation\r\n  - Credit denials reduce credit history building → future denials\r\n- Metric tensions:\r\n  - Can’t generally satisfy calibration and equalized odds simultaneously when base rates differ; choose and justify trade-offs.\r\n- Intervention effects:\r\n  - Reweighting/augmentation → improved subgroup recall but possible precision loss\r\n  - Post-processing thresholds by group → parity gains, potential perceptions of individual unfairness; require governance and transparency\r\n- Accountability linkages:\r\n  - Documentation → auditability → corrective action → trust\r\n  - Oversight and appeal mechanisms → mitigation of harm when errors occur\r\n\r\nPerspectives (viewpoints, scales, contexts)\r\n- Stakeholders:\r\n  - Impacted individuals/communities: focus on lived experience, false positives/negatives, recourse\r\n  - Domain experts (e.g., clinicians, loan officers): utility, safety, workflow fit\r\n  - Developers/ML engineers: technical feasibility, debt, monitoring\r\n  - Product/business: outcomes, costs, timelines, incentive structures\r\n  - Regulators/ethicists/auditors: compliance, transparency, due process\r\n- Scales:\r\n  - Short-term model metrics vs long-term societal outcomes and distributional effects\r\n  - Individual fairness (similar individuals treated similarly) vs group fairness (parity across groups)\r\n- Context sensitivity:\r\n  - High-stakes domains (health, criminal justice, credit) require stronger evidence, human-in-the-loop, and formal harm assessments.\r\n- Counterfactual thinking:\r\n  - Would this decision change if sensitive attributes were different, holding relevant factors constant?\r\n\r\nPractical checklist\r\n- Define\r\n  - What harms are we trying to prevent? Which fairness criteria are appropriate here and why?\r\n  - Which groups and intersections will we evaluate?\r\n- Diagnose\r\n  - Compute performance and error types per group; include calibration, TPR/FPR, PPV/NPV, and uncertainty.\r\n  - Run stress tests: distribution shifts, worst-case subgroup performance, counterfactual evaluations.\r\n- Data work\r\n  - Audit coverage and label quality; document provenance and known limitations.\r\n  - Address gaps via augmentation, reweighting, or targeted data collection; reduce proxy leakage.\r\n- Model work\r\n  - Compare models with and without fairness-aware training; examine trade-offs explicitly.\r\n  - Tune thresholds (possibly per group) with governance review and justification.\r\n- Transparency\r\n  - Produce datasheets/model cards; document decisions, metrics, trade-offs, and known risks.\r\n  - Provide user-facing explanations suitable for the domain.\r\n- Oversight and accountability\r\n  - Establish human review for edge/high-stakes cases; define appeal and error-correction processes.\r\n  - Monitor in production with alerts on subgroup metrics and drift; schedule regular audits.\r\n  - Record incidents and implement corrective actions; revisit incentives that might pressure unsafe shortcuts.\r\n\r\nGuiding questions\r\n- Where could unfairness enter in our pipeline, and what evidence do we have?\r\n- Which trade-offs are we accepting, and who bears their costs?\r\n- How will we know if things get worse after deployment, and what will we do next?\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/dsrp-1.md",
-  compiledAt: "2025-10-23T22:23:09.817Z",
+  compiledAt: "2025-11-07T21:05:57.191Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12440,7 +12440,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Dsrp Questions\r\n\r\n# Is it a System?\r\n- Yes, Algorithmic Bias can be thought of as a system. It emerges from interacting components—data, models, objectives, training procedures, deployment contexts, governance processes, and human actors—whose interactions produce patterned, measurable disparities across groups. The phenomenon has feedback loops (e.g., biased outputs influence future data), boundary conditions (institutional, legal, domain-specific), and multi-scale structure (from feature engineering choices to societal impacts).\r\n- Classification:\r\n  - A system (when considered as the socio-technical phenomenon producing inequitable outcomes).\r\n  - A part of a system (as one component of broader socio-technical systems like hiring, credit, health, or justice).\r\n  - A relationship between systems (as the patterned inequity arising from interactions among datasets, models, institutions, and populations).\r\n  - A boundary between systems (surfacing at the interface where algorithmic decisions meet social identity categories and legal norms).\r\n  - A cognitive tool (less so; the concept of “algorithmic bias” is also a lens for diagnosing dysfunctions in complex systems).\r\n\r\n# Distinctions\r\n- What it is (inside the boundary):\r\n  - Systematic, group-differentiated error or unfairness in algorithmic decision-making (e.g., higher false positive rates for one demographic group).\r\n  - A socio-technical phenomenon caused by data-generation processes, modeling choices, deployment contexts, and institutional incentives.\r\n  - Manifested in real applications (hiring filters, loan underwriting, facial recognition, predictive policing, healthcare triage).\r\n  - Addressable via practices such as dataset documentation, performance stratified by groups, fairness-aware modeling, transparency, human oversight, and accountability mechanisms.\r\n\r\n- What it is not (outside the boundary):\r\n  - Random noise or idiosyncratic single-instance errors without patterned group disparity.\r\n  - Purely technical model underperformance unrelated to social categories or protected classes.\r\n  - The totality of societal inequity (it is a contributor and amplifier, not the whole cause).\r\n  - Bias only “in the data” or only “in the model”: algorithmic bias is not reducible to a single locus.\r\n  - A solved problem through accuracy alone; high average accuracy can coexist with high disparity.\r\n\r\n# Systems\r\n- Parts of Algorithmic Bias (viewed as a system):\r\n  - Data subsystem: sampling frames, labeling practices, measurement error, historical prejudices embedded in outcomes.\r\n  - Modeling subsystem: objectives (loss functions), architectures, regularization, feature selection, hyperparameters.\r\n  - Evaluation subsystem: metrics (accuracy, calibration, equalized odds, demographic parity), validation splits, subgroup analyses.\r\n  - Deployment context: user interfaces, thresholding, human-in-the-loop design, organizational policies, incentive structures.\r\n  - Governance/ethics/legal: documentation (datasheets/model cards), audits, reporting, compliance, recourse mechanisms.\r\n  - Feedback dynamics: how decisions alter future data (e.g., policing intensity affecting crime reports).\r\n  - Stakeholders: applicants, decision-subjects, operators, auditors, regulators, impacted communities.\r\n\r\n- Algorithmic Bias as a part:\r\n  - Within AI/ML risk management systems (one risk category alongside privacy, robustness, security).\r\n  - Within organizational decision systems (a failure mode within hiring/credit/healthcare decision pipelines).\r\n  - Within societal inequity systems (a technological amplifier or attenuator within broader structures of discrimination).\r\n\r\n# Relationships\r\n- Related systems:\r\n  - Data ecosystems (collection, curation, annotation markets).\r\n  - Legal-regulatory systems (anti-discrimination law, AI governance frameworks, standards bodies).\r\n  - Economic systems (labor markets, credit markets) that both shape and are shaped by algorithmic decisions.\r\n  - Technical assurance systems (auditing, certification, monitoring, incident reporting).\r\n  - Sociocultural systems (norms around fairness, identity, and legitimacy).\r\n\r\n- Algorithmic Bias as a relationship:\r\n  - Between datasets and populations: mismatch between training data distributions and real-world group distributions.\r\n  - Between model objectives and social values: optimization for aggregate loss versus equitable outcomes.\r\n  - Between institutions and individuals: power asymmetries mediated by algorithmic decision tools.\r\n  - Between historical data and future allocation: path dependence where past inequities inform future predictions.\r\n\r\n# Perspectives\r\n- Questions from the perspective of Algorithmic Bias as a system:\r\n  - Where do disparities originate within the pipeline, and how do they propagate across stages?\r\n  - Which feedback loops amplify or dampen disparities over time?\r\n  - What metrics (and trade-offs) best capture fairness given the domain’s constraints?\r\n  - How do changes at one layer (e.g., loss function) affect outcomes at others (e.g., long-term population impacts)?\r\n  - What governance and accountability mechanisms effectively realign incentives and reduce harm?\r\n\r\n- Perspectives from other systems:\r\n  - Regulator’s perspective: Are outcomes compliant with anti-discrimination law? Is there documentation, auditability, and evidence of subgroup performance?\r\n  - Data steward’s perspective: How were labels produced? What are coverage gaps, measurement errors, and consent constraints?\r\n  - Model developer’s perspective: What fairness definitions are appropriate? How to adjust objectives, constraints, or post-processing to meet them?\r\n  - Impacted individual’s perspective: Is the decision explainable? Is there recourse and remedy? Are appeals timely and accessible?\r\n  - Organizational executive’s perspective: What are the risk, reputation, and compliance implications? How to align incentives with responsible outcomes?\r\n  - Community advocate’s perspective: Do systems uphold dignity and equity? Were communities consulted in design and evaluation?\r\n  - Ethicist/philosopher’s perspective: Which moral theories of fairness are implicit in metric choices? What harms are distributive vs. recognitional?\r\n  - Systems engineer’s perspective: How to instrument monitoring for drift and subgroup performance in production? What incident response processes exist?\r\n\r\n- Not applicable:\r\n  - None. All DSRP aspects can be meaningfully applied to Algorithmic Bias.\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/dsrp-questions.md",
-  compiledAt: "2025-10-23T22:23:09.819Z",
+  compiledAt: "2025-11-07T21:05:57.192Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12451,7 +12451,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Exam Questions\r\n\r\nGenerated on 2025-09-03 11:06:45\r\n\r\nHere are three multiple-choice exam questions on algorithmic bias.\r\n\r\n1) Which statement best describes algorithmic bias?\r\n- A. Random errors caused by software bugs\r\n- B. Consistent unfair advantages or disadvantages produced by a system for certain people or groups\r\n- C. Differences in user preferences across demographics\r\n- D. Any inaccurate prediction made by a model\r\nCorrect answer: B\r\nExplanation: Algorithmic bias refers to systematic unfairness affecting specific groups.\r\n\r\n2) A company’s hiring tool shows higher pass rates for men than for equally qualified women. Which action is the most appropriate first step to reduce bias?\r\n- A. Increase the model’s overall accuracy using more features\r\n- B. Remove all demographic variables from the model and redeploy immediately\r\n- C. Evaluate performance across demographic groups and audit the training data for imbalance and proxies\r\n- D. Replace the model with a different algorithm without reviewing data or outputs\r\nCorrect answer: C\r\nExplanation: Bias reduction begins with measuring group-wise performance and auditing datasets for imbalance and proxy features.\r\n\r\n3) Which combination correctly pairs a real-world domain with a suitable bias-mitigation practice?\r\n- A. Loan approvals — limit transparency to prevent users from gaming the system\r\n- B. Facial recognition — document datasets, expand representation, and test error rates by demographic group\r\n- C. Predictive policing — train solely on historical arrest data to ensure consistency\r\n- D. Hiring — remove all human oversight to avoid subjective judgment\r\nCorrect answer: B\r\nExplanation: Bias mitigation involves better dataset documentation/coverage and group-wise evaluation; predictive policing and hiring require more oversight, not less.\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/exam-questions.md",
-  compiledAt: "2025-10-23T22:23:09.828Z",
+  compiledAt: "2025-11-07T21:05:57.192Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12462,7 +12462,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Expanded Definition\r\n\r\nAlgorithmic bias, n. (also algorithm bias; occasionally attrib. and as adj. in algorithmically biased)\r\n\r\nPronunciation: /ˌælɡəˈrɪðmɪk ˈbaɪəs/\r\n\r\nInflections: plural algorithmic biases\r\n\r\nEtymology: Formed from algorithmic adj. ‘relating to an algorithm’ + bias n. In this sense, bias follows established statistical and psychological uses (‘systematic deviation’), now applied to computational systems.\r\n\r\nCore definition:\r\n1. The systematic and unfair skewing of outcomes produced by a computational system (e.g., a model, algorithm, or pipeline) such that certain individuals or groups are consistently advantaged or disadvantaged. Arises from properties of data, design and training choices, deployment context, or feedback effects.\r\n\r\nExtended senses:\r\n2. Statistical/ML sense. A measurable disparity in model performance, error rates, or allocations across protected or meaningful subpopulations (e.g., differences in false positive/negative rates, calibration, or allocation parity).\r\n\r\n3. Governance and ethics sense. A risk category in automated decision-making that requires mitigation through process controls (dataset documentation, transparency, auditing, human oversight, accountability) to meet legal, ethical, or organizational standards of nondiscrimination and fairness.\r\n\r\n4. Attributive and participial uses. algorithmic-bias audit; algorithmically biased system; algorithmic-bias mitigation.\r\n\r\nHistorical development:\r\n- Prefiguring concepts: Discussions of “bias in algorithms” and “bias in expert systems” appear in the 1980s–1990s, paralleling concerns in statistics about sampling and measurement bias.\r\n- Early usage: The collocation algorithmic bias gains currency in the late 2000s to early 2010s with the rise of large-scale machine learning in hiring, credit scoring, advertising, and criminal justice.\r\n- Public attention: Mid-2010s reporting and academic work (e.g., on predictive policing tools, online ad delivery skew, face recognition error disparities, and risk assessment systems) popularize the term and spur policy responses.\r\n- Institutionalization: Late 2010s–2020s see formal guidance in industry standards, data protection and AI regulation, model risk management, and internal audit functions, with “bias” often operationalized via fairness metrics and impact assessments.\r\n\r\nStakeholder and contextual uses:\r\n- Data science/ML engineering: Refers to measurable performance disparities; addressed through dataset curation, reweighting, debiasing, algorithm selection, thresholding, post-processing, and continuous monitoring.\r\n- Product and UX: Focus on harms to users and cohorts; includes inclusive design, representative testing, and clear user messaging about limitations.\r\n- Compliance, risk, and audit: Categorized as model risk or discrimination risk; managed via documentation (datasheets, model cards), testing across subgroups, transparency, human-in-the-loop controls, and incident response.\r\n- Legal and policy: Intersects with equal opportunity, anti-discrimination, consumer protection, data protection, sectoral rules (e.g., credit, employment, housing), and emerging AI regulations; emphasizes explainability, impact assessments, and redress.\r\n- Research and ethics: Examines sources (historical and measurement biases, label subjectivity, deployment shift, feedback loops), normative choices (which fairness criteria), and trade-offs (accuracy, privacy, utility).\r\n- Affected communities and advocacy: Centers lived experience, disparate impacts, due process, and accountability; calls for participatory design, transparency, and stronger oversight.\r\n\r\nSources and mechanisms:\r\n- Data: Unrepresentative samples, historical discrimination encoded in labels, measurement error, missingness, proxy variables.\r\n- Modeling: Objective functions that ignore fairness constraints; regularization and class imbalance handling; thresholding choices.\r\n- Deployment and feedback: Context mismatch, selection effects, automation bias by users, and feedback loops that entrench disparities.\r\n- Use and interpretation: Overreliance on scores without context; lack of appeals; opaque explanations.\r\n\r\nMitigation and evaluation practices:\r\n- Check performance across groups; define relevant subpopulations.\r\n- Use multiple fairness metrics (e.g., calibration, equalized odds, demographic parity) and be explicit about trade-offs.\r\n- Improve and document datasets; assess consent, provenance, sampling frames, and labeling.\r\n- Increase transparency via model cards, datasheets, and user-facing explanations.\r\n- Add human oversight, appeals processes, governance, and accountability.\r\n- Monitor post-deployment drift and impacts; perform periodic audits.\r\n\r\nExample sentences:\r\nSense 1 (general)\r\n- The city paused deployment after an external review found algorithmic bias against applicants from certain neighborhoods.\r\n- Advocacy groups argued that algorithmic bias in the screening tool mirrored past discrimination.\r\n\r\nSense 2 (statistical/ML)\r\n- We detected algorithmic bias as a 12% gap in false positive rates between groups, even though overall accuracy was similar.\r\n- Threshold adjustments reduced one metric of algorithmic bias but worsened calibration, highlighting a fairness trade-off.\r\n\r\nSense 3 (governance/ethics)\r\n- The policy mandates annual assessments for algorithmic bias and requires a documented mitigation plan.\r\n- Regulators now treat unmanaged algorithmic bias as a form of compliance failure.\r\n\r\nAttributive/participial\r\n- The team conducted an algorithmic-bias audit before launch.\r\n- Complaints described the system as algorithmically biased in its loan approvals.\r\n\r\nUsage notes:\r\n- The term may conflate normative judgment (“unfair”) with statistical deviation; technical work often specifies the metric and population.\r\n- Bias can originate in data, model, or context; mitigation is most effective when it treats the full lifecycle.\r\n- “Fairness” criteria are not interchangeable; stakeholders should agree on definitions aligned with legal and social goals.\r\n- Transparency and human oversight are complements, not substitutes, for quantitative evaluation.\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/expanded-definition.md",
-  compiledAt: "2025-10-23T22:23:09.829Z",
+  compiledAt: "2025-11-07T21:05:57.192Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12473,7 +12473,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Related Concept Sentences\r\n\r\n- Artificial Intelligence (AI): Algorithmic bias can emerge in AI systems when their decision-making patterns systematically favor or disadvantage certain groups due to biased training data, design assumptions, or deployment contexts.\r\n- Machine Learning: Algorithmic bias often arises in machine learning models because they learn from historical data that may encode societal inequities, amplifying those patterns in predictions.\r\n- Algorithm: Bias can be embedded in an algorithm’s objectives, features, thresholds, or constraints, leading to unfair outcomes even when the code functions as intended.\r\n- Data: Biased, incomplete, or unrepresentative data is a primary source of algorithmic bias, shaping model behavior and performance across different populations.\r\n- Data Mining: Data mining practices can introduce or reinforce bias by overemphasizing patterns that reflect existing disparities or by filtering out minority signals as noise.\r\n- Analytics: Biased analytics pipelines—from metric selection to segmentation and interpretation—can produce misleading insights that drive inequitable decisions.\r\n- Big Data: Large-scale datasets can mask minority group patterns and entrench historical bias at scale, making algorithmic bias harder to detect and correct.\r\n- Digital Ethics: Algorithmic bias is a central concern in digital ethics, which provides frameworks for fairness, accountability, transparency, and governance to mitigate harm.\r\n- Biometrics: Biometric systems, such as facial or voice recognition, are prone to algorithmic bias when accuracy varies across demographic groups due to skewed training data or sensor differences.\r\n- Automation: When biased algorithms are automated, unfair decisions can be applied quickly and widely, increasing the urgency for bias audits, human oversight, and accountability mechanisms.\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/related-concept-sentences.md",
-  compiledAt: "2025-10-23T22:23:09.829Z",
+  compiledAt: "2025-11-07T21:05:57.192Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12484,7 +12484,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias - Related Concepts\r\n\r\n- Artificial Intelligence (AI) [Emerging Technologies]\r\n- Machine Learning [Emerging Technologies]\r\n- Algorithm [Programming Concepts]\r\n- Data [Data and Information Processing]\r\n- Data Mining [Digital Ethics]\r\n- Analytics [Data and Information Processing]\r\n- Big Data [Databases and Structured Data]\r\n- Digital Ethics [Digital Ethics]\r\n- Biometrics [Emerging Technologies]\r\n- Automation [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.830Z",
+  compiledAt: "2025-11-07T21:05:57.193Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12495,7 +12495,7 @@ export const compiledFiles = {
     module: "# Algorithmic Bias\r\n\r\nUnfair discrimination in automated systems\r\n\r\n## Definition\r\nAlgorithmic bias occurs when a computer system consistently gives unfair advantages or disadvantages to certain people or groups. It can come from biased or incomplete data, design and training choices, or the way results are used, and appears in real systems like hiring tools, loan approvals, facial recognition, and predictive policing. Reducing bias is essential for fair and accurate technology and involves checking performance across groups, improving and documenting datasets, increasing transparency, and adding human oversight and accountability.\r\n",
     metadata: {
   sourceFile: "definitions/algorithmic-bias.md",
-  compiledAt: "2025-10-23T22:23:09.831Z",
+  compiledAt: "2025-11-07T21:05:57.193Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12506,7 +12506,7 @@ export const compiledFiles = {
     module: "# Analytics - Related Concepts\r\n\r\n- Data [Data and Information Processing]\r\n- Information [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Chart/Graph [Data and Information Processing]\r\n- Dashboard [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Big Data [Databases and Structured Data]\r\n- Machine Learning [Emerging Technologies]\r\n- Pattern Recognition [Computational Thinking]\r\n",
     metadata: {
   sourceFile: "definitions/analytics/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.834Z",
+  compiledAt: "2025-11-07T21:05:57.193Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12517,7 +12517,7 @@ export const compiledFiles = {
     module: "# Analytics\r\n\r\nProcess of examining data to discover patterns and insights\r\n\r\n",
     metadata: {
   sourceFile: "definitions/analytics.md",
-  compiledAt: "2025-10-23T22:23:09.835Z",
+  compiledAt: "2025-11-07T21:05:57.193Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12528,7 +12528,7 @@ export const compiledFiles = {
     module: "# Antivirus - Related Concepts\r\n\r\n- Malware [Cybersecurity Fundamentals]\r\n- Virus [Cybersecurity Fundamentals]\r\n- Trojan [Cybersecurity Fundamentals]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n- Rootkit [Cybersecurity Fundamentals]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Antivirus Software [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Zero-Day Exploit [Threats and Attacks]\r\n",
     metadata: {
   sourceFile: "definitions/antivirus/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.836Z",
+  compiledAt: "2025-11-07T21:05:57.194Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12539,7 +12539,7 @@ export const compiledFiles = {
     module: "# Antivirus Software - Related Concepts\r\n\r\nTop ten most related concepts:\r\n- Malware [Cybersecurity Fundamentals]\r\n- Virus [Cybersecurity Fundamentals]\r\n- Trojan [Cybersecurity Fundamentals]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n- Rootkit [Cybersecurity Fundamentals]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Operating System [Operating Systems and Software]\r\n- Software Update [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/antivirus-software/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.837Z",
+  compiledAt: "2025-11-07T21:05:57.194Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12550,7 +12550,7 @@ export const compiledFiles = {
     module: "# Antivirus Software\r\n\r\nProgram that detects and removes malicious software\r\n\r\n",
     metadata: {
   sourceFile: "definitions/antivirus-software.md",
-  compiledAt: "2025-10-23T22:23:09.839Z",
+  compiledAt: "2025-11-07T21:05:57.194Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12561,7 +12561,7 @@ export const compiledFiles = {
     module: "# Antivirus\r\n\r\nSoftware designed to detect and remove malware\r\n\r\n",
     metadata: {
   sourceFile: "definitions/antivirus.md",
-  compiledAt: "2025-10-23T22:23:09.857Z",
+  compiledAt: "2025-11-07T21:05:57.194Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12572,7 +12572,7 @@ export const compiledFiles = {
     module: "# Api - Related Concepts\r\n\r\n- API [Web Development]\r\n- Software [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Programming [Programming Concepts]\r\n- HTTP [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Backend [Web Development]\r\n- Framework [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/api/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.880Z",
+  compiledAt: "2025-11-07T21:05:57.194Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12583,7 +12583,7 @@ export const compiledFiles = {
     module: "# API\r\n\r\nSet of rules for different software components to communicate\r\n\r\n",
     metadata: {
   sourceFile: "definitions/api.md",
-  compiledAt: "2025-10-23T22:23:09.881Z",
+  compiledAt: "2025-11-07T21:05:57.195Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12594,7 +12594,7 @@ export const compiledFiles = {
     module: "# App Store - Related Concepts\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- Installation [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Download [File Systems]\r\n- Software License [Operating Systems and Software]\r\n- Internet [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Platform [Digital Communication and Platforms]\r\n- Uninstall [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/app-store/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.882Z",
+  compiledAt: "2025-11-07T21:05:57.195Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12605,7 +12605,7 @@ export const compiledFiles = {
     module: "# App Store\r\n\r\nDigital marketplace for downloading applications\r\n\r\n",
     metadata: {
   sourceFile: "definitions/app-store.md",
-  compiledAt: "2025-10-23T22:23:09.883Z",
+  compiledAt: "2025-11-07T21:05:57.195Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12616,7 +12616,7 @@ export const compiledFiles = {
     module: "# Application Software - Related Concepts\r\n\r\n- Software [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- Local Application [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- App Store [Common Software and Applications]\r\n- Installation [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Software License [Operating Systems and Software]\r\n- Office Suite [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/application-software/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.886Z",
+  compiledAt: "2025-11-07T21:05:57.195Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12627,7 +12627,7 @@ export const compiledFiles = {
     module: "# Application Software\r\n\r\nPrograms designed for end-users to accomplish specific tasks\r\n\r\n",
     metadata: {
   sourceFile: "definitions/application-software.md",
-  compiledAt: "2025-10-23T22:23:09.887Z",
+  compiledAt: "2025-11-07T21:05:57.195Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12638,7 +12638,7 @@ export const compiledFiles = {
     module: "# Archivecompression Tool - Related Concepts\r\n\r\n- Compression [File Systems]\r\n- ZIP File [File Systems]\r\n- File [File Systems]\r\n- File Extension [File Systems]\r\n- File Format [File Systems]\r\n- File Management [File Systems]\r\n- Backup [File Systems]\r\n- Encryption [Authentication and Protection]\r\n- Decryption [Authentication and Protection]\r\n- Application Software [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/archivecompression-tool/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.888Z",
+  compiledAt: "2025-11-07T21:05:57.196Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12649,7 +12649,7 @@ export const compiledFiles = {
     module: "# Archive/Compression Tool\r\n\r\nSoftware for creating and extracting compressed files\r\n\r\n",
     metadata: {
   sourceFile: "definitions/archivecompression-tool.md",
-  compiledAt: "2025-10-23T22:23:09.889Z",
+  compiledAt: "2025-11-07T21:05:57.196Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12660,7 +12660,7 @@ export const compiledFiles = {
     module: "# Artificial Intelligence - Related Concepts\r\n\r\n- Machine Learning [Emerging Technologies]\r\n- Algorithm [Programming Concepts]\r\n- Data [Data and Information Processing]\r\n- Programming [Programming Concepts]\r\n- Automation [Emerging Technologies]\r\n- Chatbot [Emerging Technologies]\r\n- Big Data [Databases and Structured Data]\r\n- Analytics [Data and Information Processing]\r\n- Cloud Computing [Operating Systems and Software]\r\n- API [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/artificial-intelligence/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.890Z",
+  compiledAt: "2025-11-07T21:05:57.196Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12671,7 +12671,7 @@ export const compiledFiles = {
     module: "# Artificial Intelligence\r\n\r\nComputer systems that perform tasks typically requiring human intelligence\r\n\r\n",
     metadata: {
   sourceFile: "definitions/artificial-intelligence.md",
-  compiledAt: "2025-10-23T22:23:09.895Z",
+  compiledAt: "2025-11-07T21:05:57.196Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12682,7 +12682,7 @@ export const compiledFiles = {
     module: "# Augmented Reality - Related Concepts\r\n\r\n- Hardware [Computer Systems and Architecture]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Application Software [Operating Systems and Software]\r\n- API [Web Development]\r\n- Framework [Web Development]\r\n- Smart Device [Emerging Technologies]\r\n- Wearable Technology [Emerging Technologies]\r\n- Virtual Reality [Emerging Technologies]\r\n- User Interface [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/augmented-reality/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.896Z",
+  compiledAt: "2025-11-07T21:05:57.197Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12693,7 +12693,7 @@ export const compiledFiles = {
     module: "# Augmented Reality\r\n\r\nOverlay of digital information on the real world\r\n\r\n",
     metadata: {
   sourceFile: "definitions/augmented-reality.md",
-  compiledAt: "2025-10-23T22:23:09.897Z",
+  compiledAt: "2025-11-07T21:05:57.197Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12704,7 +12704,7 @@ export const compiledFiles = {
     module: "# Automation - Related Concepts\r\n\r\n- Artificial Intelligence [Emerging Technologies]\r\n- Machine Learning [Emerging Technologies]\r\n- Internet of Things [Emerging Technologies]\r\n- Embedded System [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- API [Web Development]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Smart Device [Emerging Technologies]\r\n- Programming [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/automation/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.899Z",
+  compiledAt: "2025-11-07T21:05:57.197Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12715,7 +12715,7 @@ export const compiledFiles = {
     module: "# Automation\r\n\r\nTechnology that performs tasks without human intervention\r\n\r\n",
     metadata: {
   sourceFile: "definitions/automation.md",
-  compiledAt: "2025-10-23T22:23:09.900Z",
+  compiledAt: "2025-11-07T21:05:57.197Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12726,7 +12726,7 @@ export const compiledFiles = {
     module: "# Backend - Related Concepts\r\n\r\n- Web Server [Internet Infrastructure]\r\n- API [Web Development]\r\n- Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- NoSQL [Databases and Structured Data]\r\n- Framework [Web Development]\r\n- Cloud Computing [Operating Systems and Software]\r\n- HTTP [Internet Infrastructure]\r\n- Caching [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/backend/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.901Z",
+  compiledAt: "2025-11-07T21:05:57.197Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12737,7 +12737,7 @@ export const compiledFiles = {
     module: "# Backend\r\n\r\nServer-side components that users don't directly see\r\n\r\n",
     metadata: {
   sourceFile: "definitions/backend.md",
-  compiledAt: "2025-10-23T22:23:09.904Z",
+  compiledAt: "2025-11-07T21:05:57.197Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12748,7 +12748,7 @@ export const compiledFiles = {
     module: "# Backup - Related Concepts\r\n\r\n- Storage [Computer Systems and Architecture]\r\n- Cloud Storage [Online Communication]\r\n- File [File Systems]\r\n- File Management [File Systems]\r\n- Sync [File Systems]\r\n- Version Control [File Systems]\r\n- Compression [File Systems]\r\n- Encryption [Authentication and Protection]\r\n- Database [Databases and Structured Data]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n",
     metadata: {
   sourceFile: "definitions/backup/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.905Z",
+  compiledAt: "2025-11-07T21:05:57.198Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12759,7 +12759,7 @@ export const compiledFiles = {
     module: "# Backup\r\n\r\nCopy of data stored separately for protection\r\n\r\n",
     metadata: {
   sourceFile: "definitions/backup.md",
-  compiledAt: "2025-10-23T22:23:09.906Z",
+  compiledAt: "2025-11-07T21:05:57.198Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12770,7 +12770,7 @@ export const compiledFiles = {
     module: "# Bandwidth - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- ISP [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- 5G [Emerging Technologies]\r\n- Streaming [Digital Communication and Platforms]\r\n- Download [File Systems]\r\n- Upload [File Systems]\r\n- Compression [File Systems]\r\n- Caching [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/bandwidth/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.908Z",
+  compiledAt: "2025-11-07T21:05:57.198Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12781,7 +12781,7 @@ export const compiledFiles = {
     module: "# Bandwidth\r\n\r\nAmount of data that can be transmitted over a network connection\r\n\r\n",
     metadata: {
   sourceFile: "definitions/bandwidth.md",
-  compiledAt: "2025-10-23T22:23:09.918Z",
+  compiledAt: "2025-11-07T21:05:57.198Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12792,7 +12792,7 @@ export const compiledFiles = {
     module: "# Big Data - Related Concepts\r\n\r\n- NoSQL [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Analytics [Data and Information Processing]\r\n- Machine Learning [Emerging Technologies]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Storage [Computer Systems and Architecture]\r\n- Cloud Storage [Online Communication]\r\n- Data [Data and Information Processing]\r\n- Internet of Things [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/big-data/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:09.986Z",
+  compiledAt: "2025-11-07T21:05:57.198Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12803,7 +12803,7 @@ export const compiledFiles = {
     module: "# Big Data\r\n\r\nExtremely large datasets that require special tools to process\r\n\r\n",
     metadata: {
   sourceFile: "definitions/big-data.md",
-  compiledAt: "2025-10-23T22:23:10.021Z",
+  compiledAt: "2025-11-07T21:05:57.199Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12814,7 +12814,7 @@ export const compiledFiles = {
     module: "# Biometrics - Related Concepts\r\n\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Digital Identity [Online Communication]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Encryption [Authentication and Protection]\r\n- Artificial Intelligence [Emerging Technologies]\r\n- Machine Learning [Emerging Technologies]\r\n- Input Device [Computer Systems and Architecture]\r\n- Smart Device [Emerging Technologies]\r\n- Wearable Technology [Emerging Technologies]\r\n- Internet of Things [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/biometrics/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.024Z",
+  compiledAt: "2025-11-07T21:05:57.199Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12825,7 +12825,7 @@ export const compiledFiles = {
     module: "# Biometrics\r\n\r\nTechnology that identifies people based on physical characteristics\r\n\r\n",
     metadata: {
   sourceFile: "definitions/biometrics.md",
-  compiledAt: "2025-10-23T22:23:10.031Z",
+  compiledAt: "2025-11-07T21:05:57.199Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12836,7 +12836,7 @@ export const compiledFiles = {
     module: "# Blockchain - Related Concepts\r\n\r\nTop 10 most related concepts to Blockchain (Distributed ledger technology):\r\n- Cryptocurrency [Emerging Technologies]\r\n- Encryption [Authentication and Protection]\r\n- Digital Certificate [Authentication and Protection]\r\n- Digital Identity [Online Communication]\r\n- Database [Databases and Structured Data]\r\n- NoSQL [Databases and Structured Data]\r\n- API [Web Development]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Internet [Internet Infrastructure]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n",
     metadata: {
   sourceFile: "definitions/blockchain/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.036Z",
+  compiledAt: "2025-11-07T21:05:57.199Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12847,7 +12847,7 @@ export const compiledFiles = {
     module: "# Blockchain\r\n\r\nDistributed ledger technology\r\n\r\n",
     metadata: {
   sourceFile: "definitions/blockchain.md",
-  compiledAt: "2025-10-23T22:23:10.038Z",
+  compiledAt: "2025-11-07T21:05:57.200Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12858,7 +12858,7 @@ export const compiledFiles = {
     module: "# Blog - Related Concepts\r\n\r\n- Web Application [Operating Systems and Software]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- JavaScript [Web Development]\r\n- Search Engine [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/blog/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.039Z",
+  compiledAt: "2025-11-07T21:05:57.200Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12869,7 +12869,7 @@ export const compiledFiles = {
     module: "# Blog\r\n\r\nRegularly updated website featuring personal or professional content\r\n\r\n",
     metadata: {
   sourceFile: "definitions/blog.md",
-  compiledAt: "2025-10-23T22:23:10.040Z",
+  compiledAt: "2025-11-07T21:05:57.200Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12880,7 +12880,7 @@ export const compiledFiles = {
     module: "# Bug - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Error Message [Problem-Solving Concepts]\r\n- Crash [Problem-Solving Concepts]\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Software [Computer Systems and Architecture]\r\n- Application Software [Operating Systems and Software]\r\n- Software Update [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/bug/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.041Z",
+  compiledAt: "2025-11-07T21:05:57.200Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12891,7 +12891,7 @@ export const compiledFiles = {
     module: "# Bug\r\n\r\nError in computer code\r\n\r\n",
     metadata: {
   sourceFile: "definitions/bug.md",
-  compiledAt: "2025-10-23T22:23:10.055Z",
+  compiledAt: "2025-11-07T21:05:57.201Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12902,7 +12902,7 @@ export const compiledFiles = {
     module: "# Caching - Related Concepts\r\n\r\n- RAM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Database [Databases and Structured Data]\r\n- Caching [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/caching/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.063Z",
+  compiledAt: "2025-11-07T21:05:57.201Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12913,7 +12913,7 @@ export const compiledFiles = {
     module: "# Caching\r\n\r\nStoring frequently accessed data for faster retrieval\r\n\r\n",
     metadata: {
   sourceFile: "definitions/caching.md",
-  compiledAt: "2025-10-23T22:23:10.069Z",
+  compiledAt: "2025-11-07T21:05:57.201Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12924,7 +12924,7 @@ export const compiledFiles = {
     module: "# Chartgraph - Related Concepts\r\n\r\n- Chart/Graph [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Dashboard [Data and Information Processing]\r\n- Analytics [Data and Information Processing]\r\n- Spreadsheet [Data and Information Processing]\r\n- Data [Data and Information Processing]\r\n- Table [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Filter [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/chartgraph/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.070Z",
+  compiledAt: "2025-11-07T21:05:57.201Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12935,7 +12935,7 @@ export const compiledFiles = {
     module: "# Chart/Graph\r\n\r\nVisual representation of data\r\n\r\n",
     metadata: {
   sourceFile: "definitions/chartgraph.md",
-  compiledAt: "2025-10-23T22:23:10.074Z",
+  compiledAt: "2025-11-07T21:05:57.202Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12946,7 +12946,7 @@ export const compiledFiles = {
     module: "# Chatbot - Related Concepts\r\n\r\n- Artificial Intelligence [Emerging Technologies]\r\n- Machine Learning [Emerging Technologies]\r\n- Automation [Emerging Technologies]\r\n- API [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Computing [Operating Systems and Software]\r\n- User Interface [Digital Communication and Platforms]\r\n- User Experience [Digital Communication and Platforms]\r\n- Instant Messaging [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/chatbot/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.082Z",
+  compiledAt: "2025-11-07T21:05:57.202Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12957,7 +12957,7 @@ export const compiledFiles = {
     module: "# Chatbot\r\n\r\nAutomated program designed to simulate conversation with users\r\n\r\n",
     metadata: {
   sourceFile: "definitions/chatbot.md",
-  compiledAt: "2025-10-23T22:23:10.083Z",
+  compiledAt: "2025-11-07T21:05:57.202Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12968,7 +12968,7 @@ export const compiledFiles = {
     module: "# Cloud Computing - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Storage [Online Communication]\r\n- API [Web Development]\r\n- Web Server [Internet Infrastructure]\r\n- Database [Databases and Structured Data]\r\n- Big Data [Databases and Structured Data]\r\n- Encryption [Authentication and Protection]\r\n- Remote Access [Problem-Solving Concepts]\r\n- Platform [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/cloud-computing/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.084Z",
+  compiledAt: "2025-11-07T21:05:57.203Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12979,7 +12979,7 @@ export const compiledFiles = {
     module: "# Cloud Computing\r\n\r\nUsing remote servers over the internet for computing resources\r\n\r\n",
     metadata: {
   sourceFile: "definitions/cloud-computing.md",
-  compiledAt: "2025-10-23T22:23:10.090Z",
+  compiledAt: "2025-11-07T21:05:57.203Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -12990,7 +12990,7 @@ export const compiledFiles = {
     module: "# Cloud Storage - Related Concepts\r\n\r\n- Cloud Computing [Operating Systems and Software]\r\n- Internet [Internet Infrastructure]\r\n- Storage [Computer Systems and Architecture]\r\n- Upload [File Systems]\r\n- Download [File Systems]\r\n- Sync [File Systems]\r\n- Backup [File Systems]\r\n- File [File Systems]\r\n- File Management [File Systems]\r\n- Encryption [Authentication and Protection]\r\n",
     metadata: {
   sourceFile: "definitions/cloud-storage/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.097Z",
+  compiledAt: "2025-11-07T21:05:57.203Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13001,7 +13001,7 @@ export const compiledFiles = {
     module: "# Cloud Storage\r\n\r\nOnline storage service accessible from any internet-connected device\r\n\r\n",
     metadata: {
   sourceFile: "definitions/cloud-storage.md",
-  compiledAt: "2025-10-23T22:23:10.099Z",
+  compiledAt: "2025-11-07T21:05:57.203Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13012,7 +13012,7 @@ export const compiledFiles = {
     module: "# Code - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Bug [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/code/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.100Z",
+  compiledAt: "2025-11-07T21:05:57.203Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13023,7 +13023,7 @@ export const compiledFiles = {
     module: "# Code\r\n\r\nSet of instructions written in a programming language\r\n\r\n",
     metadata: {
   sourceFile: "definitions/code.md",
-  compiledAt: "2025-10-23T22:23:10.101Z",
+  compiledAt: "2025-11-07T21:05:57.204Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13034,7 +13034,7 @@ export const compiledFiles = {
     module: "# Collaboration Tools - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Email [Online Communication]\r\n- Instant Messaging [Online Communication]\r\n- Video Conferencing [Online Communication]\r\n- Cloud Storage [Online Communication]\r\n- Version Control [File Systems]\r\n- Office Suite [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/collaboration-tools/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.103Z",
+  compiledAt: "2025-11-07T21:05:57.204Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13045,7 +13045,7 @@ export const compiledFiles = {
     module: "# Collaboration Tools\r\n\r\nSoftware that enables multiple people to work together remotely\r\n\r\n",
     metadata: {
   sourceFile: "definitions/collaboration-tools.md",
-  compiledAt: "2025-10-23T22:23:10.105Z",
+  compiledAt: "2025-11-07T21:05:57.204Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13056,7 +13056,7 @@ export const compiledFiles = {
     module: "# Compression - Related Concepts\r\n\r\n- ZIP File [File Systems]\r\n- Archive/Compression Tool [Common Software and Applications]\r\n- File Format [File Systems]\r\n- File [File Systems]\r\n- Storage [Computer Systems and Architecture]\r\n- Bandwidth [Internet Infrastructure]\r\n- Upload [File Systems]\r\n- Download [File Systems]\r\n- Streaming [Digital Communication and Platforms]\r\n- Algorithm [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/compression/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.106Z",
+  compiledAt: "2025-11-07T21:05:57.205Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13067,7 +13067,7 @@ export const compiledFiles = {
     module: "# Compression\r\n\r\nReducing file size for storage or transmission\r\n\r\n",
     metadata: {
   sourceFile: "definitions/compression.md",
-  compiledAt: "2025-10-23T22:23:10.108Z",
+  compiledAt: "2025-11-07T21:05:57.205Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13078,7 +13078,7 @@ export const compiledFiles = {
     module: "# Computational Thinking - Related Concepts\r\n\r\n- Decomposition [Computational Thinking]\r\n- Pattern Recognition [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Logical Reasoning [Computational Thinking]\r\n- Iteration [Computational Thinking]\r\n- Algorithm [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/computational-thinking/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.112Z",
+  compiledAt: "2025-11-07T21:05:57.205Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13089,7 +13089,7 @@ export const compiledFiles = {
     module: "# Computational Thinking\r\n\r\nProblem-solving process using computer science concepts\r\n\r\n",
     metadata: {
   sourceFile: "definitions/computational-thinking.md",
-  compiledAt: "2025-10-23T22:23:10.114Z",
+  compiledAt: "2025-11-07T21:05:57.205Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13100,7 +13100,7 @@ export const compiledFiles = {
     module: "# Computer - Related Concepts\r\n\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- IPOS Model [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- ROM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/computer/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.115Z",
+  compiledAt: "2025-11-07T21:05:57.205Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13111,7 +13111,7 @@ export const compiledFiles = {
     module: "# Computer\r\n\r\nA programmable electronic device that processes data using stored instructions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/computer.md",
-  compiledAt: "2025-10-23T22:23:10.128Z",
+  compiledAt: "2025-11-07T21:05:57.206Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13122,7 +13122,7 @@ export const compiledFiles = {
     module: "# Conditional - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Logical Reasoning [Computational Thinking]\r\n",
     metadata: {
   sourceFile: "definitions/conditional/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.130Z",
+  compiledAt: "2025-11-07T21:05:57.206Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13133,7 +13133,7 @@ export const compiledFiles = {
     module: "# Conditional\r\n\r\nCode that executes different actions based on conditions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/conditional.md",
-  compiledAt: "2025-10-23T22:23:10.131Z",
+  compiledAt: "2025-11-07T21:05:57.206Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13144,7 +13144,7 @@ export const compiledFiles = {
     module: "# Content Creator - Related Concepts\r\n\r\n- Platform [Digital Communication and Platforms]\r\n- Social Media [Online Communication]\r\n- Influencer [Digital Communication and Platforms]\r\n- Hashtag [Digital Communication and Platforms]\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Streaming [Digital Communication and Platforms]\r\n- Blog [Digital Communication and Platforms]\r\n- Podcast [Digital Communication and Platforms]\r\n- Viral [Digital Communication and Platforms]\r\n- Analytics [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/content-creator/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.135Z",
+  compiledAt: "2025-11-07T21:05:57.206Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13155,7 +13155,7 @@ export const compiledFiles = {
     module: "# Content Creator\r\n\r\nPerson who produces digital content for online platforms\r\n\r\n",
     metadata: {
   sourceFile: "definitions/content-creator.md",
-  compiledAt: "2025-10-23T22:23:10.137Z",
+  compiledAt: "2025-11-07T21:05:57.207Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13166,7 +13166,7 @@ export const compiledFiles = {
     module: "# Copyright - Related Concepts\r\n\r\n- Fair Use [Intellectual Property]\r\n- Creative Commons [Intellectual Property]\r\n- Plagiarism [Intellectual Property]\r\n- Open Source [Intellectual Property]\r\n- Proprietary Software [Intellectual Property]\r\n- Software License [Operating Systems and Software]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Streaming [Digital Communication and Platforms]\r\n- Social Media [Online Communication]\r\n- Upload [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/copyright/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.139Z",
+  compiledAt: "2025-11-07T21:05:57.207Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13177,7 +13177,7 @@ export const compiledFiles = {
     module: "# Copyright\r\n\r\nLegal protection for original creative works\r\n\r\n",
     metadata: {
   sourceFile: "definitions/copyright.md",
-  compiledAt: "2025-10-23T22:23:10.140Z",
+  compiledAt: "2025-11-07T21:05:57.207Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13188,7 +13188,7 @@ export const compiledFiles = {
     module: "# Cpu - Related Concepts\r\n\r\n- Computer [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- ROM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- IPOS Model [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/cpu/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.229Z",
+  compiledAt: "2025-11-07T21:05:57.207Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13199,7 +13199,7 @@ export const compiledFiles = {
     module: "# CPU\r\n\r\nThe \"brain\" of the computer that executes instructions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/cpu.md",
-  compiledAt: "2025-10-23T22:23:10.263Z",
+  compiledAt: "2025-11-07T21:05:57.207Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13210,7 +13210,7 @@ export const compiledFiles = {
     module: "# Crash - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Bug [Programming Concepts]\r\n- Error Message [Problem-Solving Concepts]\r\n- Debugging [Programming Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Restart/Reboot [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/crash/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.265Z",
+  compiledAt: "2025-11-07T21:05:57.208Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13221,7 +13221,7 @@ export const compiledFiles = {
     module: "# Crash\r\n\r\nSudden failure of software or system\r\n\r\n",
     metadata: {
   sourceFile: "definitions/crash.md",
-  compiledAt: "2025-10-23T22:23:10.266Z",
+  compiledAt: "2025-11-07T21:05:57.208Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13232,7 +13232,7 @@ export const compiledFiles = {
     module: "# Creative Commons - Related Concepts\r\n\r\n- Copyright [Intellectual Property]\r\n- Fair Use [Intellectual Property]\r\n- Software License [Operating Systems and Software]\r\n- Open Source [Intellectual Property]\r\n- Plagiarism [Intellectual Property]\r\n- Internet [Internet Infrastructure]\r\n- Platform [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Social Media [Online Communication]\r\n- Metadata [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/creative-commons/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.267Z",
+  compiledAt: "2025-11-07T21:05:57.208Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13243,7 +13243,7 @@ export const compiledFiles = {
     module: "# Creative Commons\r\n\r\nLicensing system for sharing creative works\r\n\r\n",
     metadata: {
   sourceFile: "definitions/creative-commons.md",
-  compiledAt: "2025-10-23T22:23:10.268Z",
+  compiledAt: "2025-11-07T21:05:57.208Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13254,7 +13254,7 @@ export const compiledFiles = {
     module: "# Cryptocurrency - Related Concepts\r\n\r\n- Blockchain [Emerging Technologies]\r\n- Encryption [Authentication and Protection]\r\n- Digital Certificate [Authentication and Protection]\r\n- Internet [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- API [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Algorithm [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/cryptocurrency/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.271Z",
+  compiledAt: "2025-11-07T21:05:57.208Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13265,7 +13265,7 @@ export const compiledFiles = {
     module: "# Cryptocurrency\r\n\r\nDigital currency secured by cryptography\r\n\r\n",
     metadata: {
   sourceFile: "definitions/cryptocurrency.md",
-  compiledAt: "2025-10-23T22:23:10.286Z",
+  compiledAt: "2025-11-07T21:05:57.209Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13276,7 +13276,7 @@ export const compiledFiles = {
     module: "# Css - Related Concepts\r\n\r\n- HTML [Web Development]\r\n- JavaScript [Web Development]\r\n- Frontend [Web Development]\r\n- Responsive Design [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- User Interface [Digital Communication and Platforms]\r\n- Framework [Web Development]\r\n- Code [Programming Concepts]\r\n- File Extension [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/css/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.289Z",
+  compiledAt: "2025-11-07T21:05:57.209Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13287,7 +13287,7 @@ export const compiledFiles = {
     module: "# CSS\r\n\r\nCode used to style and format web pages\r\n\r\n",
     metadata: {
   sourceFile: "definitions/css.md",
-  compiledAt: "2025-10-23T22:23:10.291Z",
+  compiledAt: "2025-11-07T21:05:57.209Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13298,7 +13298,7 @@ export const compiledFiles = {
     module: "# Cybersecurity - Related Concepts\r\n\r\n- Malware [Cybersecurity Fundamentals]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Encryption [Authentication and Protection]\r\n- VPN [Authentication and Protection]\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Data Breach [Threats and Attacks]\r\n",
     metadata: {
   sourceFile: "definitions/cybersecurity/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.291Z",
+  compiledAt: "2025-11-07T21:05:57.209Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13309,7 +13309,7 @@ export const compiledFiles = {
     module: "# Cybersecurity\r\n\r\nPractice of protecting digital systems and data from threats\r\n\r\n",
     metadata: {
   sourceFile: "definitions/cybersecurity.md",
-  compiledAt: "2025-10-23T22:23:10.294Z",
+  compiledAt: "2025-11-07T21:05:57.210Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13320,7 +13320,7 @@ export const compiledFiles = {
     module: "# Dashboard - Related Concepts\r\n\r\n- Data [Data and Information Processing]\r\n- Information [Data and Information Processing]\r\n- Analytics [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Chart/Graph [Data and Information Processing]\r\n- Filter [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- API [Web Development]\r\n- User Interface [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/dashboard/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.330Z",
+  compiledAt: "2025-11-07T21:05:57.210Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13331,7 +13331,7 @@ export const compiledFiles = {
     module: "# Dashboard\r\n\r\nInterface displaying key information and metrics at a glance\r\n\r\n",
     metadata: {
   sourceFile: "definitions/dashboard.md",
-  compiledAt: "2025-10-23T22:23:10.335Z",
+  compiledAt: "2025-11-07T21:05:57.210Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13342,7 +13342,7 @@ export const compiledFiles = {
     module: "# Data - Related Concepts\r\n\r\n- Information [Data and Information Processing]\r\n- Metadata [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Big Data [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Spreadsheet [Data and Information Processing]\r\n- Data Type [Programming Concepts]\r\n- Analytics [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/data/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.342Z",
+  compiledAt: "2025-11-07T21:05:57.210Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13353,7 +13353,7 @@ export const compiledFiles = {
     module: "# Data Breach - Related Concepts\r\n\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Intrusion [Threats and Attacks]\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Malware [Cybersecurity Fundamentals]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Encryption [Authentication and Protection]\r\n- Database [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/data-breach/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.348Z",
+  compiledAt: "2025-11-07T21:05:57.210Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13364,7 +13364,7 @@ export const compiledFiles = {
     module: "# Data Breach\r\n\r\nIncident where sensitive data is accessed without authorization\r\n\r\n",
     metadata: {
   sourceFile: "definitions/data-breach.md",
-  compiledAt: "2025-10-23T22:23:10.353Z",
+  compiledAt: "2025-11-07T21:05:57.211Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13375,7 +13375,7 @@ export const compiledFiles = {
     module: "# Data Type - Related Concepts\r\n\r\n- Variable [Programming Concepts]\r\n- Database [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Data [Data and Information Processing]\r\n- Spreadsheet [Data and Information Processing]\r\n- Programming [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/data-type/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.355Z",
+  compiledAt: "2025-11-07T21:05:57.211Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13386,7 +13386,7 @@ export const compiledFiles = {
     module: "# Data Type\r\n\r\nCategory of data (number, text, true/false)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/data-type.md",
-  compiledAt: "2025-10-23T22:23:10.371Z",
+  compiledAt: "2025-11-07T21:05:57.211Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13397,7 +13397,7 @@ export const compiledFiles = {
     module: "# Data Visualization - Related Concepts\r\n\r\n- Chart/Graph [Data and Information Processing]\r\n- Dashboard [Data and Information Processing]\r\n- Analytics [Data and Information Processing]\r\n- Data [Data and Information Processing]\r\n- Information [Data and Information Processing]\r\n- Spreadsheet [Data and Information Processing]\r\n- Table [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Filter [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/data-visualization/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.373Z",
+  compiledAt: "2025-11-07T21:05:57.211Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13408,7 +13408,7 @@ export const compiledFiles = {
     module: "# Data Visualization\r\n\r\nGraphic representation of information and data\r\n\r\n",
     metadata: {
   sourceFile: "definitions/data-visualization.md",
-  compiledAt: "2025-10-23T22:23:10.374Z",
+  compiledAt: "2025-11-07T21:05:57.211Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13419,7 +13419,7 @@ export const compiledFiles = {
     module: "# Data\r\n\r\nRaw facts and figures without context\r\n\r\n",
     metadata: {
   sourceFile: "definitions/data.md",
-  compiledAt: "2025-10-23T22:23:10.381Z",
+  compiledAt: "2025-11-07T21:05:57.212Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13430,7 +13430,7 @@ export const compiledFiles = {
     module: "# Database - Related Concepts\r\n\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n- NoSQL [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/database/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.383Z",
+  compiledAt: "2025-11-07T21:05:57.212Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13441,7 +13441,7 @@ export const compiledFiles = {
     module: "# Database\r\n\r\nOrganized collection of structured information\r\n\r\n",
     metadata: {
   sourceFile: "definitions/database.md",
-  compiledAt: "2025-10-23T22:23:10.401Z",
+  compiledAt: "2025-11-07T21:05:57.212Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13452,7 +13452,7 @@ export const compiledFiles = {
     module: "# Debugging - Related Concepts\r\n\r\n- Bug [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n- Error Message [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Crash [Problem-Solving Concepts]\r\n- Logical Reasoning [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Pattern Recognition [Computational Thinking]\r\n- Iteration [Computational Thinking]\r\n",
     metadata: {
   sourceFile: "definitions/debugging/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.408Z",
+  compiledAt: "2025-11-07T21:05:57.212Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13463,7 +13463,7 @@ export const compiledFiles = {
     module: "# Debugging\r\n\r\nProcess of finding and fixing errors in code\r\n\r\n",
     metadata: {
   sourceFile: "definitions/debugging.md",
-  compiledAt: "2025-10-23T22:23:10.415Z",
+  compiledAt: "2025-11-07T21:05:57.212Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13474,7 +13474,7 @@ export const compiledFiles = {
     module: "# Decomposition - Related Concepts\r\n\r\n- Pattern Recognition [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Logical Reasoning [Computational Thinking]\r\n- Iteration [Computational Thinking]\r\n- Algorithm [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n- System [Systems]\r\n- DSRP [Systems]\r\n",
     metadata: {
   sourceFile: "definitions/decomposition/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.416Z",
+  compiledAt: "2025-11-07T21:05:57.213Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13485,7 +13485,7 @@ export const compiledFiles = {
     module: "# Decomposition\r\n\r\nBreaking complex problems into smaller, manageable parts\r\n\r\n",
     metadata: {
   sourceFile: "definitions/decomposition.md",
-  compiledAt: "2025-10-23T22:23:10.417Z",
+  compiledAt: "2025-11-07T21:05:57.213Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13496,7 +13496,7 @@ export const compiledFiles = {
     module: "# Decryption - Related Concepts\r\n\r\n- Encryption [Authentication and Protection]\r\n- Digital Certificate [Authentication and Protection]\r\n- HTTPS [Internet Infrastructure]\r\n- VPN [Authentication and Protection]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Password [Authentication and Protection]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Algorithm [Programming Concepts]\r\n- Data [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/decryption/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.418Z",
+  compiledAt: "2025-11-07T21:05:57.213Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13507,7 +13507,7 @@ export const compiledFiles = {
     module: "# Decryption\r\n\r\nConverting encrypted data back to readable form\r\n\r\n",
     metadata: {
   sourceFile: "definitions/decryption.md",
-  compiledAt: "2025-10-23T22:23:10.419Z",
+  compiledAt: "2025-11-07T21:05:57.213Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13518,7 +13518,7 @@ export const compiledFiles = {
     module: "# Device Driver - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- Hardware [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Installation [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Embedded System [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/device-driver/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.420Z",
+  compiledAt: "2025-11-07T21:05:57.213Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13529,7 +13529,7 @@ export const compiledFiles = {
     module: "# Device Driver\r\n\r\nSoftware that allows the operating system to communicate with hardware\r\n\r\n",
     metadata: {
   sourceFile: "definitions/device-driver.md",
-  compiledAt: "2025-10-23T22:23:10.421Z",
+  compiledAt: "2025-11-07T21:05:57.213Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13540,7 +13540,7 @@ export const compiledFiles = {
     module: "# Digital Certificate - Related Concepts\r\n\r\n- Encryption [Authentication and Protection]\r\n- Decryption [Authentication and Protection]\r\n- HTTPS [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- Digital Identity [Online Communication]\r\n- VPN [Authentication and Protection]\r\n- Internet [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/digital-certificate/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.422Z",
+  compiledAt: "2025-11-07T21:05:57.214Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13551,7 +13551,7 @@ export const compiledFiles = {
     module: "# Digital Certificate\r\n\r\nElectronic document that verifies identity\r\n\r\n",
     metadata: {
   sourceFile: "definitions/digital-certificate.md",
-  compiledAt: "2025-10-23T22:23:10.423Z",
+  compiledAt: "2025-11-07T21:05:57.214Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13562,7 +13562,7 @@ export const compiledFiles = {
     module: "# Digital Identity - Related Concepts\r\n\r\n- Profile [Online Communication]\r\n- Social Media [Online Communication]\r\n- Social Network [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- Metadata [Data and Information Processing]\r\n- Web Cookie [Web Development]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Biometrics [Emerging Technologies]\r\n- Spoofing [Threats and Attacks]\r\n",
     metadata: {
   sourceFile: "definitions/digital-identity/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.424Z",
+  compiledAt: "2025-11-07T21:05:57.214Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13573,7 +13573,7 @@ export const compiledFiles = {
     module: "# Digital Identity\r\n\r\nHow you are represented and perceived online\r\n\r\n",
     metadata: {
   sourceFile: "definitions/digital-identity.md",
-  compiledAt: "2025-10-23T22:23:10.429Z",
+  compiledAt: "2025-11-07T21:05:57.214Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13584,7 +13584,7 @@ export const compiledFiles = {
     module: "# Dns - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- ISP [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/dns/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.430Z",
+  compiledAt: "2025-11-07T21:05:57.214Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13595,7 +13595,7 @@ export const compiledFiles = {
     module: "# DNS\r\n\r\nSystem that translates domain names to IP addresses\r\n\r\n",
     metadata: {
   sourceFile: "definitions/dns.md",
-  compiledAt: "2025-10-23T22:23:10.431Z",
+  compiledAt: "2025-11-07T21:05:57.215Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13606,7 +13606,7 @@ export const compiledFiles = {
     module: "# Documentation - Related Concepts\r\n\r\n- 'Tutorial [Problem-Solving Concepts]'\r\n- 'FAQ [Problem-Solving Concepts]'\r\n- 'Troubleshooting [Problem-Solving Concepts]'\r\n- 'Help Desk [Problem-Solving Concepts]'\r\n- 'Tech Support [Problem-Solving Concepts]'\r\n- 'Installation [Common Software and Applications]'\r\n- 'API [Web Development]'\r\n- 'HTML [Web Development]'\r\n- 'PDF [Common Software and Applications]'\r\n- 'Error Message [Problem-Solving Concepts]'\r\n",
     metadata: {
   sourceFile: "definitions/documentation/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.432Z",
+  compiledAt: "2025-11-07T21:05:57.215Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13617,7 +13617,7 @@ export const compiledFiles = {
     module: "# Documentation\r\n\r\nWritten materials that explain how to use software or systems\r\n\r\n",
     metadata: {
   sourceFile: "definitions/documentation.md",
-  compiledAt: "2025-10-23T22:23:10.432Z",
+  compiledAt: "2025-11-07T21:05:57.215Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13628,7 +13628,7 @@ export const compiledFiles = {
     module: "# Domain Name - Related Concepts\r\n\r\n- DNS [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Digital Certificate [Authentication and Protection]\r\n- ISP [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/domain-name/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.433Z",
+  compiledAt: "2025-11-07T21:05:57.215Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13639,7 +13639,7 @@ export const compiledFiles = {
     module: "# Domain Name\r\n\r\nHuman-readable address for a website\r\n\r\n",
     metadata: {
   sourceFile: "definitions/domain-name.md",
-  compiledAt: "2025-10-23T22:23:10.441Z",
+  compiledAt: "2025-11-07T21:05:57.215Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13650,7 +13650,7 @@ export const compiledFiles = {
     module: "# Download - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- File [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/download/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.448Z",
+  compiledAt: "2025-11-07T21:05:57.216Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13661,7 +13661,7 @@ export const compiledFiles = {
     module: "# Download\r\n\r\nTransferring a file from a remote server to your device\r\n\r\n",
     metadata: {
   sourceFile: "definitions/download.md",
-  compiledAt: "2025-10-23T22:23:10.464Z",
+  compiledAt: "2025-11-07T21:05:57.216Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13672,7 +13672,7 @@ export const compiledFiles = {
     module: "# Dsrp - Related Concepts\r\n\r\n- System [Systems]\r\n- DSRP [Systems]\r\n- Computational Thinking [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Pattern Recognition [Computational Thinking]\r\n- Logical Reasoning [Computational Thinking]\r\n- Relationship [Databases and Structured Data]\r\n- Social Network [Online Communication]\r\n- Data Visualization [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/dsrp/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.483Z",
+  compiledAt: "2025-11-07T21:05:57.216Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13683,7 +13683,7 @@ export const compiledFiles = {
     module: "# DSRP\r\n\r\nA framework for thinking about systems: Distinctions, Systems, Relations, and Perspectives\r\n\r\n",
     metadata: {
   sourceFile: "definitions/dsrp.md",
-  compiledAt: "2025-10-23T22:23:10.496Z",
+  compiledAt: "2025-11-07T21:05:57.216Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13694,7 +13694,7 @@ export const compiledFiles = {
     module: "# Email - Related Concepts\r\n\r\nTop ten most related concepts to Email (Electronic messaging system):\r\n- Internet [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Web Browser [Internet Infrastructure]\r\n- Application Software [Operating Systems and Software]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Encryption [Authentication and Protection]\r\n- Phishing [Threats and Attacks]\r\n- File [File Systems]\r\n- DNS [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/email/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.499Z",
+  compiledAt: "2025-11-07T21:05:57.216Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13705,7 +13705,7 @@ export const compiledFiles = {
     module: "# Email\r\n\r\nElectronic messaging system\r\n\r\n",
     metadata: {
   sourceFile: "definitions/email.md",
-  compiledAt: "2025-10-23T22:23:10.503Z",
+  compiledAt: "2025-11-07T21:05:57.217Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13716,7 +13716,7 @@ export const compiledFiles = {
     module: "# Embedded System - Related Concepts\r\n\r\n- Computer [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- ROM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/embedded-system/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.504Z",
+  compiledAt: "2025-11-07T21:05:57.217Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13727,7 +13727,7 @@ export const compiledFiles = {
     module: "# Embedded System\r\n\r\nA computer built into another device for specific purposes\r\n\r\n",
     metadata: {
   sourceFile: "definitions/embedded-system.md",
-  compiledAt: "2025-10-23T22:23:10.512Z",
+  compiledAt: "2025-11-07T21:05:57.217Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13738,7 +13738,7 @@ export const compiledFiles = {
     module: "# Encryption - Related Concepts\r\n\r\n- Decryption [Authentication and Protection]\r\n- Digital Certificate [Authentication and Protection]\r\n- HTTPS [Internet Infrastructure]\r\n- VPN [Authentication and Protection]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Data [Data and Information Processing]\r\n- WiFi [Internet Infrastructure]\r\n- Cloud Storage [Online Communication]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n- Database [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/encryption/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.513Z",
+  compiledAt: "2025-11-07T21:05:57.218Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13749,7 +13749,7 @@ export const compiledFiles = {
     module: "# Encryption\r\n\r\nConverting data into coded form to prevent unauthorized access\r\n\r\n",
     metadata: {
   sourceFile: "definitions/encryption.md",
-  compiledAt: "2025-10-23T22:23:10.515Z",
+  compiledAt: "2025-11-07T21:05:57.218Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13760,7 +13760,7 @@ export const compiledFiles = {
     module: "# Error Message - Related Concepts\r\n\r\n- Software [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Crash [Problem-Solving Concepts]\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Bug [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- User Interface [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/error-message/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.516Z",
+  compiledAt: "2025-11-07T21:05:57.218Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13771,7 +13771,7 @@ export const compiledFiles = {
     module: "# Error Message\r\n\r\nText that appears when software encounters a problem\r\n\r\n",
     metadata: {
   sourceFile: "definitions/error-message.md",
-  compiledAt: "2025-10-23T22:23:10.519Z",
+  compiledAt: "2025-11-07T21:05:57.218Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13782,7 +13782,7 @@ export const compiledFiles = {
     module: "# Fair Use - Related Concepts\r\n\r\n- Copyright [Intellectual Property]\r\n- Creative Commons [Intellectual Property]\r\n- Software License [Operating Systems and Software]\r\n- Open Source [Intellectual Property]\r\n- Proprietary Software [Intellectual Property]\r\n- Plagiarism [Intellectual Property]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Social Media [Online Communication]\r\n- Streaming [Digital Communication and Platforms]\r\n- Download [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/fair-use/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.523Z",
+  compiledAt: "2025-11-07T21:05:57.219Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13793,7 +13793,7 @@ export const compiledFiles = {
     module: "# Fair Use\r\n\r\nLimited use of copyrighted material without permission\r\n\r\n",
     metadata: {
   sourceFile: "definitions/fair-use.md",
-  compiledAt: "2025-10-23T22:23:10.534Z",
+  compiledAt: "2025-11-07T21:05:57.219Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13804,7 +13804,7 @@ export const compiledFiles = {
     module: "# Faq - Related Concepts\r\n\r\n- FAQ [Problem-Solving Concepts]\r\n- Documentation [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Tech Support [Problem-Solving Concepts]\r\n- Help Desk [Problem-Solving Concepts]\r\n- Tutorial [Problem-Solving Concepts]\r\n- Search Engine [Internet Infrastructure]\r\n- Chatbot [Emerging Technologies]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/faq/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.535Z",
+  compiledAt: "2025-11-07T21:05:57.219Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13815,7 +13815,7 @@ export const compiledFiles = {
     module: "# FAQ\r\n\r\nList of common questions and answers\r\n\r\n",
     metadata: {
   sourceFile: "definitions/faq.md",
-  compiledAt: "2025-10-23T22:23:10.536Z",
+  compiledAt: "2025-11-07T21:05:57.220Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13826,7 +13826,7 @@ export const compiledFiles = {
     module: "# Field - Related Concepts\r\n\r\n- Table [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Data Type [Programming Concepts]\r\n- Spreadsheet [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/field/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.541Z",
+  compiledAt: "2025-11-07T21:05:57.220Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13837,7 +13837,7 @@ export const compiledFiles = {
     module: "# Field\r\n\r\nIndividual data element (column in a table)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/field.md",
-  compiledAt: "2025-10-23T22:23:10.546Z",
+  compiledAt: "2025-11-07T21:05:57.220Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13848,7 +13848,7 @@ export const compiledFiles = {
     module: "# File - Related Concepts\r\n\r\n- Folder [File Systems]\r\n- File Extension [File Systems]\r\n- File Path [File Systems]\r\n- Absolute Path [File Systems]\r\n- Relative Path [File Systems]\r\n- File Management [File Systems]\r\n- File Format [File Systems]\r\n- Metadata [Data and Information Processing]\r\n- Storage [Computer Systems and Architecture]\r\n- Backup [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/file/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.548Z",
+  compiledAt: "2025-11-07T21:05:57.220Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13859,7 +13859,7 @@ export const compiledFiles = {
     module: "# File Extension - Related Concepts\r\n\r\n- File [File Systems]\r\n- File Format [File Systems]\r\n- File Path [File Systems]\r\n- File Management [File Systems]\r\n- Compression [File Systems]\r\n- ZIP File [File Systems]\r\n- Operating System [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Archive/Compression Tool [Common Software and Applications]\r\n- PDF [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/file-extension/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.550Z",
+  compiledAt: "2025-11-07T21:05:57.220Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13870,7 +13870,7 @@ export const compiledFiles = {
     module: "# File Extension\r\n\r\nSuffix that indicates file type (.txt, .pdf, .jpg)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/file-extension.md",
-  compiledAt: "2025-10-23T22:23:10.551Z",
+  compiledAt: "2025-11-07T21:05:57.221Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13881,7 +13881,7 @@ export const compiledFiles = {
     module: "# File Format - Related Concepts\r\n\r\n- File [File Systems]\r\n- File Extension [File Systems]\r\n- Compression [File Systems]\r\n- ZIP File [File Systems]\r\n- PDF [Common Software and Applications]\r\n- Data [Data and Information Processing]\r\n- Metadata [Data and Information Processing]\r\n- Word Processor [Common Software and Applications]\r\n- Image Editor [Common Software and Applications]\r\n- Archive/Compression Tool [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/file-format/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.552Z",
+  compiledAt: "2025-11-07T21:05:57.221Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13892,7 +13892,7 @@ export const compiledFiles = {
     module: "# File Format\r\n\r\nStandard way that information is encoded for storage\r\n\r\n",
     metadata: {
   sourceFile: "definitions/file-format.md",
-  compiledAt: "2025-10-23T22:23:10.554Z",
+  compiledAt: "2025-11-07T21:05:57.221Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13903,7 +13903,7 @@ export const compiledFiles = {
     module: "# File Management - Related Concepts\r\n\r\n- File [File Systems]\r\n- Folder [File Systems]\r\n- File Path [File Systems]\r\n- File Extension [File Systems]\r\n- File Format [File Systems]\r\n- Storage [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Backup [File Systems]\r\n- Cloud Storage [Online Communication]\r\n- Metadata [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/file-management/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.555Z",
+  compiledAt: "2025-11-07T21:05:57.221Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13914,7 +13914,7 @@ export const compiledFiles = {
     module: "# File Management\r\n\r\nOrganizing, storing, and retrieving digital files\r\n\r\n",
     metadata: {
   sourceFile: "definitions/file-management.md",
-  compiledAt: "2025-10-23T22:23:10.557Z",
+  compiledAt: "2025-11-07T21:05:57.222Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13925,7 +13925,7 @@ export const compiledFiles = {
     module: "# File Path - Related Concepts\r\n\r\n- Folder [File Systems]\r\n- File [File Systems]\r\n- Absolute Path [File Systems]\r\n- Relative Path [File Systems]\r\n- File Management [File Systems]\r\n- Operating System [Operating Systems and Software]\r\n- Storage [Computer Systems and Architecture]\r\n- File Extension [File Systems]\r\n- Metadata [Data and Information Processing]\r\n- Sync [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/file-path/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.565Z",
+  compiledAt: "2025-11-07T21:05:57.222Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13936,7 +13936,7 @@ export const compiledFiles = {
     module: "# File Path\r\n\r\nLocation of a file in the folder hierarchy\r\n\r\n",
     metadata: {
   sourceFile: "definitions/file-path.md",
-  compiledAt: "2025-10-23T22:23:10.566Z",
+  compiledAt: "2025-11-07T21:05:57.222Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13947,7 +13947,7 @@ export const compiledFiles = {
     module: "# File\r\n\r\nNamed collection of data stored on a computer\r\n\r\n",
     metadata: {
   sourceFile: "definitions/file.md",
-  compiledAt: "2025-10-23T22:23:10.567Z",
+  compiledAt: "2025-11-07T21:05:57.222Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13958,7 +13958,7 @@ export const compiledFiles = {
     module: "# Filter - Related Concepts\r\n\r\n- Spreadsheet [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Sort [Data and Information Processing]\r\n- Data [Data and Information Processing]\r\n- Formula [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/filter/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.569Z",
+  compiledAt: "2025-11-07T21:05:57.222Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13969,7 +13969,7 @@ export const compiledFiles = {
     module: "# Filter\r\n\r\nTool for displaying only data that meets specific criteria\r\n\r\n",
     metadata: {
   sourceFile: "definitions/filter.md",
-  compiledAt: "2025-10-23T22:23:10.571Z",
+  compiledAt: "2025-11-07T21:05:57.223Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13980,7 +13980,7 @@ export const compiledFiles = {
     module: "# Firewall - Related Concepts\r\n\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Malware [Cybersecurity Fundamentals]\r\n- Intrusion [Threats and Attacks]\r\n- Data Breach [Threats and Attacks]\r\n- VPN [Authentication and Protection]\r\n- Router [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/firewall/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.573Z",
+  compiledAt: "2025-11-07T21:05:57.223Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -13991,7 +13991,7 @@ export const compiledFiles = {
     module: "# Firewall\r\n\r\nSecurity system that monitors and controls network traffic\r\n\r\n",
     metadata: {
   sourceFile: "definitions/firewall.md",
-  compiledAt: "2025-10-23T22:23:10.580Z",
+  compiledAt: "2025-11-07T21:05:57.223Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14002,7 +14002,7 @@ export const compiledFiles = {
     module: "# Folder - Related Concepts\r\n\r\n- File [File Systems]\r\n- File Path [File Systems]\r\n- Absolute Path [File Systems]\r\n- Relative Path [File Systems]\r\n- File Management [File Systems]\r\n- Backup [File Systems]\r\n- Sync [File Systems]\r\n- ZIP File [File Systems]\r\n- Operating System [Operating Systems and Software]\r\n- Storage [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/folder/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.582Z",
+  compiledAt: "2025-11-07T21:05:57.223Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14013,7 +14013,7 @@ export const compiledFiles = {
     module: "# Folder\r\n\r\nContainer for organizing files\r\n\r\n",
     metadata: {
   sourceFile: "definitions/folder.md",
-  compiledAt: "2025-10-23T22:23:10.583Z",
+  compiledAt: "2025-11-07T21:05:57.223Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14024,7 +14024,7 @@ export const compiledFiles = {
     module: "# Formula - Related Concepts\r\n\r\n- Spreadsheet [Data and Information Processing]\r\n- Function [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n- Data [Data and Information Processing]\r\n- Algorithm [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Analytics [Data and Information Processing]\r\n- Chart/Graph [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Programming [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/formula/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.587Z",
+  compiledAt: "2025-11-07T21:05:57.224Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14035,7 +14035,7 @@ export const compiledFiles = {
     module: "# Formula\r\n\r\nMathematical expression used to calculate values\r\n\r\n",
     metadata: {
   sourceFile: "definitions/formula.md",
-  compiledAt: "2025-10-23T22:23:10.588Z",
+  compiledAt: "2025-11-07T21:05:57.224Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14046,7 +14046,7 @@ export const compiledFiles = {
     module: "# Framework - Related Concepts\r\n\r\n- Framework [Web Development]\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- API [Web Development]\r\n- Frontend [Web Development]\r\n- Backend [Web Development]\r\n- Plugin [Web Development]\r\n- Software [Computer Systems and Architecture]\r\n- Application Software [Operating Systems and Software]\r\n- Open Source [Intellectual Property]\r\n",
     metadata: {
   sourceFile: "definitions/framework/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.589Z",
+  compiledAt: "2025-11-07T21:05:57.224Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14057,7 +14057,7 @@ export const compiledFiles = {
     module: "# Framework\r\n\r\nPre-built code structure that simplifies development\r\n\r\n",
     metadata: {
   sourceFile: "definitions/framework.md",
-  compiledAt: "2025-10-23T22:23:10.590Z",
+  compiledAt: "2025-11-07T21:05:57.224Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14068,7 +14068,7 @@ export const compiledFiles = {
     module: "# Freezehang - Related Concepts\r\n\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Operating System [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Multithreading [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Crash [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Restart/Reboot [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/freezehang/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.591Z",
+  compiledAt: "2025-11-07T21:05:57.224Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14079,7 +14079,7 @@ export const compiledFiles = {
     module: "# Freeze/Hang\r\n\r\nWhen software stops responding to user input\r\n\r\n",
     metadata: {
   sourceFile: "definitions/freezehang.md",
-  compiledAt: "2025-10-23T22:23:10.594Z",
+  compiledAt: "2025-11-07T21:05:57.224Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14090,7 +14090,7 @@ export const compiledFiles = {
     module: "# Frontend - Related Concepts\r\n\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- JavaScript [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Backend [Web Development]\r\n- API [Web Development]\r\n- Responsive Design [Web Development]\r\n- User Interface [Digital Communication and Platforms]\r\n- User Experience [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/frontend/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.596Z",
+  compiledAt: "2025-11-07T21:05:57.225Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14101,7 +14101,7 @@ export const compiledFiles = {
     module: "# Frontend\r\n\r\nUser-facing part of a web application\r\n\r\n",
     metadata: {
   sourceFile: "definitions/frontend.md",
-  compiledAt: "2025-10-23T22:23:10.597Z",
+  compiledAt: "2025-11-07T21:05:57.225Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14112,7 +14112,7 @@ export const compiledFiles = {
     module: "# Function - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Bug [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/function/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.599Z",
+  compiledAt: "2025-11-07T21:05:57.225Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14123,7 +14123,7 @@ export const compiledFiles = {
     module: "# Function\r\n\r\nReusable block of code that performs a specific task\r\n\r\n",
     metadata: {
   sourceFile: "definitions/function.md",
-  compiledAt: "2025-10-23T22:23:10.600Z",
+  compiledAt: "2025-11-07T21:05:57.225Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14134,7 +14134,7 @@ export const compiledFiles = {
     module: "# Hardware - Related Concepts\r\n\r\n- Computer [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- ROM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Embedded System [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n- IPOS Model [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/hardware/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.601Z",
+  compiledAt: "2025-11-07T21:05:57.225Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14145,7 +14145,7 @@ export const compiledFiles = {
     module: "# Hardware\r\n\r\nThe physical components of a computer system\r\n\r\n",
     metadata: {
   sourceFile: "definitions/hardware.md",
-  compiledAt: "2025-10-23T22:23:10.602Z",
+  compiledAt: "2025-11-07T21:05:57.226Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14156,7 +14156,7 @@ export const compiledFiles = {
     module: "# Hashtag - Related Concepts\r\n\r\n- Social Media [Online Communication]\r\n- Social Network [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Metadata [Data and Information Processing]\r\n- Search Engine [Internet Infrastructure]\r\n- Filter [Data and Information Processing]\r\n- Viral [Digital Communication and Platforms]\r\n- Influencer [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/hashtag/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.603Z",
+  compiledAt: "2025-11-07T21:05:57.226Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14167,7 +14167,7 @@ export const compiledFiles = {
     module: "# Hashtag\r\n\r\nMetadata tag used to categorize content on social media\r\n\r\n",
     metadata: {
   sourceFile: "definitions/hashtag.md",
-  compiledAt: "2025-10-23T22:23:10.604Z",
+  compiledAt: "2025-11-07T21:05:57.226Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14178,7 +14178,7 @@ export const compiledFiles = {
     module: "# Help Desk - Related Concepts\r\n\r\n- Tech Support [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Error Message [Problem-Solving Concepts]\r\n- Remote Access [Problem-Solving Concepts]\r\n- Documentation [Problem-Solving Concepts]\r\n- FAQ [Problem-Solving Concepts]\r\n- Software Update [Common Software and Applications]\r\n- Installation [Common Software and Applications]\r\n- Password [Authentication and Protection]\r\n- Restart/Reboot [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/help-desk/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.605Z",
+  compiledAt: "2025-11-07T21:05:57.226Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14189,7 +14189,7 @@ export const compiledFiles = {
     module: "# Help Desk\r\n\r\nSupport service that assists users with technical issues\r\n\r\n",
     metadata: {
   sourceFile: "definitions/help-desk.md",
-  compiledAt: "2025-10-23T22:23:10.606Z",
+  compiledAt: "2025-11-07T21:05:57.226Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14200,7 +14200,7 @@ export const compiledFiles = {
     module: "# Html - Related Concepts\r\n\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- JavaScript [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Hyperlink [Web Development]\r\n- Frontend [Web Development]\r\n- Responsive Design [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/html/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.607Z",
+  compiledAt: "2025-11-07T21:05:57.226Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14211,7 +14211,7 @@ export const compiledFiles = {
     module: "# HTML\r\n\r\nCode used to structure web content\r\n\r\n",
     metadata: {
   sourceFile: "definitions/html.md",
-  compiledAt: "2025-10-23T22:23:10.608Z",
+  compiledAt: "2025-11-07T21:05:57.227Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14222,7 +14222,7 @@ export const compiledFiles = {
     module: "# Http - Related Concepts\r\n\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- HTML [Web Development]\r\n- Web Cookie [Web Development]\r\n- Caching [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/http/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.611Z",
+  compiledAt: "2025-11-07T21:05:57.227Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14233,7 +14233,7 @@ export const compiledFiles = {
     module: "# HTTP\r\n\r\nStandard for transferring web content\r\n\r\n",
     metadata: {
   sourceFile: "definitions/http.md",
-  compiledAt: "2025-10-23T22:23:10.621Z",
+  compiledAt: "2025-11-07T21:05:57.227Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14244,7 +14244,7 @@ export const compiledFiles = {
     module: "# Https - Related Concepts\r\n\r\n- HTTP [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Encryption [Authentication and Protection]\r\n- Digital Certificate [Authentication and Protection]\r\n",
     metadata: {
   sourceFile: "definitions/https/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.624Z",
+  compiledAt: "2025-11-07T21:05:57.227Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14255,7 +14255,7 @@ export const compiledFiles = {
     module: "# HTTPS\r\n\r\nSecure version of HTTP with encryption\r\n\r\n",
     metadata: {
   sourceFile: "definitions/https.md",
-  compiledAt: "2025-10-23T22:23:10.647Z",
+  compiledAt: "2025-11-07T21:05:57.227Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14266,7 +14266,7 @@ export const compiledFiles = {
     module: "# Hyperlink - Related Concepts\r\n\r\n- URL [Internet Infrastructure]\r\n- HTML [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- Relative Path [File Systems]\r\n- Absolute Path [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/hyperlink/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.648Z",
+  compiledAt: "2025-11-07T21:05:57.228Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14277,7 +14277,7 @@ export const compiledFiles = {
     module: "# Hyperlink\r\n\r\nClickable connection between web pages or resources\r\n\r\n",
     metadata: {
   sourceFile: "definitions/hyperlink.md",
-  compiledAt: "2025-10-23T22:23:10.650Z",
+  compiledAt: "2025-11-07T21:05:57.228Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14288,7 +14288,7 @@ export const compiledFiles = {
     module: "# Image Editor - Related Concepts\r\n\r\nTop ten most related concepts to Image Editor:\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Local Application [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- User Interface [Digital Communication and Platforms]\r\n- Plugin [Web Development]\r\n- File Format [File Systems]\r\n- File Extension [File Systems]\r\n- Metadata [Data and Information Processing]\r\n- Compression [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/image-editor/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.652Z",
+  compiledAt: "2025-11-07T21:05:57.228Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14299,7 +14299,7 @@ export const compiledFiles = {
     module: "# Image Editor\r\n\r\nSoftware for modifying and enhancing digital images\r\n\r\n",
     metadata: {
   sourceFile: "definitions/image-editor.md",
-  compiledAt: "2025-10-23T22:23:10.653Z",
+  compiledAt: "2025-11-07T21:05:57.228Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14310,7 +14310,7 @@ export const compiledFiles = {
     module: "# Index - Related Concepts\r\n\r\n- Database [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n- NoSQL [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/index/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.653Z",
+  compiledAt: "2025-11-07T21:05:57.228Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14321,7 +14321,7 @@ export const compiledFiles = {
     module: "# Index\r\n\r\nDatabase feature that speeds up data retrieval\r\n\r\n",
     metadata: {
   sourceFile: "definitions/index.md",
-  compiledAt: "2025-10-23T22:23:10.654Z",
+  compiledAt: "2025-11-07T21:05:57.229Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14332,7 +14332,7 @@ export const compiledFiles = {
     module: "# Influencer - Related Concepts\r\n\r\n- Social Media [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Social Network [Online Communication]\r\n- Hashtag [Digital Communication and Platforms]\r\n- Viral [Digital Communication and Platforms]\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Profile [Online Communication]\r\n- Digital Identity [Online Communication]\r\n- Streaming [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/influencer/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.655Z",
+  compiledAt: "2025-11-07T21:05:57.229Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14343,7 +14343,7 @@ export const compiledFiles = {
     module: "# Influencer\r\n\r\nPerson with significant online following who can affect opinions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/influencer.md",
-  compiledAt: "2025-10-23T22:23:10.662Z",
+  compiledAt: "2025-11-07T21:05:57.229Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14354,7 +14354,7 @@ export const compiledFiles = {
     module: "# Information - Related Concepts\r\n\r\n- Data [Data and Information Processing]\r\n- Metadata [Data and Information Processing]\r\n- Analytics [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Dashboard [Data and Information Processing]\r\n- Spreadsheet [Data and Information Processing]\r\n- Chart/Graph [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/information/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.663Z",
+  compiledAt: "2025-11-07T21:05:57.229Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14365,7 +14365,7 @@ export const compiledFiles = {
     module: "# Information\r\n\r\nProcessed data that has meaning and context\r\n\r\n",
     metadata: {
   sourceFile: "definitions/information.md",
-  compiledAt: "2025-10-23T22:23:10.664Z",
+  compiledAt: "2025-11-07T21:05:57.229Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14376,7 +14376,7 @@ export const compiledFiles = {
     module: "# Input Device - Related Concepts\r\n\r\n- Hardware [Computer Systems and Architecture]\r\n- Computer [Computer Systems and Architecture]\r\n- IPOS Model [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- User Interface [Digital Communication and Platforms]\r\n- Data [Data and Information Processing]\r\n- CPU [Computer Systems and Architecture]\r\n- Biometrics [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/input-device/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.665Z",
+  compiledAt: "2025-11-07T21:05:57.230Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14387,7 +14387,7 @@ export const compiledFiles = {
     module: "# Input Device\r\n\r\nHardware that allows users to enter data (keyboard, mouse, touchscreen)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/input-device.md",
-  compiledAt: "2025-10-23T22:23:10.667Z",
+  compiledAt: "2025-11-07T21:05:57.230Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14398,7 +14398,7 @@ export const compiledFiles = {
     module: "# Installation - Related Concepts\r\n\r\nTop 10 most related concepts to Installation (Process of setting up software on a computer):\r\n- Software [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Software License [Operating Systems and Software]\r\n- App Store [Common Software and Applications]\r\n- Download [File Systems]\r\n- Software Update [Common Software and Applications]\r\n- Uninstall [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/installation/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.669Z",
+  compiledAt: "2025-11-07T21:05:57.230Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14409,7 +14409,7 @@ export const compiledFiles = {
     module: "# Installation\r\n\r\nProcess of setting up software on a computer\r\n\r\n",
     metadata: {
   sourceFile: "definitions/installation.md",
-  compiledAt: "2025-10-23T22:23:10.670Z",
+  compiledAt: "2025-11-07T21:05:57.230Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14420,7 +14420,7 @@ export const compiledFiles = {
     module: "# Instant Messaging - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Platform [Digital Communication and Platforms]\r\n- User Interface [Digital Communication and Platforms]\r\n- Notification [Digital Communication and Platforms]\r\n- Encryption [Authentication and Protection]\r\n- API [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- Cloud Computing [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/instant-messaging/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.673Z",
+  compiledAt: "2025-11-07T21:05:57.231Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14431,7 +14431,7 @@ export const compiledFiles = {
     module: "# Instant Messaging\r\n\r\nReal-time text communication between users\r\n\r\n",
     metadata: {
   sourceFile: "definitions/instant-messaging.md",
-  compiledAt: "2025-10-23T22:23:10.675Z",
+  compiledAt: "2025-11-07T21:05:57.231Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14442,7 +14442,7 @@ export const compiledFiles = {
     module: "# Internet - Related Concepts\r\n\r\n- IP Address [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n- ISP [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/internet/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.694Z",
+  compiledAt: "2025-11-07T21:05:57.231Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14453,7 +14453,7 @@ export const compiledFiles = {
     module: "# Internet Of Things - Related Concepts\r\n\r\n- Embedded System [Computer Systems and Architecture]\r\n- Smart Device [Emerging Technologies]\r\n- Internet [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Cloud Computing [Operating Systems and Software]\r\n- 5G [Emerging Technologies]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Automation [Emerging Technologies]\r\n- Wearable Technology [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/internet-of-things/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.703Z",
+  compiledAt: "2025-11-07T21:05:57.231Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14464,7 +14464,7 @@ export const compiledFiles = {
     module: "# Internet of Things\r\n\r\nNetwork of connected everyday objects\r\n\r\n",
     metadata: {
   sourceFile: "definitions/internet-of-things.md",
-  compiledAt: "2025-10-23T22:23:10.704Z",
+  compiledAt: "2025-11-07T21:05:57.231Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14475,7 +14475,7 @@ export const compiledFiles = {
     module: "# Internet\r\n\r\nGlobal network of interconnected computers\r\n\r\n",
     metadata: {
   sourceFile: "definitions/internet.md",
-  compiledAt: "2025-10-23T22:23:10.705Z",
+  compiledAt: "2025-11-07T21:05:57.232Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14486,7 +14486,7 @@ export const compiledFiles = {
     module: "# Intrusion - Related Concepts\r\n\r\n- 'Cybersecurity [Cybersecurity Fundamentals]'\r\n- 'Firewall [Cybersecurity Fundamentals]'\r\n- 'Malware [Cybersecurity Fundamentals]'\r\n- 'Phishing [Threats and Attacks]'\r\n- 'Social Engineering [Threats and Attacks]'\r\n- 'Spoofing [Threats and Attacks]'\r\n- 'Zero-Day Exploit [Threats and Attacks]'\r\n- 'Data Breach [Threats and Attacks]'\r\n- 'Password [Authentication and Protection]'\r\n- 'Two-Factor Authentication [Authentication and Protection]'\r\n",
     metadata: {
   sourceFile: "definitions/intrusion/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.706Z",
+  compiledAt: "2025-11-07T21:05:57.232Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14497,7 +14497,7 @@ export const compiledFiles = {
     module: "# Intrusion\r\n\r\nUnauthorized access to a computer system\r\n\r\n",
     metadata: {
   sourceFile: "definitions/intrusion.md",
-  compiledAt: "2025-10-23T22:23:10.710Z",
+  compiledAt: "2025-11-07T21:05:57.232Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14508,7 +14508,7 @@ export const compiledFiles = {
     module: "# Ip Address - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- ISP [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/ip-address/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.711Z",
+  compiledAt: "2025-11-07T21:05:57.232Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14519,7 +14519,7 @@ export const compiledFiles = {
     module: "# IP Address\r\n\r\nNumerical address that identifies devices on a network\r\n\r\n",
     metadata: {
   sourceFile: "definitions/ip-address.md",
-  compiledAt: "2025-10-23T22:23:10.713Z",
+  compiledAt: "2025-11-07T21:05:57.232Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14530,7 +14530,7 @@ export const compiledFiles = {
     module: "# Ipos Model - Related Concepts\r\n\r\n- Computer [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Data [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/ipos-model/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.714Z",
+  compiledAt: "2025-11-07T21:05:57.232Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14541,7 +14541,7 @@ export const compiledFiles = {
     module: "# IPOS Model\r\n\r\nInput, Processing, Output, Storage - the four fundamental computer operations\r\n\r\n",
     metadata: {
   sourceFile: "definitions/ipos-model.md",
-  compiledAt: "2025-10-23T22:23:10.716Z",
+  compiledAt: "2025-11-07T21:05:57.233Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14552,7 +14552,7 @@ export const compiledFiles = {
     module: "# Isp - Related Concepts\r\n\r\nTop ten most related concepts to ISP (Internet Service Provider):\r\n\r\n- Internet [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- VPN [Authentication and Protection]\r\n- 5G [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/isp/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.720Z",
+  compiledAt: "2025-11-07T21:05:57.233Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14563,7 +14563,7 @@ export const compiledFiles = {
     module: "# ISP\r\n\r\nCompany that provides internet access\r\n\r\n",
     metadata: {
   sourceFile: "definitions/isp.md",
-  compiledAt: "2025-10-23T22:23:10.721Z",
+  compiledAt: "2025-11-07T21:05:57.233Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14574,7 +14574,7 @@ export const compiledFiles = {
     module: "# Iteration - Related Concepts\r\n\r\n- Loop [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Computational Thinking [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Version Control [File Systems]\r\n- Machine Learning [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/iteration/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.722Z",
+  compiledAt: "2025-11-07T21:05:57.233Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14585,7 +14585,7 @@ export const compiledFiles = {
     module: "# Iteration\r\n\r\nRepeating a process to improve or refine results\r\n\r\n",
     metadata: {
   sourceFile: "definitions/iteration.md",
-  compiledAt: "2025-10-23T22:23:10.723Z",
+  compiledAt: "2025-11-07T21:05:57.233Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14596,7 +14596,7 @@ export const compiledFiles = {
     module: "# Javascript - Related Concepts\r\n\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Frontend [Web Development]\r\n- Backend [Web Development]\r\n- API [Web Development]\r\n- Framework [Web Development]\r\n- HTTP [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/javascript/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.727Z",
+  compiledAt: "2025-11-07T21:05:57.234Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14607,7 +14607,7 @@ export const compiledFiles = {
     module: "# JavaScript\r\n\r\nProgramming language that adds interactivity to web pages\r\n\r\n",
     metadata: {
   sourceFile: "definitions/javascript.md",
-  compiledAt: "2025-10-23T22:23:10.729Z",
+  compiledAt: "2025-11-07T21:05:57.234Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14618,7 +14618,7 @@ export const compiledFiles = {
     module: "# Local Application - Related Concepts\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- Installation [Common Software and Applications]\r\n- Uninstall [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Software License [Operating Systems and Software]\r\n- App Store [Common Software and Applications]\r\n- Download [File Systems]\r\n- File [File Systems]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/local-application/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.730Z",
+  compiledAt: "2025-11-07T21:05:57.234Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14629,7 +14629,7 @@ export const compiledFiles = {
     module: "# Local Application\r\n\r\nSoftware installed and run on your device\r\n\r\n",
     metadata: {
   sourceFile: "definitions/local-application.md",
-  compiledAt: "2025-10-23T22:23:10.731Z",
+  compiledAt: "2025-11-07T21:05:57.234Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14640,7 +14640,7 @@ export const compiledFiles = {
     module: "# Logical Reasoning - Related Concepts\r\n\r\n- Computational Thinking [Computational Thinking]\r\n- Algorithm [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Pattern Recognition [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Iteration [Computational Thinking]\r\n- Programming [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/logical-reasoning/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.733Z",
+  compiledAt: "2025-11-07T21:05:57.235Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14651,7 +14651,7 @@ export const compiledFiles = {
     module: "# Logical Reasoning\r\n\r\nUsing rules and principles to reach valid conclusions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/logical-reasoning.md",
-  compiledAt: "2025-10-23T22:23:10.735Z",
+  compiledAt: "2025-11-07T21:05:57.235Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14662,7 +14662,7 @@ export const compiledFiles = {
     module: "# Loop - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Iteration [Computational Thinking]\r\n- Debugging [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/loop/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.736Z",
+  compiledAt: "2025-11-07T21:05:57.235Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14673,7 +14673,7 @@ export const compiledFiles = {
     module: "# Loop\r\n\r\nCode structure that repeats instructions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/loop.md",
-  compiledAt: "2025-10-23T22:23:10.737Z",
+  compiledAt: "2025-11-07T21:05:57.235Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14684,7 +14684,7 @@ export const compiledFiles = {
     module: "# Machine Learning - Related Concepts\r\n\r\n- Artificial Intelligence [Emerging Technologies]\r\n- Data [Data and Information Processing]\r\n- Algorithm [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n- Analytics [Data and Information Processing]\r\n- Big Data [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Automation [Emerging Technologies]\r\n- API [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/machine-learning/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.741Z",
+  compiledAt: "2025-11-07T21:05:57.236Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14695,7 +14695,7 @@ export const compiledFiles = {
     module: "# Machine Learning\r\n\r\nAI systems that improve through experience\r\n\r\n",
     metadata: {
   sourceFile: "definitions/machine-learning.md",
-  compiledAt: "2025-10-23T22:23:10.755Z",
+  compiledAt: "2025-11-07T21:05:57.236Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14706,7 +14706,7 @@ export const compiledFiles = {
     module: "# Malware - Related Concepts\r\n\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Virus [Cybersecurity Fundamentals]\r\n- Trojan [Cybersecurity Fundamentals]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n- Rootkit [Cybersecurity Fundamentals]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Zero-Day Exploit [Threats and Attacks]\r\n- Phishing [Threats and Attacks]\r\n- Data Breach [Threats and Attacks]\r\n",
     metadata: {
   sourceFile: "definitions/malware/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.761Z",
+  compiledAt: "2025-11-07T21:05:57.236Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14717,7 +14717,7 @@ export const compiledFiles = {
     module: "# Malware\r\n\r\nMalicious software designed to harm or exploit systems\r\n\r\n",
     metadata: {
   sourceFile: "definitions/malware.md",
-  compiledAt: "2025-10-23T22:23:10.765Z",
+  compiledAt: "2025-11-07T21:05:57.237Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14728,7 +14728,7 @@ export const compiledFiles = {
     module: "# Media Player - Related Concepts\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- File Format [File Systems]\r\n- File Extension [File Systems]\r\n- Streaming [Digital Communication and Platforms]\r\n- Output Device [Computer Systems and Architecture]\r\n- Compression [File Systems]\r\n- Metadata [Data and Information Processing]\r\n- User Interface [Digital Communication and Platforms]\r\n- Caching [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/media-player/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.772Z",
+  compiledAt: "2025-11-07T21:05:57.237Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14739,7 +14739,7 @@ export const compiledFiles = {
     module: "# Media Player\r\n\r\nApplication for playing audio and video files\r\n\r\n",
     metadata: {
   sourceFile: "definitions/media-player.md",
-  compiledAt: "2025-10-23T22:23:10.773Z",
+  compiledAt: "2025-11-07T21:05:57.237Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14750,7 +14750,7 @@ export const compiledFiles = {
     module: "# Metadata - Related Concepts\r\n\r\nTop ten most related concepts to Metadata:\r\n\r\n- Data [Data and Information Processing]\r\n- Information [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- File [File Systems]\r\n- File Format [File Systems]\r\n- File Extension [File Systems]\r\n- Index [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/metadata/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.787Z",
+  compiledAt: "2025-11-07T21:05:57.237Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14761,7 +14761,7 @@ export const compiledFiles = {
     module: "# Metadata\r\n\r\nData that describes other data\r\n\r\n",
     metadata: {
   sourceFile: "definitions/metadata.md",
-  compiledAt: "2025-10-23T22:23:10.796Z",
+  compiledAt: "2025-11-07T21:05:57.238Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14772,7 +14772,7 @@ export const compiledFiles = {
     module: "# Multiprocessing - Related Concepts\r\n\r\n- CPU [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Multithreading [Operating Systems and Software]\r\n- Multitasking [Operating Systems and Software]\r\n- Hardware [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Software [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Computer [Computer Systems and Architecture]\r\n- Embedded System [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/multiprocessing/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.819Z",
+  compiledAt: "2025-11-07T21:05:57.238Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14783,7 +14783,7 @@ export const compiledFiles = {
     module: "# Multiprocessing\r\n\r\nUsing multiple processors to increase computing power\r\n\r\n",
     metadata: {
   sourceFile: "definitions/multiprocessing.md",
-  compiledAt: "2025-10-23T22:23:10.833Z",
+  compiledAt: "2025-11-07T21:05:57.238Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14794,7 +14794,7 @@ export const compiledFiles = {
     module: "# Multitasking - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Multithreading [Operating Systems and Software]\r\n- Multiprocessing [Operating Systems and Software]\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- Computer [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/multitasking/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.836Z",
+  compiledAt: "2025-11-07T21:05:57.238Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14805,7 +14805,7 @@ export const compiledFiles = {
     module: "# Multitasking\r\n\r\nRunning multiple programs simultaneously\r\n\r\n",
     metadata: {
   sourceFile: "definitions/multitasking.md",
-  compiledAt: "2025-10-23T22:23:10.845Z",
+  compiledAt: "2025-11-07T21:05:57.239Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14816,7 +14816,7 @@ export const compiledFiles = {
     module: "# Multithreading - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- CPU [Computer Systems and Architecture]\r\n- Multitasking [Operating Systems and Software]\r\n- Multiprocessing [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Software [Computer Systems and Architecture]\r\n- Application Software [Operating Systems and Software]\r\n- Programming [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- RAM [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/multithreading/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.856Z",
+  compiledAt: "2025-11-07T21:05:57.239Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14827,7 +14827,7 @@ export const compiledFiles = {
     module: "# Multithreading\r\n\r\nBreaking programs into smaller, concurrent tasks\r\n\r\n",
     metadata: {
   sourceFile: "definitions/multithreading.md",
-  compiledAt: "2025-10-23T22:23:10.882Z",
+  compiledAt: "2025-11-07T21:05:57.239Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14838,7 +14838,7 @@ export const compiledFiles = {
     module: "# Nosql - Related Concepts\r\n\r\n- Database [Databases and Structured Data]\r\n- Big Data [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Backend [Web Development]\r\n- API [Web Development]\r\n- Cloud Storage [Online Communication]\r\n",
     metadata: {
   sourceFile: "definitions/nosql/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.900Z",
+  compiledAt: "2025-11-07T21:05:57.239Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14849,7 +14849,7 @@ export const compiledFiles = {
     module: "# NoSQL\r\n\r\nDatabase systems designed for flexibility and large-scale data\r\n\r\n",
     metadata: {
   sourceFile: "definitions/nosql.md",
-  compiledAt: "2025-10-23T22:23:10.924Z",
+  compiledAt: "2025-11-07T21:05:57.239Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14860,7 +14860,7 @@ export const compiledFiles = {
     module: "# Notification - Related Concepts\r\n\r\n- User Interface [Digital Communication and Platforms]\r\n- User Experience [Digital Communication and Platforms]\r\n- Operating System [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- Web Browser [Internet Infrastructure]\r\n- API [Web Development]\r\n- Backend [Web Development]\r\n- Frontend [Web Development]\r\n- Email [Online Communication]\r\n",
     metadata: {
   sourceFile: "definitions/notification/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.934Z",
+  compiledAt: "2025-11-07T21:05:57.240Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14871,7 +14871,7 @@ export const compiledFiles = {
     module: "# Notification\r\n\r\nAlert or message sent to inform users of events\r\n\r\n",
     metadata: {
   sourceFile: "definitions/notification.md",
-  compiledAt: "2025-10-23T22:23:10.949Z",
+  compiledAt: "2025-11-07T21:05:57.240Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14882,7 +14882,7 @@ export const compiledFiles = {
     module: "# Office Suite - Related Concepts\r\n\r\n- Word Processor [Common Software and Applications]\r\n- Spreadsheet [Data and Information Processing]\r\n- Presentation Software [Common Software and Applications]\r\n- Application Software [Operating Systems and Software]\r\n- File [File Systems]\r\n- File Format [File Systems]\r\n- PDF [Common Software and Applications]\r\n- Collaboration Tools [Online Communication]\r\n- Cloud Storage [Online Communication]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/office-suite/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.962Z",
+  compiledAt: "2025-11-07T21:05:57.240Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14893,7 +14893,7 @@ export const compiledFiles = {
     module: "# Office Suite\r\n\r\nCollection of productivity applications (word processing, spreadsheets, presentations)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/office-suite.md",
-  compiledAt: "2025-10-23T22:23:10.964Z",
+  compiledAt: "2025-11-07T21:05:57.240Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14904,7 +14904,7 @@ export const compiledFiles = {
     module: "# Open Source - Related Concepts\r\n\r\n- Software License [Operating Systems and Software]\r\n- Proprietary Software [Intellectual Property]\r\n- Software [Computer Systems and Architecture]\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Version Control [File Systems]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Copyright [Intellectual Property]\r\n",
     metadata: {
   sourceFile: "definitions/open-source/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.965Z",
+  compiledAt: "2025-11-07T21:05:57.240Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14915,7 +14915,7 @@ export const compiledFiles = {
     module: "# Open Source\r\n\r\nSoftware with publicly available source code\r\n\r\n",
     metadata: {
   sourceFile: "definitions/open-source.md",
-  compiledAt: "2025-10-23T22:23:10.966Z",
+  compiledAt: "2025-11-07T21:05:57.241Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14926,7 +14926,7 @@ export const compiledFiles = {
     module: "# Operating System - Related Concepts\r\n\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Multitasking [Operating Systems and Software]\r\n- File [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/operating-system/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.967Z",
+  compiledAt: "2025-11-07T21:05:57.241Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14937,7 +14937,7 @@ export const compiledFiles = {
     module: "# Operating System\r\n\r\nSoftware that manages computer hardware and provides services to other programs\r\n\r\n",
     metadata: {
   sourceFile: "definitions/operating-system.md",
-  compiledAt: "2025-10-23T22:23:10.969Z",
+  compiledAt: "2025-11-07T21:05:57.241Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14948,7 +14948,7 @@ export const compiledFiles = {
     module: "# Output Device - Related Concepts\r\n\r\n- Output Device [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- Computer [Computer Systems and Architecture]\r\n- IPOS Model [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Input Device [Computer Systems and Architecture]\r\n- User Interface [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/output-device/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.971Z",
+  compiledAt: "2025-11-07T21:05:57.241Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14959,7 +14959,7 @@ export const compiledFiles = {
     module: "# Output Device\r\n\r\nHardware that presents information to users (monitor, printer, speakers)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/output-device.md",
-  compiledAt: "2025-10-23T22:23:10.972Z",
+  compiledAt: "2025-11-07T21:05:57.241Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14970,7 +14970,7 @@ export const compiledFiles = {
     module: "# Password - Related Concepts\r\n\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Encryption [Authentication and Protection]\r\n- HTTPS [Internet Infrastructure]\r\n- Digital Certificate [Authentication and Protection]\r\n- Digital Identity [Online Communication]\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Data Breach [Threats and Attacks]\r\n- Web Application [Operating Systems and Software]\r\n- Biometrics [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/password/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.974Z",
+  compiledAt: "2025-11-07T21:05:57.242Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14981,7 +14981,7 @@ export const compiledFiles = {
     module: "# Password\r\n\r\nSecret phrase used to verify identity\r\n\r\n",
     metadata: {
   sourceFile: "definitions/password.md",
-  compiledAt: "2025-10-23T22:23:10.975Z",
+  compiledAt: "2025-11-07T21:05:57.242Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -14992,7 +14992,7 @@ export const compiledFiles = {
     module: "# Pattern Recognition - Related Concepts\r\n\r\n- Computational Thinking [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Logical Reasoning [Computational Thinking]\r\n- Algorithm [Programming Concepts]\r\n- Data [Data and Information Processing]\r\n- Analytics [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Machine Learning [Emerging Technologies]\r\n- Artificial Intelligence [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/pattern-recognition/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.979Z",
+  compiledAt: "2025-11-07T21:05:57.242Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15003,7 +15003,7 @@ export const compiledFiles = {
     module: "# Pattern Recognition\r\n\r\nIdentifying similarities and trends in data or problems\r\n\r\n",
     metadata: {
   sourceFile: "definitions/pattern-recognition.md",
-  compiledAt: "2025-10-23T22:23:10.980Z",
+  compiledAt: "2025-11-07T21:05:57.242Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15014,7 +15014,7 @@ export const compiledFiles = {
     module: "# Pdf - Related Concepts\r\n\r\n- PDF [Common Software and Applications]\r\n- File Format [File Systems]\r\n- File [File Systems]\r\n- File Extension [File Systems]\r\n- Web Browser [Internet Infrastructure]\r\n- Application Software [Operating Systems and Software]\r\n- Office Suite [Common Software and Applications]\r\n- Word Processor [Common Software and Applications]\r\n- Compression [File Systems]\r\n- Metadata [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/pdf/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:10.984Z",
+  compiledAt: "2025-11-07T21:05:57.242Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15025,7 +15025,7 @@ export const compiledFiles = {
     module: "# PDF\r\n\r\nFile format that preserves document formatting across devices\r\n\r\n",
     metadata: {
   sourceFile: "definitions/pdf.md",
-  compiledAt: "2025-10-23T22:23:10.998Z",
+  compiledAt: "2025-11-07T21:05:57.243Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15036,7 +15036,7 @@ export const compiledFiles = {
     module: "# Phishing - Related Concepts\r\n\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Social Engineering [Threats and Attacks]\r\n- Spoofing [Threats and Attacks]\r\n- Email [Online Communication]\r\n- URL [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Digital Certificate [Authentication and Protection]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n",
     metadata: {
   sourceFile: "definitions/phishing/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.001Z",
+  compiledAt: "2025-11-07T21:05:57.243Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15047,7 +15047,7 @@ export const compiledFiles = {
     module: "# Phishing\r\n\r\nFraudulent attempt to obtain sensitive information\r\n\r\n",
     metadata: {
   sourceFile: "definitions/phishing.md",
-  compiledAt: "2025-10-23T22:23:11.002Z",
+  compiledAt: "2025-11-07T21:05:57.243Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15058,7 +15058,7 @@ export const compiledFiles = {
     module: "# Plagiarism - Related Concepts\r\n\r\nTop ten most related concepts to Plagiarism:\r\n\r\n- Copyright [Intellectual Property]\r\n- Fair Use [Intellectual Property]\r\n- Creative Commons [Intellectual Property]\r\n- Open Source [Intellectual Property]\r\n- Proprietary Software [Intellectual Property]\r\n- Software License [Operating Systems and Software]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Blog [Digital Communication and Platforms]\r\n- Social Media [Online Communication]\r\n- Search Engine [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/plagiarism/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.003Z",
+  compiledAt: "2025-11-07T21:05:57.243Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15069,7 +15069,7 @@ export const compiledFiles = {
     module: "# Plagiarism\r\n\r\nUsing someone else's work without proper attribution\r\n\r\n",
     metadata: {
   sourceFile: "definitions/plagiarism.md",
-  compiledAt: "2025-10-23T22:23:11.004Z",
+  compiledAt: "2025-11-07T21:05:57.243Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15080,7 +15080,7 @@ export const compiledFiles = {
     module: "# Platform - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Hardware [Computer Systems and Architecture]\r\n- Cloud Computing [Operating Systems and Software]\r\n- API [Web Development]\r\n- Framework [Web Development]\r\n- Web Server [Internet Infrastructure]\r\n- Database [Databases and Structured Data]\r\n- App Store [Common Software and Applications]\r\n- Backend [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/platform/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.007Z",
+  compiledAt: "2025-11-07T21:05:57.244Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15091,7 +15091,7 @@ export const compiledFiles = {
     module: "# Platform\r\n\r\nTechnology foundation that supports other applications or services\r\n\r\n",
     metadata: {
   sourceFile: "definitions/platform.md",
-  compiledAt: "2025-10-23T22:23:11.008Z",
+  compiledAt: "2025-11-07T21:05:57.244Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15102,7 +15102,7 @@ export const compiledFiles = {
     module: "# Plugin - Related Concepts\r\n\r\n- Plugin [Web Development]\r\n- Application Software [Operating Systems and Software]\r\n- Software [Computer Systems and Architecture]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Framework [Web Development]\r\n- API [Web Development]\r\n- Installation [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- App Store [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/plugin/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.011Z",
+  compiledAt: "2025-11-07T21:05:57.244Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15113,7 +15113,7 @@ export const compiledFiles = {
     module: "# Plugin\r\n\r\nAdd-on software that extends functionality of an application\r\n\r\n",
     metadata: {
   sourceFile: "definitions/plugin.md",
-  compiledAt: "2025-10-23T22:23:11.012Z",
+  compiledAt: "2025-11-07T21:05:57.244Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15124,7 +15124,7 @@ export const compiledFiles = {
     module: "# Podcast - Related Concepts\r\n\r\n- Streaming [Digital Communication and Platforms]\r\n- Download [File Systems]\r\n- Media Player [Common Software and Applications]\r\n- Platform [Digital Communication and Platforms]\r\n- Internet [Internet Infrastructure]\r\n- App Store [Common Software and Applications]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Web Application [Operating Systems and Software]\r\n- Web Server [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/podcast/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.013Z",
+  compiledAt: "2025-11-07T21:05:57.244Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15135,7 +15135,7 @@ export const compiledFiles = {
     module: "# Podcast\r\n\r\nDigital audio program available for download or streaming\r\n\r\n",
     metadata: {
   sourceFile: "definitions/podcast.md",
-  compiledAt: "2025-10-23T22:23:11.014Z",
+  compiledAt: "2025-11-07T21:05:57.245Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15146,7 +15146,7 @@ export const compiledFiles = {
     module: "# Presentation Software - Related Concepts\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Office Suite [Common Software and Applications]\r\n- Local Application [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- File [File Systems]\r\n- File Format [File Systems]\r\n- PDF [Common Software and Applications]\r\n- Chart/Graph [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Collaboration Tools [Online Communication]\r\n",
     metadata: {
   sourceFile: "definitions/presentation-software/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.015Z",
+  compiledAt: "2025-11-07T21:05:57.245Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15157,7 +15157,7 @@ export const compiledFiles = {
     module: "# Presentation Software\r\n\r\nApplication for creating slideshows and visual presentations\r\n\r\n",
     metadata: {
   sourceFile: "definitions/presentation-software.md",
-  compiledAt: "2025-10-23T22:23:11.015Z",
+  compiledAt: "2025-11-07T21:05:57.245Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15168,7 +15168,7 @@ export const compiledFiles = {
     module: "# Primary Key - Related Concepts\r\n\r\n- Database [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- NoSQL [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/primary-key/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.028Z",
+  compiledAt: "2025-11-07T21:05:57.245Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15179,7 +15179,7 @@ export const compiledFiles = {
     module: "# Primary Key\r\n\r\nUnique identifier for each record in a database table\r\n\r\n",
     metadata: {
   sourceFile: "definitions/primary-key.md",
-  compiledAt: "2025-10-23T22:23:11.031Z",
+  compiledAt: "2025-11-07T21:05:57.246Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15190,7 +15190,7 @@ export const compiledFiles = {
     module: "# Profile - Related Concepts\r\n\r\n- Digital Identity [Online Communication]\r\n- Social Network [Online Communication]\r\n- Social Media [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- User Interface [Digital Communication and Platforms]\r\n- Web Application [Operating Systems and Software]\r\n- Database [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Metadata [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/profile/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.032Z",
+  compiledAt: "2025-11-07T21:05:57.246Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15201,7 +15201,7 @@ export const compiledFiles = {
     module: "# Profile\r\n\r\nCollection of information that represents a user on a platform\r\n\r\n",
     metadata: {
   sourceFile: "definitions/profile.md",
-  compiledAt: "2025-10-23T22:23:11.035Z",
+  compiledAt: "2025-11-07T21:05:57.246Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15212,7 +15212,7 @@ export const compiledFiles = {
     module: "# Programming - Related Concepts\r\n\r\n- Code [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Bug [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/programming/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.038Z",
+  compiledAt: "2025-11-07T21:05:57.246Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15223,7 +15223,7 @@ export const compiledFiles = {
     module: "# Programming\r\n\r\nProcess of creating instructions for computers\r\n\r\n",
     metadata: {
   sourceFile: "definitions/programming.md",
-  compiledAt: "2025-10-23T22:23:11.040Z",
+  compiledAt: "2025-11-07T21:05:57.247Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15234,7 +15234,7 @@ export const compiledFiles = {
     module: "# Proprietary Software - Related Concepts\r\n\r\n- Software License [Operating Systems and Software]\r\n- Copyright [Intellectual Property]\r\n- Open Source [Intellectual Property]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- App Store [Common Software and Applications]\r\n- Installation [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Local Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/proprietary-software/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.041Z",
+  compiledAt: "2025-11-07T21:05:57.247Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15245,7 +15245,7 @@ export const compiledFiles = {
     module: "# Proprietary Software\r\n\r\nSoftware owned by individuals or companies\r\n\r\n",
     metadata: {
   sourceFile: "definitions/proprietary-software.md",
-  compiledAt: "2025-10-23T22:23:11.042Z",
+  compiledAt: "2025-11-07T21:05:57.247Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15256,7 +15256,7 @@ export const compiledFiles = {
     module: "# Pseudocode - Related Concepts\r\n\r\n- Algorithm [Programming Concepts]\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Computational Thinking [Computational Thinking]\r\n- Abstraction [Computational Thinking]\r\n- Decomposition [Computational Thinking]\r\n- Function [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Variable [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/pseudocode/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.045Z",
+  compiledAt: "2025-11-07T21:05:57.247Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15267,7 +15267,7 @@ export const compiledFiles = {
     module: "# Pseudocode\r\n\r\nAlgorithm written in plain language\r\n\r\n",
     metadata: {
   sourceFile: "definitions/pseudocode.md",
-  compiledAt: "2025-10-23T22:23:11.047Z",
+  compiledAt: "2025-11-07T21:05:57.247Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15278,7 +15278,7 @@ export const compiledFiles = {
     module: "# Qr Code - Related Concepts\r\n\r\n- 'QR Code [Emerging Technologies]'\r\n- 'Smart Device [Emerging Technologies]'\r\n- 'Input Device [Computer Systems and Architecture]'\r\n- 'Web Browser [Internet Infrastructure]'\r\n- 'URL [Internet Infrastructure]'\r\n- 'HTTP [Internet Infrastructure]'\r\n- 'HTTPS [Internet Infrastructure]'\r\n- 'Internet [Internet Infrastructure]'\r\n- 'Application Software [Operating Systems and Software]'\r\n- 'WiFi [Internet Infrastructure]'\r\n",
     metadata: {
   sourceFile: "definitions/qr-code/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.048Z",
+  compiledAt: "2025-11-07T21:05:57.247Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15289,7 +15289,7 @@ export const compiledFiles = {
     module: "# QR Code\r\n\r\nMatrix barcode that can be read by smartphones\r\n\r\n",
     metadata: {
   sourceFile: "definitions/qr-code.md",
-  compiledAt: "2025-10-23T22:23:11.049Z",
+  compiledAt: "2025-11-07T21:05:57.248Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15300,7 +15300,7 @@ export const compiledFiles = {
     module: "# Query - Related Concepts\r\n\r\n- Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- NoSQL [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/query/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.050Z",
+  compiledAt: "2025-11-07T21:05:57.248Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15311,7 +15311,7 @@ export const compiledFiles = {
     module: "# Query\r\n\r\nRequest for specific information from a database\r\n\r\n",
     metadata: {
   sourceFile: "definitions/query.md",
-  compiledAt: "2025-10-23T22:23:11.051Z",
+  compiledAt: "2025-11-07T21:05:57.248Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15322,7 +15322,7 @@ export const compiledFiles = {
     module: "# Ram - Related Concepts\r\n\r\n- RAM [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- ROM [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Multitasking [Operating Systems and Software]\r\n- Multiprocessing [Operating Systems and Software]\r\n- Multithreading [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/ram/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.052Z",
+  compiledAt: "2025-11-07T21:05:57.248Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15333,7 +15333,7 @@ export const compiledFiles = {
     module: "# RAM\r\n\r\nTemporary, fast storage for currently running programs\r\n\r\n",
     metadata: {
   sourceFile: "definitions/ram.md",
-  compiledAt: "2025-10-23T22:23:11.054Z",
+  compiledAt: "2025-11-07T21:05:57.248Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15344,7 +15344,7 @@ export const compiledFiles = {
     module: "# Ransomware - Related Concepts\r\n\r\n- Malware [Cybersecurity Fundamentals]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Encryption [Authentication and Protection]\r\n- Decryption [Authentication and Protection]\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Backup [File Systems]\r\n- Data Breach [Threats and Attacks]\r\n",
     metadata: {
   sourceFile: "definitions/ransomware/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.055Z",
+  compiledAt: "2025-11-07T21:05:57.249Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15355,7 +15355,7 @@ export const compiledFiles = {
     module: "# Ransomware\r\n\r\nMalware that encrypts data and demands payment\r\n\r\n",
     metadata: {
   sourceFile: "definitions/ransomware.md",
-  compiledAt: "2025-10-23T22:23:11.056Z",
+  compiledAt: "2025-11-07T21:05:57.249Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15366,7 +15366,7 @@ export const compiledFiles = {
     module: "# Record - Related Concepts\r\n\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n- Data [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/record/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.057Z",
+  compiledAt: "2025-11-07T21:05:57.249Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15377,7 +15377,7 @@ export const compiledFiles = {
     module: "# Record\r\n\r\nComplete set of data about one item (row in a table)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/record.md",
-  compiledAt: "2025-10-23T22:23:11.058Z",
+  compiledAt: "2025-11-07T21:05:57.249Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15388,7 +15388,7 @@ export const compiledFiles = {
     module: "# Relational Database - Related Concepts\r\n\r\n- Database [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n- Data [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/relational-database/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.062Z",
+  compiledAt: "2025-11-07T21:05:57.249Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15399,7 +15399,7 @@ export const compiledFiles = {
     module: "# Relational Database\r\n\r\nDatabase that organizes data into related tables\r\n\r\n",
     metadata: {
   sourceFile: "definitions/relational-database.md",
-  compiledAt: "2025-10-23T22:23:11.064Z",
+  compiledAt: "2025-11-07T21:05:57.250Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15410,7 +15410,7 @@ export const compiledFiles = {
     module: "# Relationship - Related Concepts\r\n\r\n- Relational Database [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Database [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Data [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/relationship/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.083Z",
+  compiledAt: "2025-11-07T21:05:57.250Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15421,7 +15421,7 @@ export const compiledFiles = {
     module: "# Relationship\r\n\r\nConnection between data in different database tables\r\n\r\n",
     metadata: {
   sourceFile: "definitions/relationship.md",
-  compiledAt: "2025-10-23T22:23:11.094Z",
+  compiledAt: "2025-11-07T21:05:57.250Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15432,7 +15432,7 @@ export const compiledFiles = {
     module: "# Relative Path - Related Concepts\r\n\r\n- File Path [File Systems]\r\n- Absolute Path [File Systems]\r\n- File [File Systems]\r\n- Folder [File Systems]\r\n- File Management [File Systems]\r\n- Operating System [Operating Systems and Software]\r\n- Storage [Computer Systems and Architecture]\r\n- Sync [File Systems]\r\n- Version Control [File Systems]\r\n- Backup [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/relative-path/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.096Z",
+  compiledAt: "2025-11-07T21:05:57.250Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15443,7 +15443,7 @@ export const compiledFiles = {
     module: "# Relative Path\r\n\r\nFile location relative to current directory\r\n\r\n",
     metadata: {
   sourceFile: "definitions/relative-path.md",
-  compiledAt: "2025-10-23T22:23:11.159Z",
+  compiledAt: "2025-11-07T21:05:57.251Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15454,7 +15454,7 @@ export const compiledFiles = {
     module: "# Remote Access - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n- VPN [Authentication and Protection]\r\n- Encryption [Authentication and Protection]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Operating System [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/remote-access/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.165Z",
+  compiledAt: "2025-11-07T21:05:57.251Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15465,7 +15465,7 @@ export const compiledFiles = {
     module: "# Remote Access\r\n\r\nAbility to control a computer from a different location\r\n\r\n",
     metadata: {
   sourceFile: "definitions/remote-access.md",
-  compiledAt: "2025-10-23T22:23:11.166Z",
+  compiledAt: "2025-11-07T21:05:57.251Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15476,7 +15476,7 @@ export const compiledFiles = {
     module: "# Reset - Related Concepts\r\n\r\n- Restart/Reboot [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Backup [File Systems]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Error Message [Problem-Solving Concepts]\r\n- Crash [Problem-Solving Concepts]\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Uninstall [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/reset/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.167Z",
+  compiledAt: "2025-11-07T21:05:57.251Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15487,7 +15487,7 @@ export const compiledFiles = {
     module: "# Reset\r\n\r\nReturning settings to their original state\r\n\r\n",
     metadata: {
   sourceFile: "definitions/reset.md",
-  compiledAt: "2025-10-23T22:23:11.185Z",
+  compiledAt: "2025-11-07T21:05:57.252Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15498,7 +15498,7 @@ export const compiledFiles = {
     module: "# Responsive Design - Related Concepts\r\n\r\nTop ten most related concepts to Responsive Design:\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- JavaScript [Web Development]\r\n- Frontend [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n- User Interface [Digital Communication and Platforms]\r\n- User Experience [Digital Communication and Platforms]\r\n- Framework [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n- Platform [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/responsive-design/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.211Z",
+  compiledAt: "2025-11-07T21:05:57.252Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15509,7 +15509,7 @@ export const compiledFiles = {
     module: "# Responsive Design\r\n\r\nWeb design approach that adapts to different screen sizes\r\n\r\n",
     metadata: {
   sourceFile: "definitions/responsive-design.md",
-  compiledAt: "2025-10-23T22:23:11.221Z",
+  compiledAt: "2025-11-07T21:05:57.252Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15520,7 +15520,7 @@ export const compiledFiles = {
     module: "# Restartreboot - Related Concepts\r\n\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Crash [Problem-Solving Concepts]\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Error Message [Problem-Solving Concepts]\r\n- Reset [Problem-Solving Concepts]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Tech Support [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/restartreboot/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.234Z",
+  compiledAt: "2025-11-07T21:05:57.253Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15531,7 +15531,7 @@ export const compiledFiles = {
     module: "# Restart/Reboot\r\n\r\nTurning a device off and on again to resolve issues\r\n\r\n",
     metadata: {
   sourceFile: "definitions/restartreboot.md",
-  compiledAt: "2025-10-23T22:23:11.236Z",
+  compiledAt: "2025-11-07T21:05:57.253Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15542,7 +15542,7 @@ export const compiledFiles = {
     module: "# Rom - Related Concepts\r\n\r\n- ROM [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Computer [Computer Systems and Architecture]\r\n- Embedded System [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/rom/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.245Z",
+  compiledAt: "2025-11-07T21:05:57.253Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15553,7 +15553,7 @@ export const compiledFiles = {
     module: "# ROM\r\n\r\nPermanent storage for basic system instructions\r\n\r\n",
     metadata: {
   sourceFile: "definitions/rom.md",
-  compiledAt: "2025-10-23T22:23:11.248Z",
+  compiledAt: "2025-11-07T21:05:57.253Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15564,7 +15564,7 @@ export const compiledFiles = {
     module: "# Rootkit - Related Concepts\r\n\r\n- Malware [Cybersecurity Fundamentals]\r\n- Operating System [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- System Software [Operating Systems and Software]\r\n- Trojan [Cybersecurity Fundamentals]\r\n- Zero-Day Exploit [Threats and Attacks]\r\n- Intrusion [Threats and Attacks]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Hardware [Computer Systems and Architecture]\r\n- Embedded System [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/rootkit/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.266Z",
+  compiledAt: "2025-11-07T21:05:57.254Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15575,7 +15575,7 @@ export const compiledFiles = {
     module: "# Rootkit\r\n\r\nMalware that hides deep in the system\r\n\r\n",
     metadata: {
   sourceFile: "definitions/rootkit.md",
-  compiledAt: "2025-10-23T22:23:11.272Z",
+  compiledAt: "2025-11-07T21:05:57.254Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15586,7 +15586,7 @@ export const compiledFiles = {
     module: "# Router - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- ISP [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- VPN [Authentication and Protection]\r\n- Hardware [Computer Systems and Architecture]\r\n- Embedded System [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/router/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.273Z",
+  compiledAt: "2025-11-07T21:05:57.254Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15597,7 +15597,7 @@ export const compiledFiles = {
     module: "# Router\r\n\r\nDevice that forwards data between computer networks\r\n\r\n",
     metadata: {
   sourceFile: "definitions/router.md",
-  compiledAt: "2025-10-23T22:23:11.274Z",
+  compiledAt: "2025-11-07T21:05:57.254Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15608,7 +15608,7 @@ export const compiledFiles = {
     module: "# Search Engine - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Database [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Algorithm [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/search-engine/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.277Z",
+  compiledAt: "2025-11-07T21:05:57.255Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15619,7 +15619,7 @@ export const compiledFiles = {
     module: "# Search Engine\r\n\r\nSoftware system designed to search for information on the internet\r\n\r\n",
     metadata: {
   sourceFile: "definitions/search-engine.md",
-  compiledAt: "2025-10-23T22:23:11.278Z",
+  compiledAt: "2025-11-07T21:05:57.255Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15630,7 +15630,7 @@ export const compiledFiles = {
     module: "# Six Degrees Of Separation - Related Concepts\r\n\r\n- Social Network [Online Communication]\r\n- Social Media [Online Communication]\r\n- Six Degrees of Separation [Online Communication]\r\n- Internet [Internet Infrastructure]\r\n- Viral [Digital Communication and Platforms]\r\n- Influencer [Digital Communication and Platforms]\r\n- Platform [Digital Communication and Platforms]\r\n- Profile [Online Communication]\r\n- Digital Identity [Online Communication]\r\n- Relationship [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/six-degrees-of-separation/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.279Z",
+  compiledAt: "2025-11-07T21:05:57.255Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15641,7 +15641,7 @@ export const compiledFiles = {
     module: "# Six Degrees of Separation\r\n\r\nTheory that everyone is connected by no more than six relationships\r\n\r\n",
     metadata: {
   sourceFile: "definitions/six-degrees-of-separation.md",
-  compiledAt: "2025-10-23T22:23:11.281Z",
+  compiledAt: "2025-11-07T21:05:57.255Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15652,7 +15652,7 @@ export const compiledFiles = {
     module: "# Smart Device - Related Concepts\r\n\r\nTop 10 most related concepts to Smart Device:\r\n\r\n- Internet of Things [Emerging Technologies]\r\n- Internet [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- 5G [Emerging Technologies]\r\n- Embedded System [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- IP Address [Internet Infrastructure]\r\n- Cloud Computing [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/smart-device/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.283Z",
+  compiledAt: "2025-11-07T21:05:57.256Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15663,7 +15663,7 @@ export const compiledFiles = {
     module: "# Smart Device\r\n\r\nElectronic device that can connect to other devices or networks\r\n\r\n",
     metadata: {
   sourceFile: "definitions/smart-device.md",
-  compiledAt: "2025-10-23T22:23:11.285Z",
+  compiledAt: "2025-11-07T21:05:57.256Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15674,7 +15674,7 @@ export const compiledFiles = {
     module: "# Social Engineering - Related Concepts\r\n\r\n- Phishing [Threats and Attacks]\r\n- Spoofing [Threats and Attacks]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Malware [Cybersecurity Fundamentals]\r\n- Password [Authentication and Protection]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Digital Identity [Online Communication]\r\n- Email [Online Communication]\r\n- Social Media [Online Communication]\r\n- Remote Access [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/social-engineering/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.287Z",
+  compiledAt: "2025-11-07T21:05:57.256Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15685,7 +15685,7 @@ export const compiledFiles = {
     module: "# Social Engineering\r\n\r\nManipulating people to divulge confidential information\r\n\r\n",
     metadata: {
   sourceFile: "definitions/social-engineering.md",
-  compiledAt: "2025-10-23T22:23:11.289Z",
+  compiledAt: "2025-11-07T21:05:57.256Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15696,7 +15696,7 @@ export const compiledFiles = {
     module: "# Social Media - Related Concepts\r\n\r\n- Social Network [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- User Interface [Digital Communication and Platforms]\r\n- User Experience [Digital Communication and Platforms]\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Hashtag [Digital Communication and Platforms]\r\n- Influencer [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Profile [Online Communication]\r\n- Notification [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/social-media/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.290Z",
+  compiledAt: "2025-11-07T21:05:57.257Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15707,7 +15707,7 @@ export const compiledFiles = {
     module: "# Social Media\r\n\r\nOnline platforms for creating and sharing content and connecting with others\r\n\r\n",
     metadata: {
   sourceFile: "definitions/social-media.md",
-  compiledAt: "2025-10-23T22:23:11.291Z",
+  compiledAt: "2025-11-07T21:05:57.257Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15718,7 +15718,7 @@ export const compiledFiles = {
     module: "# Social Network - Related Concepts\r\n\r\n- Social Media [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- Profile [Online Communication]\r\n- Digital Identity [Online Communication]\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Hashtag [Digital Communication and Platforms]\r\n- Notification [Digital Communication and Platforms]\r\n- Influencer [Digital Communication and Platforms]\r\n- Viral [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n",
     metadata: {
   sourceFile: "definitions/social-network/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.294Z",
+  compiledAt: "2025-11-07T21:05:57.257Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15729,7 +15729,7 @@ export const compiledFiles = {
     module: "# Social Network\r\n\r\nWeb of connections between people online\r\n\r\n",
     metadata: {
   sourceFile: "definitions/social-network.md",
-  compiledAt: "2025-10-23T22:23:11.296Z",
+  compiledAt: "2025-11-07T21:05:57.257Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15740,7 +15740,7 @@ export const compiledFiles = {
     module: "# Software - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Software License [Operating Systems and Software]\r\n- Installation [Common Software and Applications]\r\n- Software Update [Common Software and Applications]\r\n- Local Application [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Computing [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/software/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.298Z",
+  compiledAt: "2025-11-07T21:05:57.257Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15751,7 +15751,7 @@ export const compiledFiles = {
     module: "# Software License - Related Concepts\r\n\r\n- Software [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Open Source [Intellectual Property]\r\n- Proprietary Software [Intellectual Property]\r\n- Copyright [Intellectual Property]\r\n- Installation [Common Software and Applications]\r\n- App Store [Common Software and Applications]\r\n- Cloud Computing [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/software-license/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.300Z",
+  compiledAt: "2025-11-07T21:05:57.258Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15762,7 +15762,7 @@ export const compiledFiles = {
     module: "# Software License\r\n\r\nLegal agreement defining how software can be used\r\n\r\n",
     metadata: {
   sourceFile: "definitions/software-license.md",
-  compiledAt: "2025-10-23T22:23:11.301Z",
+  compiledAt: "2025-11-07T21:05:57.258Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15773,7 +15773,7 @@ export const compiledFiles = {
     module: "# Software Update - Related Concepts\r\n\r\n- Software [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- System Software [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- App Store [Common Software and Applications]\r\n- Installation [Common Software and Applications]\r\n- Download [File Systems]\r\n- Internet [Internet Infrastructure]\r\n- Bug [Programming Concepts]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n",
     metadata: {
   sourceFile: "definitions/software-update/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.303Z",
+  compiledAt: "2025-11-07T21:05:57.258Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15784,7 +15784,7 @@ export const compiledFiles = {
     module: "# Software Update\r\n\r\nNew version of software that fixes bugs or adds features\r\n\r\n",
     metadata: {
   sourceFile: "definitions/software-update.md",
-  compiledAt: "2025-10-23T22:23:11.305Z",
+  compiledAt: "2025-11-07T21:05:57.258Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15795,7 +15795,7 @@ export const compiledFiles = {
     module: "# Software\r\n\r\nPrograms and instructions that tell hardware what to do\r\n\r\n",
     metadata: {
   sourceFile: "definitions/software.md",
-  compiledAt: "2025-10-23T22:23:11.306Z",
+  compiledAt: "2025-11-07T21:05:57.258Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15806,7 +15806,7 @@ export const compiledFiles = {
     module: "# Sort - Related Concepts\r\n\r\n- Algorithm [Programming Concepts]\r\n- Spreadsheet [Data and Information Processing]\r\n- Database [Databases and Structured Data]\r\n- Table [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Filter [Data and Information Processing]\r\n- Data [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Chart/Graph [Data and Information Processing]\r\n- Field [Databases and Structured Data]\r\n",
     metadata: {
   sourceFile: "definitions/sort/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.307Z",
+  compiledAt: "2025-11-07T21:05:57.259Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15817,7 +15817,7 @@ export const compiledFiles = {
     module: "# Sort\r\n\r\nArranging data in a specific order\r\n\r\n",
     metadata: {
   sourceFile: "definitions/sort.md",
-  compiledAt: "2025-10-23T22:23:11.308Z",
+  compiledAt: "2025-11-07T21:05:57.259Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15828,7 +15828,7 @@ export const compiledFiles = {
     module: "# Spoofing - Related Concepts\r\n\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Digital Certificate [Authentication and Protection]\r\n- HTTPS [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Email [Online Communication]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n- Digital Identity [Online Communication]\r\n",
     metadata: {
   sourceFile: "definitions/spoofing/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.311Z",
+  compiledAt: "2025-11-07T21:05:57.259Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15839,7 +15839,7 @@ export const compiledFiles = {
     module: "# Spoofing\r\n\r\nImpersonating another device or user\r\n\r\n",
     metadata: {
   sourceFile: "definitions/spoofing.md",
-  compiledAt: "2025-10-23T22:23:11.314Z",
+  compiledAt: "2025-11-07T21:05:57.259Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15850,7 +15850,7 @@ export const compiledFiles = {
     module: "# Spreadsheet - Related Concepts\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Office Suite [Common Software and Applications]\r\n- Data [Data and Information Processing]\r\n- Table [Databases and Structured Data]\r\n- Formula [Data and Information Processing]\r\n- Chart/Graph [Data and Information Processing]\r\n- Filter [Data and Information Processing]\r\n- Sort [Data and Information Processing]\r\n- Data Visualization [Data and Information Processing]\r\n- Dashboard [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/spreadsheet/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.315Z",
+  compiledAt: "2025-11-07T21:05:57.259Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15861,7 +15861,7 @@ export const compiledFiles = {
     module: "# Spreadsheet\r\n\r\nSoftware for organizing data in rows and columns\r\n\r\n",
     metadata: {
   sourceFile: "definitions/spreadsheet.md",
-  compiledAt: "2025-10-23T22:23:11.316Z",
+  compiledAt: "2025-11-07T21:05:57.259Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15872,7 +15872,7 @@ export const compiledFiles = {
     module: "# Sql - Related Concepts\r\n\r\n- 'Database [Databases and Structured Data]'\r\n- 'Relational Database [Databases and Structured Data]'\r\n- 'Table [Databases and Structured Data]'\r\n- 'Field [Databases and Structured Data]'\r\n- 'Record [Databases and Structured Data]'\r\n- 'Query [Databases and Structured Data]'\r\n- 'Primary Key [Databases and Structured Data]'\r\n- 'Index [Databases and Structured Data]'\r\n- 'Relationship [Databases and Structured Data]'\r\n- 'Data [Data and Information Processing]'\r\n",
     metadata: {
   sourceFile: "definitions/sql/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.316Z",
+  compiledAt: "2025-11-07T21:05:57.260Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15883,7 +15883,7 @@ export const compiledFiles = {
     module: "# SQL\r\n\r\nLanguage for communicating with databases\r\n\r\n",
     metadata: {
   sourceFile: "definitions/sql.md",
-  compiledAt: "2025-10-23T22:23:11.320Z",
+  compiledAt: "2025-11-07T21:05:57.260Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15894,7 +15894,7 @@ export const compiledFiles = {
     module: "# Storage - Related Concepts\r\n\r\n- Hardware [Computer Systems and Architecture]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- File [File Systems]\r\n- Folder [File Systems]\r\n- File Management [File Systems]\r\n- Backup [File Systems]\r\n- Cloud Storage [Online Communication]\r\n- Sync [File Systems]\r\n- Encryption [Authentication and Protection]\r\n",
     metadata: {
   sourceFile: "definitions/storage/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.344Z",
+  compiledAt: "2025-11-07T21:05:57.260Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15905,7 +15905,7 @@ export const compiledFiles = {
     module: "# Storage\r\n\r\nLong-term data retention (hard drives, SSDs, cloud storage)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/storage.md",
-  compiledAt: "2025-10-23T22:23:11.363Z",
+  compiledAt: "2025-11-07T21:05:57.260Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15916,7 +15916,7 @@ export const compiledFiles = {
     module: "# Streaming - Related Concepts\r\n\r\nTop ten most related concepts to Streaming:\r\n\r\n- Internet [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Media Player [Common Software and Applications]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Caching [Web Development]\r\n- Compression [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/streaming/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.364Z",
+  compiledAt: "2025-11-07T21:05:57.260Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15927,7 +15927,7 @@ export const compiledFiles = {
     module: "# Streaming\r\n\r\nReal-time delivery of media content over the internet\r\n\r\n",
     metadata: {
   sourceFile: "definitions/streaming.md",
-  compiledAt: "2025-10-23T22:23:11.365Z",
+  compiledAt: "2025-11-07T21:05:57.261Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15938,7 +15938,7 @@ export const compiledFiles = {
     module: "# Sync - Related Concepts\r\n\r\nTop ten most related concepts:\r\n- Cloud Storage [Online Communication]\r\n- Upload [File Systems]\r\n- Download [File Systems]\r\n- File [File Systems]\r\n- Folder [File Systems]\r\n- File Management [File Systems]\r\n- Version Control [File Systems]\r\n- Backup [File Systems]\r\n- Internet [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/sync/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.366Z",
+  compiledAt: "2025-11-07T21:05:57.261Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15949,7 +15949,7 @@ export const compiledFiles = {
     module: "# Sync\r\n\r\nKeeping files identical across multiple devices\r\n\r\n",
     metadata: {
   sourceFile: "definitions/sync.md",
-  compiledAt: "2025-10-23T22:23:11.366Z",
+  compiledAt: "2025-11-07T21:05:57.261Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15960,7 +15960,7 @@ export const compiledFiles = {
     module: "# System - Related Concepts\r\n\r\n- System [Systems]\r\n- DSRP [Systems]\r\n- Computer [Computer Systems and Architecture]\r\n- Embedded System [Computer Systems and Architecture]\r\n- IPOS Model [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- Software [Computer Systems and Architecture]\r\n- Operating System [Operating Systems and Software]\r\n- Internet [Internet Infrastructure]\r\n- Internet of Things [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/system/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.367Z",
+  compiledAt: "2025-11-07T21:05:57.261Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15971,7 +15971,7 @@ export const compiledFiles = {
     module: "# System Software - Related Concepts\r\n\r\n- Operating System [Operating Systems and Software]\r\n- Device Driver [Computer Systems and Architecture]\r\n- Hardware [Computer Systems and Architecture]\r\n- CPU [Computer Systems and Architecture]\r\n- RAM [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- File Management [File Systems]\r\n- Multitasking [Operating Systems and Software]\r\n- Multiprocessing [Operating Systems and Software]\r\n- Multithreading [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/system-software/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.369Z",
+  compiledAt: "2025-11-07T21:05:57.261Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15982,7 +15982,7 @@ export const compiledFiles = {
     module: "# System Software\r\n\r\nPrograms that manage computer resources (OS, drivers, utilities)\r\n\r\n",
     metadata: {
   sourceFile: "definitions/system-software.md",
-  compiledAt: "2025-10-23T22:23:11.393Z",
+  compiledAt: "2025-11-07T21:05:57.262Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -15993,7 +15993,7 @@ export const compiledFiles = {
     module: "# System\r\n\r\nA system is a set of interacting or interdependent components forming an integrated whole.  A system may have smaller systems inside of it, and a system may itself be a component within a larger system.\r\n\r\n",
     metadata: {
   sourceFile: "definitions/system.md",
-  compiledAt: "2025-10-23T22:23:11.401Z",
+  compiledAt: "2025-11-07T21:05:57.262Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16004,7 +16004,7 @@ export const compiledFiles = {
     module: "# Table - Related Concepts\r\n\r\n- Database [Databases and Structured Data]\r\n- Field [Databases and Structured Data]\r\n- Record [Databases and Structured Data]\r\n- Relational Database [Databases and Structured Data]\r\n- SQL [Databases and Structured Data]\r\n- Primary Key [Databases and Structured Data]\r\n- Relationship [Databases and Structured Data]\r\n- Index [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Spreadsheet [Data and Information Processing]\r\n",
     metadata: {
   sourceFile: "definitions/table/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.403Z",
+  compiledAt: "2025-11-07T21:05:57.262Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16015,7 +16015,7 @@ export const compiledFiles = {
     module: "# Table\r\n\r\nCollection of related data organized in rows and columns\r\n\r\n",
     metadata: {
   sourceFile: "definitions/table.md",
-  compiledAt: "2025-10-23T22:23:11.419Z",
+  compiledAt: "2025-11-07T21:05:57.262Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16026,7 +16026,7 @@ export const compiledFiles = {
     module: "# Tech Support - Related Concepts\r\n\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Help Desk [Problem-Solving Concepts]\r\n- Error Message [Problem-Solving Concepts]\r\n- Crash [Problem-Solving Concepts]\r\n- Freeze/Hang [Problem-Solving Concepts]\r\n- Restart/Reboot [Problem-Solving Concepts]\r\n- Remote Access [Problem-Solving Concepts]\r\n- Documentation [Problem-Solving Concepts]\r\n- FAQ [Problem-Solving Concepts]\r\n- Software Update [Common Software and Applications]\r\n",
     metadata: {
   sourceFile: "definitions/tech-support/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.430Z",
+  compiledAt: "2025-11-07T21:05:57.262Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16037,7 +16037,7 @@ export const compiledFiles = {
     module: "# Tech Support\r\n\r\nAssistance provided to help users solve technical problems\r\n\r\n",
     metadata: {
   sourceFile: "definitions/tech-support.md",
-  compiledAt: "2025-10-23T22:23:11.455Z",
+  compiledAt: "2025-11-07T21:05:57.263Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16048,7 +16048,7 @@ export const compiledFiles = {
     module: "# Timelinefeed - Related Concepts\r\n\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Social Media [Online Communication]\r\n- Social Network [Online Communication]\r\n- Web Application [Operating Systems and Software]\r\n- Backend [Web Development]\r\n- API [Web Development]\r\n- Database [Databases and Structured Data]\r\n- Query [Databases and Structured Data]\r\n- Sort [Data and Information Processing]\r\n- Frontend [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/timelinefeed/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.456Z",
+  compiledAt: "2025-11-07T21:05:57.263Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16059,7 +16059,7 @@ export const compiledFiles = {
     module: "# Timeline/Feed\r\n\r\nStream of content displayed in chronological order\r\n\r\n",
     metadata: {
   sourceFile: "definitions/timelinefeed.md",
-  compiledAt: "2025-10-23T22:23:11.458Z",
+  compiledAt: "2025-11-07T21:05:57.263Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16070,7 +16070,7 @@ export const compiledFiles = {
     module: "# Trojan - Related Concepts\r\n\r\n- Malware [Cybersecurity Fundamentals]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Ransomware [Cybersecurity Fundamentals]\r\n- Rootkit [Cybersecurity Fundamentals]\r\n- Download [File Systems]\r\n- Installation [Common Software and Applications]\r\n- Email [Online Communication]\r\n",
     metadata: {
   sourceFile: "definitions/trojan/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.470Z",
+  compiledAt: "2025-11-07T21:05:57.263Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16081,7 +16081,7 @@ export const compiledFiles = {
     module: "# Trojan\r\n\r\nMalware disguised as legitimate software\r\n\r\n",
     metadata: {
   sourceFile: "definitions/trojan.md",
-  compiledAt: "2025-10-23T22:23:11.471Z",
+  compiledAt: "2025-11-07T21:05:57.263Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16092,7 +16092,7 @@ export const compiledFiles = {
     module: "# Troubleshooting - Related Concepts\r\n\r\n- 'Error Message [Problem-Solving Concepts]'\r\n- 'Crash [Problem-Solving Concepts]'\r\n- 'Freeze/Hang [Problem-Solving Concepts]'\r\n- 'Restart/Reboot [Problem-Solving Concepts]'\r\n- 'Reset [Problem-Solving Concepts]'\r\n- 'Tech Support [Problem-Solving Concepts]'\r\n- 'Help Desk [Problem-Solving Concepts]'\r\n- 'Documentation [Problem-Solving Concepts]'\r\n- 'Remote Access [Problem-Solving Concepts]'\r\n- 'Debugging [Programming Concepts]'\r\n",
     metadata: {
   sourceFile: "definitions/troubleshooting/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.472Z",
+  compiledAt: "2025-11-07T21:05:57.264Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16103,7 +16103,7 @@ export const compiledFiles = {
     module: "# Troubleshooting\r\n\r\nSystematic approach to identifying and solving problems\r\n\r\n",
     metadata: {
   sourceFile: "definitions/troubleshooting.md",
-  compiledAt: "2025-10-23T22:23:11.473Z",
+  compiledAt: "2025-11-07T21:05:57.264Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16114,7 +16114,7 @@ export const compiledFiles = {
     module: "# Tutorial - Related Concepts\r\n\r\n- Documentation [Problem-Solving Concepts]\r\n- FAQ [Problem-Solving Concepts]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n- Help Desk [Problem-Solving Concepts]\r\n- Tech Support [Problem-Solving Concepts]\r\n- Installation [Common Software and Applications]\r\n- Blog [Digital Communication and Platforms]\r\n- Streaming [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Search Engine [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/tutorial/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.475Z",
+  compiledAt: "2025-11-07T21:05:57.264Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16125,7 +16125,7 @@ export const compiledFiles = {
     module: "# Tutorial\r\n\r\nStep-by-step guide for learning a skill or process\r\n\r\n",
     metadata: {
   sourceFile: "definitions/tutorial.md",
-  compiledAt: "2025-10-23T22:23:11.478Z",
+  compiledAt: "2025-11-07T21:05:57.264Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16136,7 +16136,7 @@ export const compiledFiles = {
     module: "# Two Factor Authentication - Related Concepts\r\n\r\n- Password [Authentication and Protection]\r\n- Biometrics [Emerging Technologies]\r\n- Digital Identity [Online Communication]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Phishing [Threats and Attacks]\r\n- Social Engineering [Threats and Attacks]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Computing [Operating Systems and Software]\r\n- VPN [Authentication and Protection]\r\n- QR Code [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/two-factor-authentication/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.480Z",
+  compiledAt: "2025-11-07T21:05:57.264Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16147,7 +16147,7 @@ export const compiledFiles = {
     module: "# Two-Factor Authentication\r\n\r\nSecurity process requiring two different verification methods\r\n\r\n",
     metadata: {
   sourceFile: "definitions/two-factor-authentication.md",
-  compiledAt: "2025-10-23T22:23:11.480Z",
+  compiledAt: "2025-11-07T21:05:57.265Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16158,7 +16158,7 @@ export const compiledFiles = {
     module: "# Uninstall - Related Concepts\r\n\r\n- Installation [Common Software and Applications]\r\n- Operating System [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Local Application [Operating Systems and Software]\r\n- App Store [Common Software and Applications]\r\n- Device Driver [Computer Systems and Architecture]\r\n- File Management [File Systems]\r\n- Software [Computer Systems and Architecture]\r\n- Storage [Computer Systems and Architecture]\r\n- Troubleshooting [Problem-Solving Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/uninstall/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.482Z",
+  compiledAt: "2025-11-07T21:05:57.265Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16169,7 +16169,7 @@ export const compiledFiles = {
     module: "# Uninstall\r\n\r\nProcess of removing software from a computer\r\n\r\n",
     metadata: {
   sourceFile: "definitions/uninstall.md",
-  compiledAt: "2025-10-23T22:23:11.483Z",
+  compiledAt: "2025-11-07T21:05:57.265Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16180,7 +16180,7 @@ export const compiledFiles = {
     module: "# Upload - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- Cloud Storage [Online Communication]\r\n- File [File Systems]\r\n- Web Application [Operating Systems and Software]\r\n- API [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/upload/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.484Z",
+  compiledAt: "2025-11-07T21:05:57.265Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16191,7 +16191,7 @@ export const compiledFiles = {
     module: "# Upload\r\n\r\nTransferring a file from your device to a remote server\r\n\r\n",
     metadata: {
   sourceFile: "definitions/upload.md",
-  compiledAt: "2025-10-23T22:23:11.485Z",
+  compiledAt: "2025-11-07T21:05:57.265Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16202,7 +16202,7 @@ export const compiledFiles = {
     module: "# Url - Related Concepts\r\n\r\nTop ten most related concepts to URL:\r\n- Internet [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Hyperlink [Web Development]\r\n- HTML [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/url/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.486Z",
+  compiledAt: "2025-11-07T21:05:57.266Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16213,7 +16213,7 @@ export const compiledFiles = {
     module: "# URL\r\n\r\nWeb address that specifies the location of a resource\r\n\r\n",
     metadata: {
   sourceFile: "definitions/url.md",
-  compiledAt: "2025-10-23T22:23:11.486Z",
+  compiledAt: "2025-11-07T21:05:57.266Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16224,7 +16224,7 @@ export const compiledFiles = {
     module: "# User Experience - Related Concepts\r\n\r\n- User Interface [Digital Communication and Platforms]\r\n- Frontend [Web Development]\r\n- Responsive Design [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n- Local Application [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- Web Browser [Internet Infrastructure]\r\n- Platform [Digital Communication and Platforms]\r\n- Notification [Digital Communication and Platforms]\r\n- Bandwidth [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/user-experience/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.487Z",
+  compiledAt: "2025-11-07T21:05:57.266Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16235,7 +16235,7 @@ export const compiledFiles = {
     module: "# User Experience\r\n\r\nOverall experience of using a product or service\r\n\r\n",
     metadata: {
   sourceFile: "definitions/user-experience.md",
-  compiledAt: "2025-10-23T22:23:11.489Z",
+  compiledAt: "2025-11-07T21:05:57.266Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16246,7 +16246,7 @@ export const compiledFiles = {
     module: "# User Interface - Related Concepts\r\n\r\n- User Experience [Digital Communication and Platforms]\r\n- Frontend [Web Development]\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- JavaScript [Web Development]\r\n- Responsive Design [Web Development]\r\n- Application Software [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- Framework [Web Development]\r\n- Web Browser [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/user-interface/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.490Z",
+  compiledAt: "2025-11-07T21:05:57.267Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16257,7 +16257,7 @@ export const compiledFiles = {
     module: "# User Interface\r\n\r\nVisual elements that allow users to interact with software\r\n\r\n",
     metadata: {
   sourceFile: "definitions/user-interface.md",
-  compiledAt: "2025-10-23T22:23:11.494Z",
+  compiledAt: "2025-11-07T21:05:57.267Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16268,7 +16268,7 @@ export const compiledFiles = {
     module: "# Variable - Related Concepts\r\n\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Data Type [Programming Concepts]\r\n- Function [Programming Concepts]\r\n- Algorithm [Programming Concepts]\r\n- Loop [Programming Concepts]\r\n- Conditional [Programming Concepts]\r\n- Debugging [Programming Concepts]\r\n- Bug [Programming Concepts]\r\n- Pseudocode [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/variable/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.498Z",
+  compiledAt: "2025-11-07T21:05:57.267Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16279,7 +16279,7 @@ export const compiledFiles = {
     module: "# Variable\r\n\r\nNamed storage location for data\r\n\r\n",
     metadata: {
   sourceFile: "definitions/variable.md",
-  compiledAt: "2025-10-23T22:23:11.500Z",
+  compiledAt: "2025-11-07T21:05:57.267Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16290,7 +16290,7 @@ export const compiledFiles = {
     module: "# Version Control - Related Concepts\r\n\r\n- File [File Systems]\r\n- Folder [File Systems]\r\n- File Management [File Systems]\r\n- Backup [File Systems]\r\n- Sync [File Systems]\r\n- Programming [Programming Concepts]\r\n- Code [Programming Concepts]\r\n- Software [Computer Systems and Architecture]\r\n- Collaboration Tools [Online Communication]\r\n- Open Source [Intellectual Property]\r\n",
     metadata: {
   sourceFile: "definitions/version-control/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.501Z",
+  compiledAt: "2025-11-07T21:05:57.267Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16301,7 +16301,7 @@ export const compiledFiles = {
     module: "# Version Control\r\n\r\nSystem for tracking changes to files over time\r\n\r\n",
     metadata: {
   sourceFile: "definitions/version-control.md",
-  compiledAt: "2025-10-23T22:23:11.502Z",
+  compiledAt: "2025-11-07T21:05:57.268Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16312,7 +16312,7 @@ export const compiledFiles = {
     module: "# Video Conferencing - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- WiFi [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Streaming [Digital Communication and Platforms]\r\n- Collaboration Tools [Online Communication]\r\n- Encryption [Authentication and Protection]\r\n- Input Device [Computer Systems and Architecture]\r\n",
     metadata: {
   sourceFile: "definitions/video-conferencing/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.503Z",
+  compiledAt: "2025-11-07T21:05:57.268Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16323,7 +16323,7 @@ export const compiledFiles = {
     module: "# Video Conferencing\r\n\r\nTechnology for conducting meetings over the internet\r\n\r\n",
     metadata: {
   sourceFile: "definitions/video-conferencing.md",
-  compiledAt: "2025-10-23T22:23:11.505Z",
+  compiledAt: "2025-11-07T21:05:57.268Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16334,7 +16334,7 @@ export const compiledFiles = {
     module: "# Viral - Related Concepts\r\n\r\n- Social Media [Online Communication]\r\n- Social Network [Online Communication]\r\n- Platform [Digital Communication and Platforms]\r\n- Hashtag [Digital Communication and Platforms]\r\n- Timeline/Feed [Digital Communication and Platforms]\r\n- Notification [Digital Communication and Platforms]\r\n- Influencer [Digital Communication and Platforms]\r\n- Content Creator [Digital Communication and Platforms]\r\n- Hyperlink [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/viral/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.506Z",
+  compiledAt: "2025-11-07T21:05:57.268Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16345,7 +16345,7 @@ export const compiledFiles = {
     module: "# Viral\r\n\r\nContent that spreads rapidly through online sharing\r\n\r\n",
     metadata: {
   sourceFile: "definitions/viral.md",
-  compiledAt: "2025-10-23T22:23:11.507Z",
+  compiledAt: "2025-11-07T21:05:57.269Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16356,7 +16356,7 @@ export const compiledFiles = {
     module: "# Virtual Reality - Related Concepts\r\n\r\n- Augmented Reality [Emerging Technologies]\r\n- User Interface [Digital Communication and Platforms]\r\n- User Experience [Digital Communication and Platforms]\r\n- Input Device [Computer Systems and Architecture]\r\n- Output Device [Computer Systems and Architecture]\r\n- Wearable Technology [Emerging Technologies]\r\n- Application Software [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- API [Web Development]\r\n- Framework [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/virtual-reality/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.511Z",
+  compiledAt: "2025-11-07T21:05:57.269Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16367,7 +16367,7 @@ export const compiledFiles = {
     module: "# Virtual Reality\r\n\r\nComputer-generated simulation of a 3D environment\r\n\r\n",
     metadata: {
   sourceFile: "definitions/virtual-reality.md",
-  compiledAt: "2025-10-23T22:23:11.513Z",
+  compiledAt: "2025-11-07T21:05:57.269Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16378,7 +16378,7 @@ export const compiledFiles = {
     module: "# Virus - Related Concepts\r\n\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Malware [Cybersecurity Fundamentals]\r\n- Antivirus [Cybersecurity Fundamentals]\r\n- Antivirus Software [Common Software and Applications]\r\n- Operating System [Operating Systems and Software]\r\n- Software [Computer Systems and Architecture]\r\n- File [File Systems]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Rootkit [Cybersecurity Fundamentals]\r\n- Trojan [Cybersecurity Fundamentals]\r\n",
     metadata: {
   sourceFile: "definitions/virus/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.517Z",
+  compiledAt: "2025-11-07T21:05:57.269Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16389,7 +16389,7 @@ export const compiledFiles = {
     module: "# Virus\r\n\r\nMalware that replicates by attaching to other programs\r\n\r\n",
     metadata: {
   sourceFile: "definitions/virus.md",
-  compiledAt: "2025-10-23T22:23:11.518Z",
+  compiledAt: "2025-11-07T21:05:57.270Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16400,7 +16400,7 @@ export const compiledFiles = {
     module: "# Vpn - Related Concepts\r\n\r\n- Encryption [Authentication and Protection]\r\n- Digital Certificate [Authentication and Protection]\r\n- IP Address [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Router [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Remote Access [Problem-Solving Concepts]\r\n- Two-Factor Authentication [Authentication and Protection]\r\n",
     metadata: {
   sourceFile: "definitions/vpn/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.519Z",
+  compiledAt: "2025-11-07T21:05:57.270Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16411,7 +16411,7 @@ export const compiledFiles = {
     module: "# VPN\r\n\r\nSecure connection over a public network\r\n\r\n",
     metadata: {
   sourceFile: "definitions/vpn.md",
-  compiledAt: "2025-10-23T22:23:11.521Z",
+  compiledAt: "2025-11-07T21:05:57.270Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16422,7 +16422,7 @@ export const compiledFiles = {
     module: "# Wearable Technology - Related Concepts\r\n\r\n- Smart Device [Emerging Technologies]\r\n- Internet of Things [Emerging Technologies]\r\n- Embedded System [Computer Systems and Architecture]\r\n- Biometrics [Emerging Technologies]\r\n- Machine Learning [Emerging Technologies]\r\n- Cloud Computing [Operating Systems and Software]\r\n- Operating System [Operating Systems and Software]\r\n- Application Software [Operating Systems and Software]\r\n- Input Device [Computer Systems and Architecture]\r\n- WiFi [Internet Infrastructure]\r\n",
     metadata: {
   sourceFile: "definitions/wearable-technology/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.522Z",
+  compiledAt: "2025-11-07T21:05:57.270Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16433,7 +16433,7 @@ export const compiledFiles = {
     module: "# Wearable Technology\r\n\r\nElectronic devices designed to be worn on the body\r\n\r\n",
     metadata: {
   sourceFile: "definitions/wearable-technology.md",
-  compiledAt: "2025-10-23T22:23:11.546Z",
+  compiledAt: "2025-11-07T21:05:57.271Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16444,7 +16444,7 @@ export const compiledFiles = {
     module: "# Web Application - Related Concepts\r\n\r\n- Web Browser [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- HTML [Web Development]\r\n- JavaScript [Web Development]\r\n- Frontend [Web Development]\r\n- Backend [Web Development]\r\n- API [Web Development]\r\n",
     metadata: {
   sourceFile: "definitions/web-application/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.547Z",
+  compiledAt: "2025-11-07T21:05:57.271Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16455,7 +16455,7 @@ export const compiledFiles = {
     module: "# Web Application\r\n\r\nSoftware accessed through a web browser\r\n\r\n",
     metadata: {
   sourceFile: "definitions/web-application.md",
-  compiledAt: "2025-10-23T22:23:11.549Z",
+  compiledAt: "2025-11-07T21:05:57.271Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16466,7 +16466,7 @@ export const compiledFiles = {
     module: "# Web Browser - Related Concepts\r\n\r\n- Internet [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- HTML [Web Development]\r\n- CSS [Web Development]\r\n- JavaScript [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/web-browser/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.557Z",
+  compiledAt: "2025-11-07T21:05:57.271Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16477,7 +16477,7 @@ export const compiledFiles = {
     module: "# Web Browser\r\n\r\nSoftware for accessing and displaying web content\r\n\r\n",
     metadata: {
   sourceFile: "definitions/web-browser.md",
-  compiledAt: "2025-10-23T22:23:11.561Z",
+  compiledAt: "2025-11-07T21:05:57.271Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16488,7 +16488,7 @@ export const compiledFiles = {
     module: "# Web Cookie - Related Concepts\r\n\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- JavaScript [Web Development]\r\n- Web Application [Operating Systems and Software]\r\n- Backend [Web Development]\r\n- URL [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n",
     metadata: {
   sourceFile: "definitions/web-cookie/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.563Z",
+  compiledAt: "2025-11-07T21:05:57.272Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16499,7 +16499,7 @@ export const compiledFiles = {
     module: "# Web Cookie\r\n\r\nSmall data file stored by websites to remember user information\r\n\r\n",
     metadata: {
   sourceFile: "definitions/web-cookie.md",
-  compiledAt: "2025-10-23T22:23:11.565Z",
+  compiledAt: "2025-11-07T21:05:57.272Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16510,7 +16510,7 @@ export const compiledFiles = {
     module: "# Web Server - Related Concepts\r\n\r\n- HTTP [Internet Infrastructure]\r\n- HTTPS [Internet Infrastructure]\r\n- URL [Internet Infrastructure]\r\n- Domain Name [Internet Infrastructure]\r\n- DNS [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- Web Browser [Internet Infrastructure]\r\n- HTML [Web Development]\r\n- Operating System [Operating Systems and Software]\r\n",
     metadata: {
   sourceFile: "definitions/web-server/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.566Z",
+  compiledAt: "2025-11-07T21:05:57.272Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16521,7 +16521,7 @@ export const compiledFiles = {
     module: "# Web Server\r\n\r\nComputer that stores and delivers web pages\r\n\r\n",
     metadata: {
   sourceFile: "definitions/web-server.md",
-  compiledAt: "2025-10-23T22:23:11.567Z",
+  compiledAt: "2025-11-07T21:05:57.272Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16532,7 +16532,7 @@ export const compiledFiles = {
     module: "# Wifi - Related Concepts\r\n\r\n- Router [Internet Infrastructure]\r\n- Bandwidth [Internet Infrastructure]\r\n- IP Address [Internet Infrastructure]\r\n- Internet [Internet Infrastructure]\r\n- ISP [Internet Infrastructure]\r\n- Encryption [Authentication and Protection]\r\n- Password [Authentication and Protection]\r\n- VPN [Authentication and Protection]\r\n- Firewall [Cybersecurity Fundamentals]\r\n- Internet of Things [Emerging Technologies]\r\n",
     metadata: {
   sourceFile: "definitions/wifi/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.568Z",
+  compiledAt: "2025-11-07T21:05:57.272Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16543,7 +16543,7 @@ export const compiledFiles = {
     module: "# WiFi\r\n\r\nWireless networking technology for local area networks\r\n\r\n",
     metadata: {
   sourceFile: "definitions/wifi.md",
-  compiledAt: "2025-10-23T22:23:11.569Z",
+  compiledAt: "2025-11-07T21:05:57.273Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16554,7 +16554,7 @@ export const compiledFiles = {
     module: "# Word Processor - Related Concepts\r\n\r\n- Application Software [Operating Systems and Software]\r\n- Office Suite [Common Software and Applications]\r\n- File [File Systems]\r\n- File Format [File Systems]\r\n- File Extension [File Systems]\r\n- PDF [Common Software and Applications]\r\n- Local Application [Operating Systems and Software]\r\n- Web Application [Operating Systems and Software]\r\n- Cloud Storage [Online Communication]\r\n- Collaboration Tools [Online Communication]\r\n",
     metadata: {
   sourceFile: "definitions/word-processor/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.571Z",
+  compiledAt: "2025-11-07T21:05:57.273Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16565,7 +16565,7 @@ export const compiledFiles = {
     module: "# Word Processor\r\n\r\nSoftware for creating and editing text documents\r\n\r\n",
     metadata: {
   sourceFile: "definitions/word-processor.md",
-  compiledAt: "2025-10-23T22:23:11.573Z",
+  compiledAt: "2025-11-07T21:05:57.273Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16576,7 +16576,7 @@ export const compiledFiles = {
     module: "# Zero Day Exploit - Related Concepts\r\n\r\n- Cybersecurity [Cybersecurity Fundamentals]\r\n- Malware [Cybersecurity Fundamentals]\r\n- Operating System [Operating Systems and Software]\r\n- Software [Computer Systems and Architecture]\r\n- Web Browser [Internet Infrastructure]\r\n- Web Server [Internet Infrastructure]\r\n- Software Update [Common Software and Applications]\r\n- Intrusion [Threats and Attacks]\r\n- Data Breach [Threats and Attacks]\r\n- Bug [Programming Concepts]\r\n",
     metadata: {
   sourceFile: "definitions/zero-day-exploit/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.574Z",
+  compiledAt: "2025-11-07T21:05:57.273Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16587,7 +16587,7 @@ export const compiledFiles = {
     module: "# Zero-Day Exploit\r\n\r\nAttack that targets previously unknown vulnerabilities\r\n\r\n",
     metadata: {
   sourceFile: "definitions/zero-day-exploit.md",
-  compiledAt: "2025-10-23T22:23:11.578Z",
+  compiledAt: "2025-11-07T21:05:57.274Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16598,7 +16598,7 @@ export const compiledFiles = {
     module: "# Zip File - Related Concepts\r\n\r\n- ZIP File [File Systems]\r\n- Compression [File Systems]\r\n- File [File Systems]\r\n- Folder [File Systems]\r\n- File Extension [File Systems]\r\n- File Management [File Systems]\r\n- Archive/Compression Tool [Common Software and Applications]\r\n- Backup [File Systems]\r\n- Encryption [Authentication and Protection]\r\n- Download [File Systems]\r\n",
     metadata: {
   sourceFile: "definitions/zip-file/related-concepts.md",
-  compiledAt: "2025-10-23T22:23:11.581Z",
+  compiledAt: "2025-11-07T21:05:57.274Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16609,7 +16609,7 @@ export const compiledFiles = {
     module: "# ZIP File\r\n\r\nCompressed archive containing one or more files\r\n\r\n",
     metadata: {
   sourceFile: "definitions/zip-file.md",
-  compiledAt: "2025-10-23T22:23:11.582Z",
+  compiledAt: "2025-11-07T21:05:57.274Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16620,7 +16620,7 @@ export const compiledFiles = {
     module: "# Overview\r\n\r\nWelcome!  This is a short textbook that I wrote and compiled to help introduce students to essential concepts in computing and information systems.  It is coupled with an exam generator so you can self-test and determine how well you know the material.\r\n\r\n## Watch these first \r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hDLDBuP4txA?si=wlQZzJSv5I9rTZ_v\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8qBpefbseNM?si=2flev3MyApkn4Vte\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\r\n\r\n<!--\r\n\r\n* Memory: https://freedium.cfd/https:/evakeiffenheim.medium.com/the-smartest-people-i-know-are-obsessed-with-a-skill-many-were-told-is-useless-b9416c6fb856\r\n* course overview\r\n* final exam\r\n* testing, making it stick, forgetting, testing to failure, etc.\r\n\r\n\r\nMeta:\r\n* Students create videos that go into the app?\r\n* Feed in OC course information\r\n* Homework\r\n  - Diagrams from memory\r\n  - Diagrams + very short practice exam \r\n  - Mid term \r\n  - Videos, commit to github\r\n  - Vibe coding, content creation, etc...\r\n  - Diagrams + very short practice exam \r\n  - Final \r\n\r\n-->\r\n\r\n## Chapters\r\n\r\n- [**Zero Computers**](/cis-110/#/textbook/content/overviews/00-zero-computers)\r\n- [**One Computer**](/cis-110/#/textbook/content/overviews/01-one-computer)\r\n- [**A Few Computers**](/cis-110/#/textbook/content/overviews/02-a-few-computers)\r\n- [**Lots of Computers**](/cis-110/#/textbook/content/overviews/03-a-lot-of-computers)\r\n\r\n## Other Links\r\n\r\n- [Full list of Exam Questions](/textbook/big-picture)\r\n- [Student Contributors](/textbook/students/index)",
     metadata: {
   sourceFile: "index.md",
-  compiledAt: "2025-10-23T22:23:11.583Z",
+  compiledAt: "2025-11-07T21:05:57.275Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16628,10 +16628,10 @@ export const compiledFiles = {
     contentType: 'textbook',
   },
   'students/f25/stephen-r-foster.md': {
-    module: "Hi!  I'm Stephen.  I am taking this course in Fall 2025.\r\n\r\nAs required, I'm posting my midterm here:\r\n\r\n{{YouTube:https://youtu.be/M-cTHtTI1bo}}",
+    module: "Hi!  I'm Stephen.  I am taking this course in Fall 2025.\r\n\r\nAs required, I'm posting my midterm here!\r\n\r\n{{YouTube:https://youtu.be/M-cTHtTI1bo timestamps:[\"0:00\", \"1:25\", \"1:58\", \"3:21\", \"5:42\", \"9:37\"]}}",
     metadata: {
   sourceFile: "students/f25/stephen-r-foster.md",
-  compiledAt: "2025-10-23T22:23:11.584Z",
+  compiledAt: "2025-11-07T21:05:57.275Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16642,7 +16642,7 @@ export const compiledFiles = {
     module: "\r\n- [Stephen R. Foster](/cis-110/#/textbook/students/f25/stephen-r-foster) ",
     metadata: {
   sourceFile: "students/index.md",
-  compiledAt: "2025-10-23T22:23:11.585Z",
+  compiledAt: "2025-11-07T21:05:57.275Z",
   type: 'markdown',
   contentType: "textbook"
 },
@@ -16679,7 +16679,7 @@ export const stats = {
   totalFiles: 507,
   yamlFiles: 75,
   markdownFiles: 432,
-  compiledAt: '2025-10-23T22:23:11.724Z'
+  compiledAt: '2025-11-07T21:05:57.288Z'
 };
 
 console.log('📚 Compiled content loaded:', stats);
