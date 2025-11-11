@@ -15,13 +15,16 @@
   }
 }
 
+/* Loading & Error States */
 .textbook-page.loading,
 .textbook-page.error {
   text-align: center;
   color: var(--text-secondary);
 }
 
-/* Textbook Header */
+/* ===========================
+   Textbook Header
+   =========================== */
 .textbook-header {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
@@ -47,7 +50,9 @@
   text-transform: capitalize;
 }
 
-/* Textbook Content */
+/* ===========================
+   Textbook Content
+   =========================== */
 .textbook-content {
   line-height: 1.7;
   color: var(--text-primary);
@@ -55,7 +60,6 @@
   box-sizing: border-box;
 }
 
-/* Ensure consistent width for all content elements */
 .textbook-content > * {
   max-width: 100%;
   box-sizing: border-box;
@@ -84,17 +88,6 @@
 
 .textbook-content p {
   margin-bottom: 1rem;
-  color: var(--text-primary);
-}
-
-.textbook-content ul,
-.textbook-content ol {
-  margin-bottom: 1rem;
-  padding-left: 2rem;
-}
-
-.textbook-content li {
-  margin-bottom: 0.5rem;
   color: var(--text-primary);
 }
 
@@ -166,7 +159,6 @@
   font-weight: 600;
 }
 
-/* Iframe Styling */
 .textbook-content iframe {
   max-width: 100%;
   margin: 1rem 0;
@@ -174,20 +166,58 @@
   border: 1px solid var(--border-color);
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
-  .textbook-page {
-    padding: 1rem;
-  }
-  
-  .textbook-content ul,
-  .textbook-content ol {
-    padding-left: 1.5rem;
-  }
-  
-  /* Make iframe responsive on mobile */
-  .textbook-content iframe {
-    width: 100%;
-    height: 200px; /* Smaller height for mobile */
-  }
+/* ===========================
+   Checklists / Task Lists
+   =========================== */
+
+/* Make Markdown checkboxes visible */
+.textbook-content li.task-list-item {
+  display: flex;           /* checkbox and text in a row */
+  align-items: center;     /* vertical align */
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+/* Style the real checkbox */
+.textbook-content li.task-list-item input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;      /* space between box and text */
+  accent-color: #4CAF50;  /* green check mark */
+  cursor: default;         /* non-interactive */
+  pointer-events: none;    /* prevents clicking */
+}
+
+.textbook-content li.task-list-item input[type="checkbox"] {
+  width: 25px;
+  height: 25px;
+  margin-right: 12px;
+  accent-color: #28a745;   /* bright green check */
+  border: 2px solid #28a745; /* green border */
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  cursor: default;
+  pointer-events: none;
+}
+
+/* Strike-through completed tasks */
+.textbook-content li.task-list-item input[type="checkbox"]:checked + span {
+  text-decoration: line-through;
+  color: #555;
+}
+
+/* Hover effect for list items */
+.textbook-content li.task-list-item:hover {
+  background-color: rgba(0, 0, 0, 0.02);
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+/* Nested lists inside task lists */
+.textbook-content li.task-list-item ul,
+.textbook-content li.task-list-item ol {
+  padding-left: 1.5rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }

@@ -1,3 +1,4 @@
+import remarkGfm from 'remark-gfm';
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
@@ -137,6 +138,7 @@ function renderContentWithComponents(content, textbookPath) {
       parts.push(
         <ReactMarkdown 
           key={`md-${parts.length}`}
+          remarkPlugins={[remarkGfm]}
           rehypePlugins={[rehypeRaw]}
           components={{
             a: (props) => <TextbookLink {...props} currentPath={textbookPath} />
@@ -195,6 +197,7 @@ function renderContentWithComponents(content, textbookPath) {
     parts.push(
       <ReactMarkdown 
         key={`md-${parts.length}`}
+        remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}
         components={{
           a: (props) => <TextbookLink {...props} currentPath={textbookPath} />
@@ -210,6 +213,7 @@ function renderContentWithComponents(content, textbookPath) {
   return parts.length > 0 ? parts : [
     <ReactMarkdown 
       key="default"
+      remarkPlugins={[remarkGfm]}
       rehypePlugins={[rehypeRaw]}
       components={{
         a: (props) => <TextbookLink {...props} currentPath={textbookPath} />
