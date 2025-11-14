@@ -1,0 +1,38 @@
+id: 8
+question: "Explain what single sign on is"
+answer: "Single Sign-On or SSO is a user authentication service that lets users access multiple applications or systems with a single set of login credentials. By eliminating the need to remember and manage separate usernames and passwords for each service, SSO improves user convenience, reduces password fatigue, and enhances security through centralized identity management (sources tech target)."
+
+answer_kindergarten: "🔐SSO is like having one magic key.Instead of carrying a bunch of keys to open all the doors in your house, you just have one key that opens every door. So you only have to remember one thing to get into all the places you need."
+
+answer_3rd_grade: "🧩 SSO lets you use one username and password to get into lots of different websites or apps. It is like having one special pass that works for all the rides at an amusement park. You do not have to keep showing different tickets—just one pass gets you everywhere.."
+
+answer_7th_grade: "⚖️ Single Sign-On is a way to log in once and then automatically get into other apps without logging in again. Think of it like school: if your student ID badge opens the library, the cafeteria, and the computer lab, you do not need different passes for each place. SSO makes life easier and safer because you do not have to remember many passwords, and the system can protect your identity in one central place"
+
+answer_high_school: "🔬SSO is an authentication system that allows you to access multiple digital services using one set of credentials. Once you sign in to an SSO portal, you're recognized by the other connected apps, so you do not need to log in repeatedly. This reduces password fatigue, lowers the chances of weak or reused passwords, and centralizes security so that organizations can better protect user accounts. "
+
+answer_undergraduate: "🎓Single Sign-On (SSO) is an identity and access management (IAM) mechanism that enables users to authenticate once and subsequently access multiple, independent systems without additional logins. It relies on trust relationships between an identity provider (IdP) and service providers (SPs), often implemented using standards such as SAML, OAuth, or OpenID Connect. SSO improves usability by reducing credential overload and enhances organizational security by centralizing authentication, enforcing stronger login policies, and enabling more consistent identity governance. ."
+
+vocab_answer: 
+  - word: "password complexity"
+    definition: "Use of different character types (letters, numbers, symbols) to make passwords harder to guess"
+  - word: "password reuse"
+    definition: "Using the same password for multiple accounts, creating security vulnerability"
+  - word: "password manager"
+    definition: "Software that generates, stores, and manages unique passwords for different accounts"
+  - word: "brute force attack"
+    definition: "Method of breaking passwords by systematically trying all possible combinations"
+  - word: "entropy"
+    definition: "Measure of randomness and unpredictability in passwords"
+  - word: "credential stuffing"
+    definition: "Attack using breached username/password pairs to access other accounts"
+  - word: "passphrase"
+    definition: "Password consisting of multiple words, often easier to remember than complex character strings"
+  - word: "multi-factor authentication"
+    definition: "Security method requiring multiple forms of verification beyond just passwords"
+
+type: "short_answer"
+points: 5
+difficulty: "beginner"
+learning_objectives:
+  - "Understand password security challenges"
+  - "Recognize trade-offs between security and usability"
