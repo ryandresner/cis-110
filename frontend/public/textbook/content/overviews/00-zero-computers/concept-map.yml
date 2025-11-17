@@ -14,6 +14,7 @@ concept_map:
           - "questions/binary/explain-what-is-binary.yml"
           - "questions/binary/convert-decimal-to-binary.yml"
           - "questions/binary/convert-binary-to-decimal.yml"
+          - "questions/binary/add-two-binary-numbers.yml"
       - name: "Binary ↔ Electromagnetism"
         exam_questions:
           - "questions/electricity/explain-electricity-binary-relationship.yml"
