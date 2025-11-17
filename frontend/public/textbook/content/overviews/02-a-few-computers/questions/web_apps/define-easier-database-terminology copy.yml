@@ -1,0 +1,31 @@
+id: 10
+question: "Define basic database terminology: records, rows, columns, and tables"
+answer: "Database terminology describes how information is organized: A **table** is like a spreadsheet that stores related data (e.g., customer information). A **row** (also called a record) contains all the information about one item (e.g., one customer's complete details). A **column** represents one type of information across all rows (e.g., all customer names). A **record** is another term for a row - it's a complete set of related data. For example, in a customer table: each row/record represents one customer, and columns/fields include name, email, phone number, and address."
+
+answer_kindergarten: "🧸 Think of a database like a big chart with boxes! A **table** is the whole chart (like a chart of all your classmates). A **row** goes sideways and has all the information about one person (like everything about Emma: her name, age, favorite color). A **column** goes up and down and has the same type of information for everyone (like everyone's names in one column). It's like organizing your toy collection in a big grid!"
+
+answer_3rd_grade: "📚 Database words are like parts of a big organized list: **Table** = The whole list (like a class roster), **Row** = One line across with all info about one thing (like 'Emma, age 8, likes blue, lives on Main St'), **Column** = One category going down (like all the names, or all the ages), **Record** = Same as a row - all the info about one person or thing. It's like making a chart about your friends where each row is one friend and each column is something about them!"
+
+answer_7th_grade: "🤔 Database structure terms: **Table** = A collection of related data organized like a spreadsheet (e.g., 'Students' table), **Row/Record** = A horizontal entry containing all data about one item (e.g., one student's complete information), **Column/Field** = A vertical category containing one type of data for all records (e.g., 'Student Name' column), **Record** = Complete set of data about one entity (same as row). Example: In a music table, each row is one song, with columns for title, artist, genre, and duration."
+
+answer_high_school: "🎓 Database terminology defines relational structure: **Table** = Entity set with defined schema containing related data (e.g., Users, Products, Orders), **Row/Record/Tuple** = Individual instance of an entity with specific attribute values, **Column/Field/Attribute** = Property or characteristic of the entity with defined data type and constraints, **Record** = Complete tuple representing one entity instance. Tables follow normalization rules to eliminate redundancy, with primary keys uniquely identifying records and foreign keys establishing relationships between tables."
+
+answer_undergraduate: "🧠 Relational database terminology from Codd's relational model: **Relation/Table** = Set of tuples with identical attribute schemas, representing entity types in the domain model, **Tuple/Row** = Ordered set of attribute values conforming to the relation schema, representing entity instances, **Attribute/Column** = Named domain with data type constraints, functional dependencies, and cardinality restrictions, **Record** = Physical storage representation of logical tuples with potential denormalization for performance optimization. Advanced concepts include composite keys, referential integrity constraints, and ACID transaction properties maintaining data consistency across concurrent operations."
+vocab_answer: 
+  - word: "table"
+    definition: "Collection of related data organized in rows and columns"
+  - word: "row"
+    definition: "Horizontal line of data representing one complete item or record"
+  - word: "column"
+    definition: "Vertical line of data representing one type of information"
+  - word: "record"
+    definition: "Complete set of related data about one item (same as row)"
+  - word: "field"
+    definition: "One piece of information in a database (same as column)"
+type: "short_answer"
+points: 5
+difficulty: "beginner"
+learning_objectives:
+  - "Define database structure terminology"
+  - "Understand data organization concepts"
+  - "Distinguish between rows, columns, records, and fields"
