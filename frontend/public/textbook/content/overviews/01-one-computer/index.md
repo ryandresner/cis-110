@@ -256,8 +256,5 @@ These videos provide deeper insights into the fundamental components and concept
 {{YouTube:https://www.youtube.com/watch?v=Axd50ew4pco}}
 
 {{YouTube:https://www.youtube.com/watch?v=_Pqfjer8-O4}}
-<<<<<<< HEAD
-=======
 
 [Back to Top (opens in new tab)](#/textbook/content/overviews/01-one-computer)
->>>>>>> 0c15f5e8145166c4282fc196857e0456eceda554

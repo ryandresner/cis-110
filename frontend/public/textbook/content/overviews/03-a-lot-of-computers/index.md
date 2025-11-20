@@ -23,13 +23,7 @@ Nevertheless, you can find textual answers below, and there are many bonus video
 
 > Note: If any such videos/diagrams turn out to be exemplary, I'll embed them here (with the creator's permission).
 
-<<<<<<< HEAD
-Here is an example of a diagram one student drew explaining a firewall.
-
-{{YouTube:https://youtu.be/pKywUoYGp4I}}
-=======
 [Back to Top (opens in new tab)](#/textbook/content/overviews/03-a-lot-of-computers)
->>>>>>> 0c15f5e8145166c4282fc196857e0456eceda554
 
 ## Main Content
 

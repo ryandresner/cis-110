@@ -6,11 +6,7 @@ answer_kindergarten: "🧸 HTML tags are like labels that tell the computer what
 
 answer_3rd_grade: "📚 HTML tags are like instructions that tell the computer how to organize a webpage! Here are 5 common ones: 1) <h1> creates big headings for titles, 2) <p> makes paragraphs of regular text, 3) <a> creates clickable links that take you to other websites, 4) <img> shows pictures on the page, and 5) <ul> and <li> make bulleted lists. It's like using different tools to build different parts of your webpage house!"
 
-<<<<<<< HEAD
-answer_7th_grade: "🤔 Here are 5 essential HTML tags: 1) <h1> creates main headings (there are also h2, h3, etc. for smaller headings), 2) <p> defines paragraphs of text with automatic spacing, 3) <a href='url'> creates clickable links to other pages or websites, 4) <img src='filename'> displays images (note: it's self-closing), 5) <ul> and <li> create bulleted lists where ul contains the whole list and li defines each item. These tags structure most webpage content."
-=======
 answer_7th_grade: "🤔 Here are 5 essential HTML tags: 1) ** <h1> ** creates main headings (there are also h2, h3, etc. for smaller headings), 2) ** <p> ** defines paragraphs of text with automatic spacing, 3) **<a href='url'>** creates clickable links to other pages or websites, 4) **<img src='filename'>** displays images (note: it's self-closing), 5) **<ul>** and **<li>** create bulleted lists where ul contains the whole list and li defines each item. These tags structure most webpage content."
->>>>>>> pr-12
 
 answer_high_school: "🎓 Five fundamental HTML elements: 1) <h1>-<h6> create semantic heading hierarchy for document structure and SEO, 2) <p> defines paragraph blocks with default margin spacing, 3) <a href='destination'> creates hyperlinks with attributes like target='_blank' for new windows, 4) <img src='path' alt='description'> embeds images with required alt text for accessibility, 5) <ul>/<li> structure unordered lists (vs <ol> for ordered). Modern HTML emphasizes semantic meaning over presentation, with CSS handling visual styling."
 
