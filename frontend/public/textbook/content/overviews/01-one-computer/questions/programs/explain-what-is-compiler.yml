@@ -4,7 +4,7 @@ answer: "A compiler is a special program that translates source code written in 
 
 answer_kindergarten: "🧸 A compiler is like a super smart translator! You write your ideas in words the computer can almost understand, and the compiler changes them into the secret language (1s and 0s) that the computer really understands. It's like having a friend who speaks both English and computer language help you talk to your computer!"
 
-answer_3rd_grade: "📚 Think of a compiler like a translator at the United Nations. You write your program in a language like Python or Java (that's easier for people to understand), and the compiler translates it into machine code (the 1s and 0s that computers understand). Just like how a translator helps people who speak different languages talk to each other, a compiler helps you talk to the computer!"
+answer_3rd_grade: "📚 Think of a compiler like a translator for machine code. You write your program in a language like Python or Java (that's easier for people to understand), and the compiler translates it into machine code (the 1s and 0s that computers understand). Just like how a translator helps people who speak different languages talk to each other, a compiler helps you talk to the computer!"
 
 answer_7th_grade: "🤔 A compiler is a program that takes source code written in programming languages like C++ or Java and converts it entirely into machine code (binary) before your program runs. It's like translating a whole book from English to Spanish before anyone reads it. The compiler also checks for errors and optimizes your code to run faster. Once compiled, the resulting executable file can run directly on the computer without needing the original source code."
 
