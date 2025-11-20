@@ -126,6 +126,7 @@ Files represent the fundamental way computers organize and store information. Un
 - **Naming Schemes**: Consistent patterns that make files easy to find and sort
 - **Backup Strategies**: Protecting important data through redundancy and version control
 - **Cleanup Practices**: Regular maintenance to remove unnecessary files and organize growing collections
+- **Metadata**: Optional data embedded within a file which provides additional, useful information to the user and the OS
 
 The file system creates the illusion of neatly organized folders and documents, while actually managing the complex task of storing and retrieving data on physical storage devices.
 
