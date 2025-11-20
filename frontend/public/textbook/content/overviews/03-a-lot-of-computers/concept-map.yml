@@ -32,3 +32,4 @@ concept_map:
           - "questions/cybersecurity/explain-zero-day-exploit.yml"
           - "questions/cybersecurity/explain-spoofing.yml"
           - "questions/cybersecurity/explain-social-engineering.yml"
+          - "questions/cybersecurity/explain-malware-types.yml"
