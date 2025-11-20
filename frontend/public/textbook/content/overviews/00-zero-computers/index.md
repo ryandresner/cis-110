@@ -54,7 +54,7 @@ Almost anything humans can see, hear, think about, or interact with can be repre
 
 For example, a color can be described by how much red, green, and blue light it contains. A sound can be captured by measuring air pressure thousands of times per second. Text can be encoded by assigning each letter a unique number. 
 
-This numerical representation is crucial because once we have numbers, we can store them, transmit them, and manipulate them using mathematical operations.  Learning to answer following questions will help deepen your understanding of this essential idea.  
+This numerical representation is crucial because once we have numbers, we can store them, transmit them, and manipulate them using mathematical operations.  Learning to answer the following questions will help deepen your understanding of this essential idea.  
 
 {{ExamQuestions:concept-map.yml concept_filter:"Information ↔ Numbers"}}
 

@@ -1,3 +1,4 @@
 - [Stephen R. Foster](/cis-110/#/textbook/students/f25/stephen-r-foster) 
 - [Taylor S. Jackman](/cis-110/#/textbook/students/f25/taylor-s-jackman)
 - [Xadrian Brumley](/cis-110/#/textbook/students/f25/xadrian-brumley) 
+- [Payton T. Lohre](/cis-110/#/textbook/students/f25/payton-t-lohre)

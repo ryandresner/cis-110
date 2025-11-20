@@ -2,10 +2,10 @@
 
 ## Overview
 
-* **Browsers** - Understanding how web browsers work as the primary interface between users and the internet
-* **Networks** - Learning about the infrastructure that connects computers and enables global communication
-* **Cloud Computing** - Exploring how distributed computing resources are accessed and managed over the internet
-* **Web Apps** - Examining the architecture and functionality of modern web-based applications
+* **Browsers** - Understanding how web browsers work as the primary interface between users and the internet.
+* **Networks** - Learning about the infrastructure that connects computers and enables global communication.
+* **Cloud Computing** - Exploring how distributed computing resources are accessed and managed over the internet.
+* **Web Apps** - Examining the architecture and functionality of modern web-based applications.
 
 ## Pre-Test
 
