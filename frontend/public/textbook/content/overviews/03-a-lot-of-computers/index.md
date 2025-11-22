@@ -30,7 +30,7 @@ The following sections cover each of the topics and provide multiple acceptable 
 
 ### Conflict
 
-When millions of computers connect billions of people, new forms of conflict emerge that humanity has never faced before. These digital conflicts range from legal disputes over intellectual property to harmful social behaviors that can affect real lives.
+When millions of computers connect billions of people around the world, new forms of conflict emerge that humanity has never faced before. These digital conflicts can range from legal disputes over intellectual property to harmful social behaviors such as cyberbullying that can affect real lives outside of the digital world.
 
 **Digital Copyright Challenges:**
 - **Content Creation vs. Sharing**: The ease of copying digital content creates tension between creators' rights and users' sharing habits
