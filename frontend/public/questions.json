@@ -135,6 +135,14 @@
     "answer": "Abstracts hardware, schedules processes/threads, manages memory, filesystems, I/O, security (auth, permissions), networking, and provides APIs.",
     "type": "short-answer"
   },
+    {
+    "id": "ch3-5",
+    "chapter": 3,
+    "chapterTitle": "Operating Systems Programs That Run Prog",
+    "question": "Explain what Markdown Language is and what is is useful for",
+    "answer": "Markdown is a Lightweight markup language that is easy to read by humans even without rendering. It is mostly used for documents only having the capacity to change and hold basic formatting changes such as **Bolding**",
+    "type": "short-answer"
+  },
   {
     "id": "ch3-3",
     "chapter": 3,
