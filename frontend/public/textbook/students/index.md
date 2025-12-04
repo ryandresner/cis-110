@@ -13,3 +13,4 @@
 - [Taylor S Jackman](/cis-110/#/textbook/students/f25/taylor-s-jackman)
 - [Xadrian Brumley](/cis-110/#/textbook/students/f25/xadrian-brumley)
 - [Ethan Strenge](/cis-110/#/textbook/students/f25/ethan-strenge) 
+- [Seth Stiles](/cis-110/#/textbook/students/f25/Seth-Stiles) 
