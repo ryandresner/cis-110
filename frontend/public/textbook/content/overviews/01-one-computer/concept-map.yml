@@ -16,7 +16,6 @@ concept_map:
           - "questions/os/explain-role-of-operating-system.yml"
           - "questions/os/explain-multitasking-vs-multiprocessing.yml"
           - "questions/os/explain-os-hardware-software-integration.yml"
-          - "questions/os/explain-role-of-command-line-interface.yml"
       - name: "Files"
         exam_questions:
           - "questions/files/discuss-file-naming-conventions.yml"

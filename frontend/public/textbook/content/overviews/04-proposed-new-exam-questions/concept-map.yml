@@ -9,3 +9,4 @@ concept_map:
           - "questions/discuss-pros-cons-password-manager.yml"
           - "questions/explain-malware-types.yml"
           - "questions/explain-what-single-sign-on-is.yml"
+          - "questions/explain-role-of-command-line-interface.yml"

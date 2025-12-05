@@ -1,0 +1,3 @@
+id: 5
+question: "Explain the role of the command line interface"
+answer: "The command line interface (sometimes referred to as the shell) serves as a way for the user to communicate with the operating system. It does this by providing a text interface when the user can enter commands that allow them to do many things, like manipulating files, changing permissions, downloading software, resource monitoring and virtually anything that can be done on a modern computer."
