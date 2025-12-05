@@ -12,7 +12,7 @@ My Assignments so far:
 - [x] Coding Contribution 1
 - [x] Coding Contribution 2
 - [x] Coding Contribution 3
-- [ ] Coding Contribution 3
+- [x] Coding Contribution 4
 - [ ] Final Exam
 
 As required, I'm posting my midterm *here!*

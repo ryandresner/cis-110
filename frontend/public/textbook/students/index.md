@@ -12,4 +12,4 @@
 - [Stephen R Foster](/cis-110/#/textbook/students/f25/stephen-r-foster)
 - [Taylor S Jackman](/cis-110/#/textbook/students/f25/taylor-s-jackman)
 - [Xadrian Brumley](/cis-110/#/textbook/students/f25/xadrian-brumley)
-- [Ethan Strenge](/cis-110/#/textbook/students/f25/ethan-strenge) 
+- [Ethan Strenge](/cis-110/#/textbook/students/f25/ethan-strenge)
