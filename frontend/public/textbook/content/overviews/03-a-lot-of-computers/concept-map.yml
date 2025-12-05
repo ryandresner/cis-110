@@ -31,4 +31,3 @@ concept_map:
           - "questions/cybersecurity/explain-zero-day-exploit.yml"
           - "questions/cybersecurity/explain-spoofing.yml"
           - "questions/cybersecurity/explain-social-engineering.yml"
-          - "questions/cybersecurity/identify-four-reasons-why-a-bad-actor-would-want-to-hack-a-computer-or-system.yml"
