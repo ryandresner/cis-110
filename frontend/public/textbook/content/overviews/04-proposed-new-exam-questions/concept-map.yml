@@ -10,3 +10,4 @@ concept_map:
           - "questions/explain-malware-types.yml"
           - "questions/explain-what-single-sign-on-is.yml"
           - "questions/identify-four-reasons-why-a-bad-actor-would-want-to-hack-a-computer-or-system.yml"
+          - "questions/explain-role-of-command-line-interface.yml"
