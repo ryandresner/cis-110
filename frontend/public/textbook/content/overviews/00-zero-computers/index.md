@@ -58,7 +58,6 @@ For example, a color can be described by how much red, green, and blue light it 
 
 This numerical representation is crucial because once we have numbers, we can store them, transmit them, and manipulate them using mathematical operations.  Learning to answer the following questions will help deepen your understanding of this essential idea.  
 
-
 {{ExamQuestions:concept-map.yml concept_filter:"Information ↔ Numbers"}}
 
 ### Numbers ↔ Binary
