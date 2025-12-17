@@ -15,4 +15,4 @@ export { default as resourceCache } from './services/resourceCache.js';
 
 // Utils
 export { getAssetUrl, getBasePath } from './utils/paths.js';
-export { getBustParam } from './utils/cacheBuster.js';
+export { getCacheBuster, getDailyCacheBuster, getTimestampCacheBuster } from './utils/cacheBuster.js';
