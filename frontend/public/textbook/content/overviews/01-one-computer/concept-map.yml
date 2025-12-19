@@ -5,7 +5,6 @@ concept_map:
         exam_questions:
           - "questions/hardware/discuss-storage-technology-strengths.yml"
           - "questions/hardware/explain-ipo-model.yml"
-          - "questions/hardware/trace-data-flow-through-system.yml"
           - "questions/hardware/explain-ram-vs-rom.yml"
           - "questions/hardware/explain-io-devices.yml"
           - "questions/hardware/explain-how-processor-works.yml"
