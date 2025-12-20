@@ -1,5 +1,5 @@
 id: 12
-question: "Explain what device drivers are, why they're necessary, and how they enable hardware-software communication"
+question: "Explain what device drivers are, why they're necessary"
 answer: "Device drivers are specialized software programs that act as translators between the operating system and specific hardware components. They're necessary because different hardware manufacturers use different communication protocols, electrical signals, and data formats. Device drivers abstract these differences by providing a standardized interface that the operating system can use to communicate with any hardware device. When software needs to use hardware (like printing a document), it sends a request to the operating system, which forwards it to the appropriate device driver. The driver then translates this request into the specific commands that the hardware understands, handles the low-level communication, and returns any results back through the same chain. This layered architecture allows the same operating system to work with thousands of different hardware devices without needing to understand the unique details of each one."
 vocab_answer: 
   - word: "device drivers"
