@@ -139,3 +139,5 @@ vocab_undergraduate:
   - word: "Byzantine fault tolerance"
     definition: "System resilience against arbitrary failures including malicious behavior"
 topics: ["logical storage", "physical storage", "file systems", "storage abstraction", "data organization"]
+example_videos:
+  - "https://www.youtube.com/watch?v=eUP6cl5cbiA"

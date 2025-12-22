@@ -183,3 +183,5 @@ vocab_undergraduate:
   - word: "zero-copy techniques"
     definition: "Methods for transferring data between components without creating duplicate copies in memory"
 topics: ["device drivers", "hardware-software interface", "operating systems", "system programming"]
+example_videos:
+  - "https://www.youtube.com/watch?v=2GQQkkxfhhY"

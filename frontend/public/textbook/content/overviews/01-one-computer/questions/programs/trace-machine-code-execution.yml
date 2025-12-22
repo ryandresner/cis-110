@@ -34,4 +34,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Trace execution of simple machine code"
   - "Understand CPU register operations"
-  - "Connect machine instructions to hardware behavior"
+  - "Connect machine instructions to hardware behavior"example_videos:
+  - "https://www.youtube.com/watch?v=DIOSlmh3Iw8"

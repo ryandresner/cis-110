@@ -40,4 +40,5 @@ points: 5
 difficulty: "beginner"
 learning_objectives:
   - "Understand the stages of cyber attacks"
-  - "Recognize how attackers gain and maintain unauthorized access"
+  - "Recognize how attackers gain and maintain unauthorized access"example_videos:
+  - "https://www.youtube.com/watch?v=LDHBTc6uF0c"

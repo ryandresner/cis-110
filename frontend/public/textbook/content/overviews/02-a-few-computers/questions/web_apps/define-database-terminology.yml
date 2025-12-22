@@ -27,4 +27,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Define database structure terminology"
   - "Understand data organization concepts"
-  - "Distinguish between rows, columns, records, and fields"
+  - "Distinguish between rows, columns, records, and fields"example_videos:
+  - "https://www.youtube.com/watch?v=yThppUyYnrs"

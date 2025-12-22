@@ -1,0 +1,258 @@
+YouTube Video to Question File Mappings
+==========================================
+
+1. What is Binary, and why?
+   Video: https://www.youtube.com/watch?v=bI2fGjs-rY4
+   Question: 00-zero-computers/questions/binary/explain-what-is-binary.yml
+
+2. Decimal to Binary
+   Video: https://www.youtube.com/watch?v=dkxmoj7-enQ
+   Question: 00-zero-computers/questions/binary/convert-decimal-to-binary.yml
+
+3. Electricity and Binary
+   Video: https://www.youtube.com/watch?v=Ojai7ugnWWg
+   Question: 00-zero-computers/questions/electricity/explain-electricity-binary-relationship.yml
+
+4. Magnetic Fields and Binary
+   Video: https://www.youtube.com/watch?v=XvAuHaZpybc
+   Question: 00-zero-computers/questions/electricity/explain-magnetic-storage.yml
+
+5. Transistors
+   Video: https://www.youtube.com/watch?v=gOIA1kTUGHc
+   Question: 00-zero-computers/questions/electricity/explain-transistors.yml
+
+6. Coordinate Encoding
+   Video: https://www.youtube.com/watch?v=Hk2XDEhtjlo
+   Question: 00-zero-computers/questions/data_information/explain-coordinate-encoding.yml
+
+7. Color encoding
+   Video: https://www.youtube.com/watch?v=xsL4-p4nphE
+   Question: 00-zero-computers/questions/data_information/explain-color-encoding.yml
+
+8. Image encoding
+   Video: https://www.youtube.com/watch?v=Dky4yYZ5kZk
+   Question: 00-zero-computers/questions/data_information/explain-image-encoding.yml
+
+9. Video encoding
+   Video: https://www.youtube.com/watch?v=aKpPGUV26Fg
+   Question: 00-zero-computers/questions/data_information/explain-video-encoding.yml
+
+10. Letter and word encoding
+    Video: https://www.youtube.com/watch?v=cRmHOR2coSs
+    Question: 00-zero-computers/questions/data_information/explain-text-encoding-binary.yml
+
+11. CPU vs GPU
+    Video: https://www.youtube.com/watch?v=tMRmA9KAoes
+    Question: 01-one-computer/questions/hardware/explain-cpu-vs-gpu.yml
+
+12. Device drivers
+    Video: https://www.youtube.com/watch?v=2GQQkkxfhhY
+    Question: 01-one-computer/questions/os/explain-device-drivers.yml
+
+13. I/O devices
+    Video: https://www.youtube.com/watch?v=maMzxB_BWis
+    Question: 01-one-computer/questions/hardware/explain-io-devices.yml
+
+14. IPO model
+    Video: https://www.youtube.com/watch?v=dyTRaXg1BW4
+    Question: 01-one-computer/questions/hardware/explain-ipo-model.yml
+
+15. Multitasking
+    Video: https://www.youtube.com/watch?v=XaM-A9s7NE4
+    Question: 01-one-computer/questions/os/explain-multitasking-vs-multiprocessing.yml
+
+16. OS Role
+    Video: https://www.youtube.com/watch?v=Vpt5ePZulL0
+    Question: 01-one-computer/questions/os/explain-role-of-operating-system.yml
+
+17. Processor
+    Video: https://www.youtube.com/watch?v=UkLY00AKwv0
+    Question: 01-one-computer/questions/hardware/explain-how-processor-works.yml
+
+18. RAM vs ROM
+    Video: https://www.youtube.com/watch?v=fCWAywQq1Q8
+    Question: 01-one-computer/questions/hardware/explain-ram-vs-rom.yml
+
+19. File names
+    Video: https://www.youtube.com/watch?v=GzBJ3YwSp_M
+    Question: 01-one-computer/questions/files/discuss-file-naming-conventions.yml
+
+20. Absolute / Relative paths
+    Video: https://www.youtube.com/watch?v=kqVuPup5nGs
+    Question: 01-one-computer/questions/files/explain-absolute-vs-relative-paths.yml
+
+21. Logical / Physical
+    Video: https://www.youtube.com/watch?v=eUP6cl5cbiA
+    Question: 01-one-computer/questions/files/explain-logical-vs-physical-storage.yml
+
+22. File Org
+    Video: https://www.youtube.com/watch?v=d3FnRE_2qWE
+    Question: 01-one-computer/questions/files/design-efficient-file-organization.yml
+
+23. Stored program concept
+    Video: https://www.youtube.com/watch?v=JM7pL1_dPgA
+    Question: 01-one-computer/questions/programs/describe-stored-program-concept.yml
+
+24. Compiler / Interpreter
+    Video: https://www.youtube.com/watch?v=QHY9KXWlb2k
+    Question: 01-one-computer/questions/programs/compare-compiler-interpreter.yml
+
+25. Assembly trace
+    Video: https://www.youtube.com/watch?v=DIOSlmh3Iw8
+    Question: 01-one-computer/questions/programs/trace-machine-code-execution.yml
+
+26. Programming steps
+    Video: https://www.youtube.com/watch?v=T5e4o-LmMrk
+    Question: 01-one-computer/questions/programs/explain-programming-process.yml
+
+27. Storage comparison
+    Video: https://www.youtube.com/watch?v=UZ2R3C9jiHw
+    Question: 01-one-computer/questions/hardware/discuss-storage-technology-strengths.yml
+
+28. Browser
+    Video: https://www.youtube.com/watch?v=M2AewFQCg34
+    Question: 02-a-few-computers/questions/browsers/explain-web-browser-purpose.yml
+
+29. Caching, history, privacy
+    Video: https://www.youtube.com/watch?v=JbGylndmjLM
+    Question: 02-a-few-computers/questions/browsers/explain-browser-caching-history-privacy.yml
+
+30. HTTP/HTTPS
+    Video: https://www.youtube.com/watch?v=DQmM_nh1Htg
+    Question: 02-a-few-computers/questions/browsers/explain-http-https.yml
+
+31. Cookies
+    Video: https://www.youtube.com/watch?v=U0j4safVaX8
+    Question: 02-a-few-computers/questions/browsers/explain-web-cookies.yml
+
+32. HTML
+    Video: https://www.youtube.com/watch?v=eGmItTME5Bg
+    Question: 02-a-few-computers/questions/browsers/explain-html.yml
+
+33. HTML Tags
+    Video: https://www.youtube.com/watch?v=gj8iuwDas0s
+    Question: 02-a-few-computers/questions/browsers/list-common-html-tags.yml
+
+34. CSS
+    Video: https://www.youtube.com/watch?v=lGbpwuwPPxg
+    Question: 02-a-few-computers/questions/browsers/explain-css.yml
+
+35. WWW
+    Video: https://www.youtube.com/watch?v=Reoh38GgbsI
+    Question: 02-a-few-computers/questions/networks/explain-internet-vs-web.yml
+
+36. IP Address
+    Video: https://www.youtube.com/watch?v=gcvxgLuPmJ8
+    Question: 02-a-few-computers/questions/networks/explain-ip-address-importance.yml
+
+37. URL behind scenes
+    Video: https://www.youtube.com/watch?v=K5JD21l-FCI
+    Question: 02-a-few-computers/questions/networks/explain-url-behind-scenes.yml
+
+38. Browser, server, db
+    Video: https://www.youtube.com/watch?v=sAlAtyvAzGI
+    Question: 02-a-few-computers/questions/web_apps/explain-browser-webserver-database-interaction.yml
+
+39. Web app vs desktop app
+    Video: https://www.youtube.com/watch?v=X2qjKfCaaZI
+    Question: 02-a-few-computers/questions/web_apps/explain-web-vs-desktop-apps.yml
+
+40. Web app examples
+    Video: https://www.youtube.com/watch?v=2a4DeExTQQ0
+    Question: 02-a-few-computers/questions/web_apps/identify-useful-web-applications.yml
+
+41. DB Definition
+    Video: https://www.youtube.com/watch?v=dZv-DqILgTc
+    Question: 02-a-few-computers/questions/web_apps/explain-what-is-database.yml
+
+42. DB terms
+    Video: https://www.youtube.com/watch?v=yThppUyYnrs
+    Question: 02-a-few-computers/questions/web_apps/define-database-terminology.yml
+
+43. Cloud benefits
+    Video: https://www.youtube.com/watch?v=KAiMpYQSI20
+    Question: 02-a-few-computers/questions/the_cloud/explain-cloud-computing-benefits.yml
+
+44. Cloud services examples
+    Video: https://www.youtube.com/watch?v=IHfTE_Qrf4A
+    Question: 02-a-few-computers/questions/the_cloud/identify-cloud-service-examples.yml
+
+45. Copyright
+    Video: https://www.youtube.com/watch?v=w5qAVqjUuU0
+    Question: 03-a-lot-of-computers/questions/connected_society/list-copyright-holder-rights.yml
+
+46. Fair use
+    Video: https://www.youtube.com/watch?v=5KTWoznriOs
+    Question: 03-a-lot-of-computers/questions/connected_society/list-fair-use-factors.yml
+
+47. AI and trust
+    Video: https://www.youtube.com/watch?v=GFBWxDn1it4
+    Question: 03-a-lot-of-computers/questions/connected_society/discuss-ai-generated-content-impact.yml
+
+48. AI and information
+    Video: https://www.youtube.com/watch?v=53sioPO7xGs
+    Question: 03-a-lot-of-computers/questions/connected_society/discuss-ai-algorithm-information-shaping.yml
+
+49. 6 degrees
+    Video: https://www.youtube.com/watch?v=pKVphamL_lU
+    Question: 03-a-lot-of-computers/questions/connected_society/explain-six-degrees-separation.yml
+
+50. Wikipedia
+    Video: https://www.youtube.com/watch?v=tYSEzuQc-IY
+    Question: 03-a-lot-of-computers/questions/connected_society/explain-wikipedia-editing.yml
+
+51. Pull requests
+    Video: https://www.youtube.com/watch?v=PxEcV7DjLs0
+    Question: 03-a-lot-of-computers/questions/connected_society/explain-pull-request.yml
+
+52. Encryption
+    Video: https://www.youtube.com/watch?v=iTMjfM6LqmM
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-encryption.yml
+
+53. 2FA
+    Video: https://www.youtube.com/watch?v=_fNl50ebGWo
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-two-factor-authentication.yml
+
+54. Passwords
+    Video: https://www.youtube.com/watch?v=0mKodnduSV4
+    Question: 03-a-lot-of-computers/questions/cybersecurity/discuss-strong-password-issues.yml
+
+55. Firewall
+    Video: https://www.youtube.com/watch?v=63TrM4Co8oY
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-firewall-role.yml
+
+56. Malware
+    Video: https://www.youtube.com/watch?v=FC2lxPwSOnY
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-malware.yml
+
+57. Rootkit
+    Video: https://www.youtube.com/watch?v=hB92g6lLgio
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-rootkit.yml
+
+58. Malware Exploits
+    Video: https://www.youtube.com/watch?v=b2xxiuY408Y
+    Question: 03-a-lot-of-computers/questions/cybersecurity/identify-malware-exploits.yml
+
+59. Online intrusion
+    Video: https://www.youtube.com/watch?v=LDHBTc6uF0c
+    Question: 03-a-lot-of-computers/questions/cybersecurity/describe-online-intrusion.yml
+
+60. Zero Day
+    Video: https://www.youtube.com/watch?v=Snglq6-bzu4
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-zero-day-exploit.yml
+
+61. Spoofing
+    Video: https://www.youtube.com/watch?v=l5jEq_AD9wA
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-spoofing.yml
+
+62. Social engineering
+    Video: https://www.youtube.com/watch?v=fTQ_UZKQlPY
+    Question: 03-a-lot-of-computers/questions/cybersecurity/explain-social-engineering.yml
+
+63. JavaScript
+    Video: https://www.youtube.com/watch?v=t0Boy1lWVyc
+    Question: 02-a-few-computers/questions/browsers/explain-javascript-role.yml
+
+64. Assembly Language
+    Video: https://www.youtube.com/watch?v=in-_2HVckyA
+    Question: 01-one-computer/questions/programs/explain-assembly-language.yml

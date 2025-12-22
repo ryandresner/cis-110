@@ -123,3 +123,5 @@ vocab_undergraduate:
   - word: "SPARQL-queryable databases"
     definition: "Data stores that can be searched using SPARQL query language for semantic information retrieval"
 topics: ["file naming", "file extensions", "file organization", "metadata", "file systems"]
+example_videos:
+  - "https://www.youtube.com/watch?v=GzBJ3YwSp_M"

@@ -28,4 +28,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand HTML's role in web development"
   - "Define markup language concepts"
-  - "Recognize HTML as webpage foundation"
+  - "Recognize HTML as webpage foundation"example_videos:
+  - "https://www.youtube.com/watch?v=eGmItTME5Bg"

@@ -35,4 +35,5 @@ points: 5
 difficulty: "beginner"
 learning_objectives:
   - "Understand advanced malware concealment techniques"
-  - "Recognize sophisticated threats to system security"
+  - "Recognize sophisticated threats to system security"example_videos:
+  - "https://www.youtube.com/watch?v=hB92g6lLgio"

@@ -153,3 +153,5 @@ vocab_undergraduate:
   - word: "thread contention"
     definition: "Performance degradation when multiple threads compete for shared resources"
 topics: ["multitasking", "multiprocessing", "multithreading", "concurrency", "parallel computing"]
+example_videos:
+  - "https://www.youtube.com/watch?v=XaM-A9s7NE4"

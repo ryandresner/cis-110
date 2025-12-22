@@ -25,4 +25,5 @@ points: 5
 difficulty: "beginner"
 learning_objectives:
   - "Understand the concept of social connectivity"
-  - "Recognize how digital networks reflect social connections"
+  - "Recognize how digital networks reflect social connections"example_videos:
+  - "https://www.youtube.com/watch?v=pKVphamL_lU"

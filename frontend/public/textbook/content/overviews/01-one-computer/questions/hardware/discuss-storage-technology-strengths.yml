@@ -137,3 +137,5 @@ vocab_undergraduate:
   - word: "dynamic over-provisioning"
     definition: "Real-time allocation of spare storage capacity based on wear patterns and performance requirements"
 topics: ["storage technology", "magnetic storage", "optical storage", "solid-state storage", "performance trade-offs"]
+example_videos:
+  - "https://www.youtube.com/watch?v=UZ2R3C9jiHw"

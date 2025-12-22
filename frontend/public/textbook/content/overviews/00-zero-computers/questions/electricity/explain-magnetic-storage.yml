@@ -95,4 +95,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand magnetic data storage"
   - "Connect magnetism to binary representation"
-  - "Distinguish between temporary and permanent storage"
+  - "Distinguish between temporary and permanent storage"example_videos:
+  - "https://www.youtube.com/watch?v=XvAuHaZpybc"

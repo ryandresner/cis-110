@@ -24,4 +24,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand the complete programming workflow"
   - "Recognize the role of different software tools"
-  - "Connect programming concepts to execution"
+  - "Connect programming concepts to execution"example_videos:
+  - "https://www.youtube.com/watch?v=T5e4o-LmMrk"

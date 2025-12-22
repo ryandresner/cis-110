@@ -37,4 +37,5 @@ points: 5
 difficulty: "beginner"
 learning_objectives:
   - "Understand deceptive communication techniques"
-  - "Recognize methods used to hide attacker identity"
+  - "Recognize methods used to hide attacker identity"example_videos:
+  - "https://www.youtube.com/watch?v=l5jEq_AD9wA"

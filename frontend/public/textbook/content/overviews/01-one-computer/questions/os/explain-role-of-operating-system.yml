@@ -171,3 +171,5 @@ vocab_undergraduate:
   - word: "quantum-resistant cryptography"
     definition: "Encryption methods secure against potential quantum computer attacks"
 topics: ["operating systems", "system management", "resource allocation", "kernel architecture", "system services"]
+example_videos:
+  - "https://www.youtube.com/watch?v=Vpt5ePZulL0"

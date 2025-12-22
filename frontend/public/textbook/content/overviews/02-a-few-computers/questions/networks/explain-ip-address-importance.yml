@@ -25,4 +25,5 @@ points: 5
 difficulty: "beginner"
 learning_objectives:
   - "Understand the purpose of IP addresses"
-  - "Recognize the role of addressing in network communication"
+  - "Recognize the role of addressing in network communication"example_videos:
+  - "https://www.youtube.com/watch?v=gcvxgLuPmJ8"

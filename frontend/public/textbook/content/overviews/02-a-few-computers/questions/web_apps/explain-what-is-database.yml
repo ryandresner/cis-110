@@ -28,4 +28,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand the purpose of databases"
   - "Recognize databases as data organization tools"
-  - "Connect databases to web applications"
+  - "Connect databases to web applications"example_videos:
+  - "https://www.youtube.com/watch?v=dZv-DqILgTc"

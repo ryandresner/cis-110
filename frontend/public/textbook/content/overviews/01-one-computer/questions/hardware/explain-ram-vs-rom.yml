@@ -307,4 +307,5 @@ vocab_undergraduate:
   - word: "application execution environments"
     definition: "Runtime systems providing the infrastructure and services needed for program execution"
 topics: ["RAM", "ROM", "memory types", "volatile memory"]
-
+example_videos:
+  - "https://www.youtube.com/watch?v=fCWAywQq1Q8"

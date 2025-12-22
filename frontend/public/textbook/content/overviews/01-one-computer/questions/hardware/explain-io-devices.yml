@@ -385,4 +385,5 @@ vocab_undergraduate:
   - word: "multi-tenant environments"
     definition: "Systems where multiple independent users or applications share infrastructure"
 topics: ["I/O devices", "peripherals", "input", "output"]
-
+example_videos:
+  - "https://www.youtube.com/watch?v=maMzxB_BWis"

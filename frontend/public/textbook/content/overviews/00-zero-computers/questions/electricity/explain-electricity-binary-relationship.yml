@@ -93,4 +93,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Connect electricity to binary representation"
   - "Understand voltage as information storage"
-  - "Relate hardware to data representation"
+  - "Relate hardware to data representation"example_videos:
+  - "https://www.youtube.com/watch?v=Ojai7ugnWWg"

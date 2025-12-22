@@ -28,4 +28,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Compare compilation and interpretation approaches"
   - "Understand trade-offs between speed and flexibility"
-  - "Recognize different program execution models"
+  - "Recognize different program execution models"example_videos:
+  - "https://www.youtube.com/watch?v=QHY9KXWlb2k"

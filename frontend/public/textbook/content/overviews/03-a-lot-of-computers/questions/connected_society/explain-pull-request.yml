@@ -91,4 +91,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand collaborative software development practices"
   - "Learn about distributed version control workflows"
-  - "Recognize the importance of code review in software quality"
+  - "Recognize the importance of code review in software quality"example_videos:
+  - "https://www.youtube.com/watch?v=PxEcV7DjLs0"

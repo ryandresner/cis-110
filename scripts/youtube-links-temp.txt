@@ -1,0 +1,188 @@
+Found 62 YouTube videos in CIS 110 folder:
+
+1. What is Binary, and why? - YouTube
+   https://www.youtube.com/watch?v=bI2fGjs-rY4
+
+2. Decimal to Binary - YouTube
+   https://www.youtube.com/watch?v=dkxmoj7-enQ
+
+3. Electricity and Binary - YouTube
+   https://www.youtube.com/watch?v=Ojai7ugnWWg
+
+4. Magnetic Fields and Binary - YouTube
+   https://www.youtube.com/watch?v=XvAuHaZpybc
+
+5. Transistors - YouTube
+   https://www.youtube.com/watch?v=gOIA1kTUGHc
+
+6. Coordinate Encoding - YouTube
+   https://www.youtube.com/watch?v=Hk2XDEhtjlo
+
+7. Color encoding - YouTube
+   https://www.youtube.com/watch?v=xsL4-p4nphE
+
+8. Image encoding - YouTube
+   https://www.youtube.com/watch?v=Dky4yYZ5kZk
+
+9. Video encoding - YouTube
+   https://www.youtube.com/watch?v=aKpPGUV26Fg
+
+10. Letter and word encoding - YouTube
+   https://www.youtube.com/watch?v=cRmHOR2coSs
+
+11. CPU vs GPU - YouTube
+   https://www.youtube.com/watch?v=tMRmA9KAoes
+
+12. Device drivers - YouTube
+   https://www.youtube.com/watch?v=2GQQkkxfhhY
+
+13. I/O devices - YouTube
+   https://www.youtube.com/watch?v=maMzxB_BWis
+
+14. IPO model - YouTube
+   https://www.youtube.com/watch?v=dyTRaXg1BW4
+
+15. Multitasking - YouTube
+   https://www.youtube.com/watch?v=XaM-A9s7NE4
+
+16. OS Role - YouTube
+   https://www.youtube.com/watch?v=Vpt5ePZulL0
+
+17. Processor - YouTube
+   https://www.youtube.com/watch?v=UkLY00AKwv0
+
+18. RAM vs ROM - YouTube
+   https://www.youtube.com/watch?v=fCWAywQq1Q8
+
+19. File names - YouTube
+   https://www.youtube.com/watch?v=GzBJ3YwSp_M
+
+20. Absolute / Relative paths - YouTube
+   https://www.youtube.com/watch?v=kqVuPup5nGs
+
+21. Logical / Physical - YouTube
+   https://www.youtube.com/watch?v=eUP6cl5cbiA
+
+22. File Org - YouTube
+   https://www.youtube.com/watch?v=d3FnRE_2qWE
+
+23. Stored program concept - YouTube
+   https://www.youtube.com/watch?v=JM7pL1_dPgA
+
+24. Compiler / Interpreter - YouTube
+   https://www.youtube.com/watch?v=QHY9KXWlb2k
+
+25. Assembly trace - YouTube
+   https://www.youtube.com/watch?v=DIOSlmh3Iw8
+
+26. Programming steps - YouTube
+   https://www.youtube.com/watch?v=T5e4o-LmMrk
+
+27. Storage comparison - YouTube
+   https://www.youtube.com/watch?v=UZ2R3C9jiHw
+
+28. Browser - YouTube
+   https://www.youtube.com/watch?v=M2AewFQCg34
+
+29. Caching, history, privacy - YouTube
+   https://www.youtube.com/watch?v=JbGylndmjLM
+
+30. HTTP/HTTPS - YouTube
+   https://www.youtube.com/watch?v=DQmM_nh1Htg
+
+31. Cookies - YouTube
+   https://www.youtube.com/watch?v=U0j4safVaX8
+
+32. HTML - YouTube
+   https://www.youtube.com/watch?v=eGmItTME5Bg
+
+33. HTML Tags - YouTube
+   https://www.youtube.com/watch?v=gj8iuwDas0s
+
+34. CSS - YouTube
+   https://www.youtube.com/watch?v=lGbpwuwPPxg
+
+35. WWW - YouTube
+   https://www.youtube.com/watch?v=Reoh38GgbsI
+
+36. IP Address - YouTube
+   https://www.youtube.com/watch?v=gcvxgLuPmJ8
+
+37. URL behind scenes - YouTube
+   https://www.youtube.com/watch?v=K5JD21l-FCI
+
+38. Browser, server, db - YouTube
+   https://www.youtube.com/watch?v=sAlAtyvAzGI
+
+39. Web app vs desktop app - YouTube
+   https://www.youtube.com/watch?v=X2qjKfCaaZI
+
+40. Web app examples - YouTube
+   https://www.youtube.com/watch?v=2a4DeExTQQ0
+
+41. DB Definition - YouTube
+   https://www.youtube.com/watch?v=dZv-DqILgTc
+
+42. DB terms - YouTube
+   https://www.youtube.com/watch?v=yThppUyYnrs
+
+43. Cloud benefits - YouTube
+   https://www.youtube.com/watch?v=KAiMpYQSI20
+
+44. Cloud services examples - YouTube
+   https://www.youtube.com/watch?v=IHfTE_Qrf4A
+
+45. Copyright - YouTube
+   https://www.youtube.com/watch?v=w5qAVqjUuU0
+
+46. Fair use - YouTube
+   https://www.youtube.com/watch?v=5KTWoznriOs
+
+47. AI and trust - YouTube
+   https://www.youtube.com/watch?v=GFBWxDn1it4
+
+48. AI and information - YouTube
+   https://www.youtube.com/watch?v=53sioPO7xGs
+
+49. 6 degrees - YouTube
+   https://www.youtube.com/watch?v=pKVphamL_lU
+
+50. Wikipedia - YouTube
+   https://www.youtube.com/watch?v=tYSEzuQc-IY
+
+51. Pull requests - YouTube
+   https://www.youtube.com/watch?v=PxEcV7DjLs0
+
+52. Encryption - YouTube
+   https://www.youtube.com/watch?v=iTMjfM6LqmM
+
+53. 2FA - YouTube
+   https://www.youtube.com/watch?v=_fNl50ebGWo
+
+54. Passwords - YouTube
+   https://www.youtube.com/watch?v=0mKodnduSV4
+
+55. Firewall - YouTube
+   https://www.youtube.com/watch?v=63TrM4Co8oY
+
+56. Malware - YouTube
+   https://www.youtube.com/watch?v=FC2lxPwSOnY
+
+57. Rootkit - YouTube
+   https://www.youtube.com/watch?v=hB92g6lLgio
+
+58. Malware Exploits - YouTube
+   https://www.youtube.com/watch?v=b2xxiuY408Y
+
+59. Online intrusion - YouTube
+   https://www.youtube.com/watch?v=LDHBTc6uF0c
+
+60. Zero Day - YouTube
+   https://www.youtube.com/watch?v=Snglq6-bzu4
+
+61. Spoofing - YouTube
+   https://www.youtube.com/watch?v=l5jEq_AD9wA
+
+62. Social engineering - YouTube
+   https://www.youtube.com/watch?v=fTQ_UZKQlPY
+

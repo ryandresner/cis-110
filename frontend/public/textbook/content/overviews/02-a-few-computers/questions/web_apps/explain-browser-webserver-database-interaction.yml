@@ -28,4 +28,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand web application architecture"
   - "Explain component interactions in web systems"
-  - "Trace the flow of information in web applications"
+  - "Trace the flow of information in web applications"example_videos:
+  - "https://www.youtube.com/watch?v=sAlAtyvAzGI"

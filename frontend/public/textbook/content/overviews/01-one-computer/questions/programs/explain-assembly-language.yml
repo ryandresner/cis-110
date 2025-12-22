@@ -30,4 +30,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand assembly language as machine code abstraction"
   - "Recognize the relationship between assembly and machine code"
-  - "Identify use cases for low-level programming"
+  - "Identify use cases for low-level programming"example_videos:
+  - "https://www.youtube.com/watch?v=in-_2HVckyA"

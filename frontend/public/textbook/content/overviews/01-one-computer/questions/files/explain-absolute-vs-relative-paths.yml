@@ -125,3 +125,5 @@ vocab_undergraduate:
   - word: "containerized execution environments"
     definition: "Isolated runtime contexts where applications run with restricted system access"
 topics: ["file paths", "directory navigation", "file systems", "path resolution", "relative addressing"]
+example_videos:
+  - "https://www.youtube.com/watch?v=kqVuPup5nGs"

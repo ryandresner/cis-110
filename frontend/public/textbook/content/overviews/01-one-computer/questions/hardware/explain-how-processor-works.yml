@@ -261,4 +261,5 @@ vocab_undergraduate:
   - word: "multi-core configurations"
     definition: "Processor designs incorporating multiple independent execution cores on a single chip"
 topics: ["CPU", "fetch-decode-execute", "processor operation"]
-
+example_videos:
+  - "https://www.youtube.com/watch?v=UkLY00AKwv0"

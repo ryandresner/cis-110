@@ -28,4 +28,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand web cookie functionality"
   - "Distinguish between cookie types"
-  - "Recognize privacy implications of cookies"
+  - "Recognize privacy implications of cookies"example_videos:
+  - "https://www.youtube.com/watch?v=U0j4safVaX8"

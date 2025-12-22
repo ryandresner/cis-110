@@ -28,4 +28,5 @@ difficulty: "beginner"
 learning_objectives:
   - "Understand the architectural differences between CPUs and GPUs"
   - "Recognize when parallel vs sequential processing is most effective"
-  - "Identify appropriate use cases for CPU vs GPU computing"
+  - "Identify appropriate use cases for CPU vs GPU computing"example_videos:
+  - "https://www.youtube.com/watch?v=tMRmA9KAoes"

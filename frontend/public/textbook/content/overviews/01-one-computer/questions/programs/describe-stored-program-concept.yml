@@ -193,4 +193,5 @@ vocab_undergraduate:
   - word: "software industry"
     definition: "The economic sector dedicated to developing, maintaining, and distributing computer programs and services"
 topics: ["stored program concept", "computer architecture", "flexibility"]
-
+example_videos:
+  - "https://www.youtube.com/watch?v=JM7pL1_dPgA"
