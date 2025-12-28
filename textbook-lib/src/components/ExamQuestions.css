@@ -25,6 +25,17 @@
   line-height: 1.6;
 }
 
+.question-item ul,
+.question-item ol {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+
+.question-item li {
+  margin-bottom: 0.5rem;
+}
+
 /* Answer Styling */
 .question-item .answer {
   background: var(--background-color, #ffffff);

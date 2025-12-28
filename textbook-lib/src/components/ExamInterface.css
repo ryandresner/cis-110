@@ -141,6 +141,18 @@
   margin-bottom: 0;
 }
 
+/* List styling within questions */
+.question-text ul,
+.question-text ol {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+
+.question-text li {
+  margin-bottom: 0.5rem;
+}
+
 /* Code block styling within questions */
 .question-text pre {
   background: #f8f9fa;
