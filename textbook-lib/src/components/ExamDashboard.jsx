@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './ExamDashboard.css';
 
-function ExamDashboard({ questions, onStartExam }) {
-  const [percentage, setPercentage] = useState(50);
+function ExamDashboard({ questions, onStartExam, courseTitle = "Course Exam" }) {
+  const [percentage, setPercentage] = useState(100);
   const [sortQuestions, setSortQuestions] = useState(true);
   const [showAnswerToggle, setShowAnswerToggle] = useState(true);
   
@@ -17,9 +17,10 @@ function ExamDashboard({ questions, onStartExam }) {
       const chapterQuestions = questions.filter(q => q.chapter === chapter);
       const selectedCount = Math.ceil(chapterQuestions.length * (percentage / 100));
       
-      // Shuffle and take the specified percentage
-      const shuffled = [...chapterQuestions].sort(() => Math.random() - 0.5);
-      const selected = shuffled.slice(0, selectedCount);
+      // If sorted mode, take first N questions in order; otherwise shuffle
+      const selected = sortQuestions
+        ? chapterQuestions.slice(0, selectedCount)
+        : [...chapterQuestions].sort(() => Math.random() - 0.5).slice(0, selectedCount);
       
       examQuestions.push(...selected);
     });
@@ -49,7 +50,7 @@ function ExamDashboard({ questions, onStartExam }) {
   return (
     <div className="exam-dashboard-simple">
       <div className="exam-overview">
-        <h2>CIS110: Information Systems Foundations</h2>
+        <h2>{courseTitle}</h2>
         
         <div className="exam-controls">
           <div className="control-group">

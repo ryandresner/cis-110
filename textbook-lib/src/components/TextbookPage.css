@@ -91,6 +91,17 @@
   color: var(--text-primary);
 }
 
+.textbook-content ul,
+.textbook-content ol {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+
+.textbook-content li {
+  margin-bottom: 0.5rem;
+}
+
 .textbook-content a {
   color: var(--primary-color);
   text-decoration: none;

@@ -1,8 +1,8 @@
 import * as yaml from 'js-yaml';
 import compiledContentService from './compiledContentService';
 
-// Define all concept map paths
-const CONCEPT_MAP_PATHS = [
+// Default concept map paths (for backward compatibility with CIS-110)
+const DEFAULT_CONCEPT_MAP_PATHS = [
   'content/overviews/00-zero-computers/concept-map.yml',
   'content/overviews/01-one-computer/concept-map.yml',
   'content/overviews/02-a-few-computers/concept-map.yml',
@@ -11,13 +11,25 @@ const CONCEPT_MAP_PATHS = [
 
 // Helper function to extract chapter number from path
 const getChapterNumber = (path) => {
-  const match = path.match(/(\d+)-/);
+  // Try CS-333 format: chapter-01, chapter-02, etc.
+  let match = path.match(/chapter-(\d+)/);
+  if (match) {
+    return parseInt(match[1]);
+  }
+  // Try CIS-110 format: 00-zero-computers, 01-one-computer, etc.
+  match = path.match(/(\d+)-/);
   return match ? parseInt(match[1]) : 0;
 };
 
 // Helper function to get chapter title from path
 const getChapterTitle = (path) => {
-  const match = path.match(/\d+-(.*?)\/concept-map\.yml$/);
+  // Try CS-333 format: chapter-01, chapter-02
+  let match = path.match(/chapter-(\d+)/);
+  if (match) {
+    return `Chapter ${parseInt(match[1])}`;
+  }
+  // Try CIS-110 format: 00-zero-computers
+  match = path.match(/\d+-(.*?)\/concept-map\.yml$/);
   if (match) {
     return match[1].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
   }
@@ -25,10 +37,10 @@ const getChapterTitle = (path) => {
 };
 
 // Load all questions from concept map files
-export const loadAllQuestions = async () => {
+export const loadAllQuestions = async (conceptMapPaths = DEFAULT_CONCEPT_MAP_PATHS) => {
   const allQuestions = [];
   
-  for (const conceptMapPath of CONCEPT_MAP_PATHS) {
+  for (const conceptMapPath of conceptMapPaths) {
     try {
       console.log('Loading concept map:', conceptMapPath);
       
@@ -98,6 +110,6 @@ export const loadAllQuestions = async () => {
     return a.order - b.order;
   });
   
-  console.log(`Loaded ${allQuestions.length} questions from ${CONCEPT_MAP_PATHS.length} concept maps`);
+  console.log(`Loaded ${allQuestions.length} questions from ${conceptMapPaths.length} concept maps`);
   return allQuestions;
 };

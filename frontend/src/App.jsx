@@ -88,6 +88,7 @@ function AppContent() {
               <ExamDashboard 
                 questions={questions} 
                 onStartExam={startExam}
+                courseTitle="CIS110: Information Systems Foundations"
               />
             )
           } />

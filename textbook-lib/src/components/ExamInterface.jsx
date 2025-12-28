@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import DrawingCanvas from './DrawingCanvas';
 import YouTube from './YouTube';
 import './ExamInterface.css';
@@ -24,6 +26,27 @@ function ExamInterface({ questions, settings, onEndExam }) {
   useEffect(() => {
     setQuestionStartTime(Date.now());
   }, [currentQuestionIndex]);
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      // Don't navigate if user is typing in textarea or any input
+      if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') {
+        return;
+      }
+
+      if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        goToNextQuestion();
+      } else if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        goToPreviousQuestion();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [currentQuestionIndex, questions.length]);
 
   const currentQuestion = questions[currentQuestionIndex];
   const isLastQuestion = currentQuestionIndex === questions.length - 1;
@@ -115,7 +138,11 @@ function ExamInterface({ questions, settings, onEndExam }) {
                 <div className="question-header">
                   <h4>Question {index + 1} (Chapter {question.chapter})</h4>
                 </div>
-                <p className="question-text">{question.question}</p>
+                <div className="question-text">
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {question.question}
+                  </ReactMarkdown>
+                </div>
                 <div className="answer-comparison">
                   <div className="user-answer">
                     <strong>Your Answer:</strong>
@@ -136,7 +163,9 @@ function ExamInterface({ questions, settings, onEndExam }) {
                   </div>
                   <div className="correct-answer">
                     <strong>Model Answer:</strong>
-                    <p>{question.answer}</p>
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                      {question.answer}
+                    </ReactMarkdown>
                   </div>
                 </div>
                 {userAnswer && (
@@ -176,7 +205,6 @@ function ExamInterface({ questions, settings, onEndExam }) {
       <div className="question-section">
         <div className="question-meta">
           <span className="chapter-tag">Chapter {currentQuestion.chapter}</span>
-          <span className="question-type">{currentQuestion.type}</span>
           {settings?.showAnswerToggle && (
             <button 
               onClick={() => setShowAnswer(!showAnswer)}
@@ -187,12 +215,18 @@ function ExamInterface({ questions, settings, onEndExam }) {
           )}
         </div>
         
-        <h2 className="question-text">{currentQuestion.question}</h2>
+        <div className="question-text">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            {currentQuestion.question}
+          </ReactMarkdown>
+        </div>
 
         {settings?.showAnswerToggle && showAnswer && (
           <div className="answer-reveal">
             <strong>Answer:</strong>
-            <p>{currentQuestion.answer}</p>
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+              {currentQuestion.answer}
+            </ReactMarkdown>
             
             {currentQuestion.example_videos && currentQuestion.example_videos.length > 0 && (
               <div className="answer-videos">

@@ -97,8 +97,8 @@
   font-size: 0.8rem;
   font-weight: 500;
   border: 1px solid var(--primary-color);
-  background: transparent;
-  color: var(--primary-color);
+  background: white;
+  color: #000000;
   cursor: pointer;
   transition: all 0.2s ease;
   margin-left: auto;
@@ -132,12 +132,70 @@
   color: var(--text-primary);
 }
 
+/* Markdown paragraph spacing */
+.question-text p {
+  margin-bottom: 1.5em;
+}
+
+.question-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* Code block styling within questions */
+.question-text pre {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1em 0;
+}
+
+.question-text code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.9em;
+}
+
+.question-text pre code {
+  background: none;
+  padding: 0;
+}
+
 .answer-reveal {
   background: #f0fdf4;
   border-left: 4px solid var(--success-color);
   border-radius: var(--border-radius);
   padding: 1rem;
   margin-bottom: 1.5rem;
+}
+
+/* Markdown paragraph spacing in answers */
+.answer-reveal p {
+  margin-bottom: 1.5em;
+}
+
+.answer-reveal p:last-child {
+  margin-bottom: 0;
+}
+
+/* Code block styling within answers */
+.answer-reveal pre {
+  background: #ffffff;
+  border: 1px solid #d1fae5;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1em 0;
+}
+
+.answer-reveal code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.9em;
+}
+
+.answer-reveal pre code {
+  background: none;
+  padding: 0;
 }
 
 .answer-reveal strong {
@@ -191,8 +249,8 @@
 .mode-btn {
   padding: 0.5rem 1.5rem;
   border: 2px solid var(--primary-color);
-  background: var(--surface-color);
-  color: var(--primary-color);
+  background: white;
+  color: #000000;
   border-radius: var(--border-radius);
   cursor: pointer;
   font-weight: 500;
@@ -225,7 +283,7 @@
   padding: 0.5rem 1rem;
   border: 2px solid var(--primary-color);
   background: white;
-  color: var(--primary-color);
+  color: #000000;
   border-radius: var(--border-radius);
   cursor: pointer;
   font-size: 0.9rem;
