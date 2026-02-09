@@ -1,0 +1,72 @@
+.protip {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  margin: 20px 0;
+  border-radius: 8px;
+  border-left: 4px solid;
+  background-color: var(--protip-bg, #f8f9fa);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.protip-icon {
+  font-size: 24px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.protip-content {
+  flex: 1;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.protip-content p:first-child {
+  margin-top: 0;
+}
+
+.protip-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Different types */
+.protip-tip {
+  border-left-color: #17a2b8;
+  background-color: #d1ecf1;
+  color: #0c5460;
+}
+
+.protip-warning {
+  border-left-color: #ffc107;
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.protip-info {
+  border-left-color: #007bff;
+  background-color: #d1ecf1;
+  color: #004085;
+}
+
+.protip-success {
+  border-left-color: #28a745;
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.protip-note {
+  border-left-color: #6c757d;
+  background-color: #e2e3e5;
+  color: #383d41;
+}
+
+.protip-professor {
+  border-left-color: #764ba2;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.protip-professor .protip-icon {
+  font-size: 28px;
+}

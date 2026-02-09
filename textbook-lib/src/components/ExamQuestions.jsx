@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import * as yaml from 'js-yaml';
 import { getAssetUrl } from '../utils/paths';
 import compiledContentService from '../services/compiledContentService';
@@ -86,14 +88,49 @@ const processAnswerText = (text, vocabList) => {
   });
 };
 
-function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
+// Function to render markdown content with vocabulary highlighting
+const renderMarkdownWithVocab = (text, vocabList) => {
+  if (!text) return null;
+  
+  // Process vocabulary words in the text
+  const processedContent = processAnswerText(text, vocabList);
+  
+  // If no vocab processing happened, render markdown normally
+  if (typeof processedContent === 'string') {
+    return (
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        {processedContent}
+      </ReactMarkdown>
+    );
+  }
+  
+  // If vocab words were processed, wrap in a div
+  return <div>{processedContent}</div>;
+};
+
+function ExamQuestions({ 
+  yamlPath, 
+  currentPath, 
+  concept_filter, 
+  question_filter,
+  title,                        // Optional title to display above questions
+  showAnswers = true,           // Show/hide main answers
+  showVideos = true,            // Show/hide example videos section
+  showAnswerLevels = true,      // Show/hide additional answer level accordions
+  answersOpenByDefault = true,  // Whether main answers are visible by default
+  videosOpenByDefault = false,  // Whether video accordions are open by default
+  answerLevelsOpenByDefault = false, // Whether answer level accordions are open by default
+  maxVideos = null              // Maximum number of videos to show (null = show all)
+}) {
   // ExamQuestions component now loads questions from concept-map.yml files
   // It extracts all unique question file paths from the concept map structure
   // and loads each individual question file, then displays them sorted by ID
+  // question_filter can be used to show only a specific question by its ID
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [expandedAnswers, setExpandedAnswers] = useState({});
+  const [expandedMainAnswers, setExpandedMainAnswers] = useState({});
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -102,6 +139,7 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
         console.log('ExamQuestions: yamlPath =', yamlPath);
         console.log('ExamQuestions: currentPath =', currentPath);
         console.log('ExamQuestions: concept_filter =', concept_filter);
+        console.log('ExamQuestions: question_filter =', question_filter);
         
         // Construct the full path to the concept-map.yml file
         // Handle both relative paths (from sub-pages) and absolute paths (from big-picture.md)
@@ -195,8 +233,55 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
         
         const questions = await Promise.all(questionPromises);
         
+        // Apply question_filter if provided to show only specific question(s) by ID
+        let filteredQuestions = questions;
+        if (question_filter) {
+          console.log('ExamQuestions: Applying question_filter:', question_filter);
+          filteredQuestions = questions.filter(q => q.id === question_filter);
+          console.log('ExamQuestions: Filtered questions:', filteredQuestions);
+        }
+        
         // Questions are already in concept map order, no need to sort
-        setQuestions(questions);
+        setQuestions(filteredQuestions);
+        
+        // Initialize expanded states based on default props
+        if (videosOpenByDefault || answerLevelsOpenByDefault || !answersOpenByDefault) {
+          const initialExpanded = {};
+          const initialMainAnswers = {};
+          filteredQuestions.forEach((q, idx) => {
+            const questionId = q.id || idx;
+            
+            // Set videos expanded state
+            if (videosOpenByDefault && q.example_videos?.length > 0) {
+              initialExpanded[`${questionId}-videos`] = true;
+            }
+            
+            // Set answer levels expanded state
+            if (answerLevelsOpenByDefault) {
+              ADDITIONAL_ANSWER_LEVELS.forEach(({ key }) => {
+                if (q[key]) {
+                  initialExpanded[`${questionId}-${key}`] = true;
+                }
+              });
+            }
+            
+            // Set main answer expanded state
+            if (!answersOpenByDefault) {
+              initialMainAnswers[questionId] = false;
+            } else {
+              initialMainAnswers[questionId] = true;
+            }
+          });
+          setExpandedAnswers(initialExpanded);
+          setExpandedMainAnswers(initialMainAnswers);
+        } else {
+          // Default: all main answers visible, accordions closed
+          const initialMainAnswers = {};
+          filteredQuestions.forEach((q, idx) => {
+            initialMainAnswers[q.id || idx] = true;
+          });
+          setExpandedMainAnswers(initialMainAnswers);
+        }
       } catch (err) {
         setError(err.message);
       } finally {
@@ -207,7 +292,7 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
     if (yamlPath) {
       fetchQuestions();
     }
-  }, [yamlPath, currentPath]);
+  }, [yamlPath, currentPath, question_filter, videosOpenByDefault, answerLevelsOpenByDefault, answersOpenByDefault]);
 
   if (loading) {
     return <div>Loading questions...</div>;
@@ -216,6 +301,14 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
   if (error) {
     return <div>Error loading questions: {error}</div>;
   }
+
+  // Toggle main answer visibility
+  const toggleMainAnswer = (questionId) => {
+    setExpandedMainAnswers(prev => ({
+      ...prev,
+      [questionId]: !prev[questionId]
+    }));
+  };
 
   // Toggle accordion expansion
   const toggleAnswer = (questionId, answerKey) => {
@@ -237,37 +330,70 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
 
   return (
     <div className="exam-questions">
-      {questions.map((q, index) => (
-        <div key={q.id || index} className="question-item">
-          <h3>{q.question}</h3> 
-          
-          {/* Main answer - always shown (no accordion) */}
-          {q.answer && (
-            <div className="answer main-answer">
-              <p>{processAnswerText(q.answer, q.vocab_answer)}</p>
+      {title && (
+        <h3 className="exam-questions-title">{title}</h3>
+      )}
+      {questions.map((q, index) => {
+        const questionId = q.id || index;
+        const isMainAnswerExpanded = expandedMainAnswers[questionId] ?? answersOpenByDefault;
+        
+        return (
+          <div key={questionId} className="question-item">
+            <div className="question-text">
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                {q.question}
+              </ReactMarkdown>
             </div>
-          )}
-          
-          {/* Example videos button - shown above answer levels */}
-          {q.example_videos && q.example_videos.length > 0 && (
+            
+            {/* Main answer - can be shown/hidden and toggled as accordion if needed */}
+            {showAnswers && q.answer && (
+              <div className="main-answer-section">
+                {!answersOpenByDefault && (
+                  <button 
+                    className="accordion-header answer-toggle"
+                    onClick={() => toggleMainAnswer(questionId)}
+                    aria-expanded={isMainAnswerExpanded}
+                  >
+                    <span className="accordion-title">💡 Answer</span>
+                    <span className={`accordion-icon ${isMainAnswerExpanded ? 'expanded' : ''}`}>
+                      ▼
+                    </span>
+                  </button>
+                )}
+                {(answersOpenByDefault || isMainAnswerExpanded) && (
+                  <div className={answersOpenByDefault ? "answer main-answer" : "accordion-content"}>
+                    <div className="answer">
+                      {renderMarkdownWithVocab(q.answer, q.vocab_answer)}
+                    </div>
+                  </div>
+                )}
+              </div>
+            )}
+            
+            {/* Example videos button - shown above answer levels */}
+            {showVideos && q.example_videos && q.example_videos.length > 0 && (
             <div className="example-videos-section">
               <button 
                 className="accordion-header videos-toggle"
-                onClick={() => toggleVideos(q.id || index)}
-                aria-expanded={expandedAnswers[`${q.id || index}-videos`] || false}
+                onClick={() => toggleVideos(questionId)}
+                aria-expanded={expandedAnswers[`${questionId}-videos`] || false}
               >
                 <span className="accordion-title">
                   📺 Example Videos 
-                  <span className="video-count-badge">{q.example_videos.length}</span>
+                  <span className="video-count-badge">
+                    {maxVideos && q.example_videos.length > maxVideos 
+                      ? maxVideos
+                      : q.example_videos.length}
+                  </span>
                 </span>
-                <span className={`accordion-icon ${expandedAnswers[`${q.id || index}-videos`] ? 'expanded' : ''}`}>
+                <span className={`accordion-icon ${expandedAnswers[`${questionId}-videos`] ? 'expanded' : ''}`}>
                   ▼
                 </span>
               </button>
               
-              {expandedAnswers[`${q.id || index}-videos`] && (
+              {expandedAnswers[`${questionId}-videos`] && (
                 <div className="accordion-content videos-content">
-                  {q.example_videos.map((videoUrl, idx) => {
+                  {(maxVideos ? q.example_videos.slice(0, maxVideos) : q.example_videos).map((videoUrl, idx) => {
                     // Extract video ID from YouTube URL
                     const videoId = videoUrl.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/)?.[1];
                     if (videoId) {
@@ -293,6 +419,7 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
           )}
           
           {/* Additional answer levels as accordions */}
+          {showAnswerLevels && (
           <div className="answer-levels">
             {ADDITIONAL_ANSWER_LEVELS.map(({ key, label }) => {
               if (!q[key]) return null; // Skip if this answer level doesn't exist
@@ -321,7 +448,7 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
                   {isExpanded && (
                     <div className="accordion-content">
                       <div className="answer">
-                        <p>{processAnswerText(q[key], vocabList)}</p>
+                        {renderMarkdownWithVocab(q[key], vocabList)}
                       </div>
                     </div>
                   )}
@@ -329,6 +456,7 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
               );
             })}
           </div>
+          )}
           
           {q.topics && q.topics.length > 0 && (
             <div className="topics">
@@ -336,7 +464,8 @@ function ExamQuestions({ yamlPath, currentPath, concept_filter }) {
             </div>
           )}
         </div>
-      ))}
+        );
+      })}
     </div>
   );
 }

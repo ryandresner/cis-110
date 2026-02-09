@@ -1,0 +1,40 @@
+.as-a-professor {
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.professor-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.professor-icon {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.professor-label {
+  letter-spacing: 0.5px;
+}
+
+.professor-content {
+  font-size: 16px;
+  line-height: 1.6;
+  padding-left: 38px;
+}
+
+.professor-content p:first-child {
+  margin-top: 0;
+}
+
+.professor-content p:last-child {
+  margin-bottom: 0;
+}

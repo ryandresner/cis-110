@@ -1,4 +1,6 @@
 import remarkGfm from 'remark-gfm';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
@@ -7,8 +9,12 @@ import ExamQuestions from './ExamQuestions';
 import VocabList from './VocabList';
 import ConceptMap from './ConceptMap';
 import YouTube from './YouTube';
+import ExamBrowser from './ExamBrowser';
+import ProTip from './ProTip';
+import AsAProfessor from './AsAProfessor';
 import { getAssetUrl } from '../utils/paths';
 import compiledContentService from '../services/compiledContentService';
+import 'katex/dist/katex.min.css';
 import './TextbookPage.css';
 
 // Custom link component for internal textbook links
@@ -76,7 +82,7 @@ function renderContentWithComponents(content, textbookPath) {
   console.log('textbookPath:', textbookPath);
   
   // Look for component markers with optional props
-  const combinedRegex = /\{\{(ExamQuestions|VocabList|ConceptMap|YouTube):([^}\s]+)([^}]*)\}\}/g;
+  const combinedRegex = /\{\{(ExamQuestions|VocabList|ConceptMap|YouTube|ExamBrowser|ProTip|AsAProfessor):([^}\s]+)([^}]*)\}\}/g;
   
   const parts = [];
   let lastIndex = 0;
@@ -138,8 +144,8 @@ function renderContentWithComponents(content, textbookPath) {
       parts.push(
         <ReactMarkdown 
           key={`md-${parts.length}`}
-          remarkPlugins={[remarkGfm]}
-          rehypePlugins={[rehypeRaw]}
+          remarkPlugins={[remarkGfm, remarkMath]}
+          rehypePlugins={[rehypeRaw, rehypeKatex]}
           components={{
             a: (props) => <TextbookLink {...props} currentPath={textbookPath} />
           }}
@@ -186,6 +192,32 @@ function renderContentWithComponents(content, textbookPath) {
           {...additionalProps}
         />
       );
+    } else if (componentType === 'ExamBrowser') {
+      parts.push(
+        <ExamBrowser 
+          key={`eb-${parts.length}`}
+          url={fileName}
+          currentPath={textbookPath}
+          {...additionalProps}
+        />
+      );
+    } else if (componentType === 'ProTip') {
+      parts.push(
+        <ProTip 
+          key={`pt-${parts.length}`}
+          type={fileName}
+          {...additionalProps}
+        />
+      );
+    } else if (componentType === 'AsAProfessor') {
+      parts.push(
+        <AsAProfessor 
+          key={`prof-${parts.length}`}
+          {...additionalProps}
+        >
+          {additionalProps.content || fileName}
+        </AsAProfessor>
+      );
     }
     
     lastIndex = match.index + match[0].length;
@@ -197,8 +229,8 @@ function renderContentWithComponents(content, textbookPath) {
     parts.push(
       <ReactMarkdown 
         key={`md-${parts.length}`}
-        remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw]}
+        remarkPlugins={[remarkGfm, remarkMath]}
+        rehypePlugins={[rehypeRaw, rehypeKatex]}
         components={{
           a: (props) => <TextbookLink {...props} currentPath={textbookPath} />
         }}
@@ -213,8 +245,8 @@ function renderContentWithComponents(content, textbookPath) {
   return parts.length > 0 ? parts : [
     <ReactMarkdown 
       key="default"
-      remarkPlugins={[remarkGfm]}
-      rehypePlugins={[rehypeRaw]}
+      remarkPlugins={[remarkGfm, remarkMath]}
+      rehypePlugins={[rehypeRaw, rehypeKatex]}
       components={{
         a: (props) => <TextbookLink {...props} currentPath={textbookPath} />
       }}
@@ -229,33 +261,64 @@ function TextbookPage() {
   const [content, setContent] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [rawContent, setRawContent] = useState(null);
 
   // Default to index if no path provided
   const textbookPath = path || 'index';
+  
+  // Check if this is a static file (like .json, .txt, etc.)
+  const isStaticFile = /\.(json|txt|csv|xml)$/i.test(textbookPath);
 
   useEffect(() => {
-    const fetchMarkdown = async () => {
+    const fetchContent = async () => {
       setLoading(true);
       setError(null);
+      setRawContent(null);
       
       try {
-        let text;
-        
-        // For 'index' path, try index.md directly
-        if (textbookPath === 'index') {
-          text = await compiledContentService.getText('index.md');
-        } else {
-          // Strategy: Try multiple path patterns to handle both folder and direct file links
-          const pathsToTry = [
-            `${textbookPath}.md`,         // For direct file links
-            `${textbookPath}/index.md`    // For folder-style links
-          ];
+        // Handle static files differently
+        if (isStaticFile) {
+          const assetUrl = getAssetUrl(`textbook/${textbookPath}`);
+          console.log('TextbookPage: Fetching static file from:', assetUrl);
+          const response = await fetch(assetUrl);
           
-          const result = await compiledContentService.getTextFromMultiplePaths(pathsToTry);
-          text = result.text;
-        }
+          if (!response.ok) {
+            throw new Error(`Failed to load file: ${response.statusText}`);
+          }
+          
+          const text = await response.text();
+          
+          // Try to parse as JSON for pretty display
+          if (textbookPath.endsWith('.json')) {
+            try {
+              const json = JSON.parse(text);
+              setRawContent({ type: 'json', data: json, text });
+            } catch {
+              setRawContent({ type: 'text', text });
+            }
+          } else {
+            setRawContent({ type: 'text', text });
+          }
+        } else {
+          // Handle markdown files as before
+          let text;
+          
+          // For 'index' path, try index.md directly
+          if (textbookPath === 'index') {
+            text = await compiledContentService.getText('index.md');
+          } else {
+            // Strategy: Try multiple path patterns to handle both folder and direct file links
+            const pathsToTry = [
+              `${textbookPath}.md`,         // For direct file links
+              `${textbookPath}/index.md`    // For folder-style links
+            ];
+            
+            const result = await compiledContentService.getTextFromMultiplePaths(pathsToTry);
+            text = result.text;
+          }
 
-        setContent(text);
+          setContent(text);
+        }
       } catch (err) {
         setError(err.message);
       } finally {
@@ -263,8 +326,8 @@ function TextbookPage() {
       }
     };
 
-    fetchMarkdown();
-  }, [textbookPath]);
+    fetchContent();
+  }, [textbookPath, isStaticFile]);
 
   if (loading) {
     return (
@@ -303,7 +366,32 @@ function TextbookPage() {
       </div>
       
       <div className="textbook-content">
-        {renderContentWithComponents(content, textbookPath)}
+        {rawContent ? (
+          rawContent.type === 'json' ? (
+            <pre style={{ 
+              background: '#f4f4f4', 
+              padding: '1rem', 
+              borderRadius: '4px',
+              overflow: 'auto',
+              maxHeight: '80vh'
+            }}>
+              {JSON.stringify(rawContent.data, null, 2)}
+            </pre>
+          ) : (
+            <pre style={{ 
+              background: '#f4f4f4', 
+              padding: '1rem', 
+              borderRadius: '4px',
+              overflow: 'auto',
+              maxHeight: '80vh',
+              whiteSpace: 'pre-wrap'
+            }}>
+              {rawContent.text}
+            </pre>
+          )
+        ) : (
+          renderContentWithComponents(content, textbookPath)
+        )}
       </div>
     </div>
   );
