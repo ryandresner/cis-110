@@ -8,6 +8,7 @@
 - [Nathaniel J Gregory](/cis-110/#/textbook/students/f25/nathaniel-j-gregory)
 - [Payton T Lohre](/cis-110/#/textbook/students/f25/payton-t-lohre)
 - [Rachael Hart](/cis-110/#/textbook/students/f25/rachael-hart)
+- [Ryan Dresner](/cis-110/#/textbook/students/w26/ryan-n-dresner)
 - [Shaughn R Stang](/cis-110/#/textbook/students/f25/shaughn-r-stang)
 - [Stephen R Foster](/cis-110/#/textbook/students/f25/stephen-r-foster)
 - [Taylor S Jackman](/cis-110/#/textbook/students/f25/taylor-s-jackman)
