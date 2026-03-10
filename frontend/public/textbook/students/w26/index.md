@@ -1,3 +1,4 @@
 - [Jenna Alexander](/cis-110/#/textbook/students/f25/jenna-alexander)
 - [Alex Dalusung](/cis-110/#/textbook/students/w26/Alex-Dalusung)
+- [Harmon Lane](/cis-110/#/textbook/students/w26/hlane)
 - [Wes Rice](/cis-110/#/textbook/students/w26/Wes-Rice)
