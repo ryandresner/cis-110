@@ -4,4 +4,5 @@
 - [Harmon Lane](/cis-110/#/textbook/students/w26/hlane)
 - [Bobby Marrs](/cis-110/#/textbook/students/w26/Bobby-Marrs)
 - [Wes Rice](/cis-110/#/textbook/students/w26/Wes-Rice)
+- [Patricia Stecker](/cis-110/#/textbook/students/w26/Patricia-Stecker)
 - [Cordelia Brown](/cis-110/#/textbook/students/f25/cordelia-b)
