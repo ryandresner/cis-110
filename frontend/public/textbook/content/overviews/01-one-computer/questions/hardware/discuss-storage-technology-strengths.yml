@@ -138,10 +138,6 @@ vocab_undergraduate:
     definition: "Real-time allocation of spare storage capacity based on wear patterns and performance requirements"
 topics: ["storage technology", "magnetic storage", "optical storage", "solid-state storage", "performance trade-offs"]
 example_videos:
-<<<<<<< HEAD
   - "https://www.youtube.com/watch?v=UZ2R3C9jiHw"
   - "https://youtu.be/t7CIRZluQ3o"
-=======
   - "https://youtu.be/WuAbJbqK72Q"
-  - "https://www.youtube.com/watch?v=UZ2R3C9jiHw"
->>>>>>> 556f5e2eeb36e70c884ca6a5a50bfd2b7df69436
